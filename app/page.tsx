@@ -168,7 +168,7 @@ function answer(option: string) {
         </div>
       )}
 
-      {current >= questions.length - 1 && showExplanation && (
+{current >= questions.length - 1 && showExplanation && (
         <div>
           <h3>Review Missed</h3>
           {missed.map((m, i) => (
@@ -182,5 +182,4 @@ function answer(option: string) {
       )}
     </div>
   );
-}
-}
+  }
