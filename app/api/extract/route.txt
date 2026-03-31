@@ -1,0 +1,33 @@
+import pdf from "pdf-parse";
+
+export async function POST(req: Request) {
+  try {
+    const formData = await req.formData();
+    const file = formData.get("file");
+
+    if (!file || !(file instanceof File)) {
+      return Response.json({ error: "No file uploaded." }, { status: 400 });
+    }
+
+    const arrayBuffer = await file.arrayBuffer();
+    const buffer = Buffer.from(arrayBuffer);
+
+    const result = await pdf(buffer);
+    const text = (result.text || "").trim();
+
+    if (!text) {
+      return Response.json(
+        { error: "No readable text found in this PDF." },
+        { status: 400 }
+      );
+    }
+
+    return Response.json({ text });
+  } catch (error) {
+    console.error(error);
+    return Response.json(
+      { error: "Could not extract text from PDF." },
+      { status: 500 }
+    );
+  }
+}

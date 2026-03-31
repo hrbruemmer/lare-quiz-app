@@ -1,0 +1,100 @@
+import OpenAI from "openai";
+
+const client = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+});
+
+function buildPrompt(params: {
+  category: string;
+  questionCount: number;
+  chunks: string[];
+  fileName: string;
+}) {
+  return `You are generating LARE-style multiple-choice study questions.
+
+Return valid JSON only in this shape:
+{
+  "questions": [
+    {
+      "question": "...",
+      "options": ["...", "...", "...", "...", "..."],
+      "answer": "exact option text",
+      "explanation": "...",
+      "category": "...",
+      "sourceSnippet": "..."
+    }
+  ]
+}
+
+Rules:
+- Generate exactly ${params.questionCount} questions
+- Use 5 options when possible
+- Make distractors realistic and exam-like
+- Only use the provided source text
+- Do NOT invent facts
+- Category focus: ${params.category}
+- Source file: ${params.fileName}
+
+Source text:
+${params.chunks.join("\n\n---\n\n")}
+`;
+}
+
+function isValidQuestion(item: any) {
+  return (
+    item &&
+    typeof item.question === "string" &&
+    Array.isArray(item.options) &&
+    item.options.length >= 4 &&
+    typeof item.answer === "string" &&
+    item.options.includes(item.answer)
+  );
+}
+
+export async function POST(req: Request) {
+  try {
+    const body = await req.json();
+    const chunks = body.chunks || [];
+    const questionCount = body.questionCount || 10;
+    const category = body.category || "All";
+    const fileName = body.fileName || "uploaded";
+
+    if (!process.env.OPENAI_API_KEY) {
+      return Response.json({ error: "Missing API key" }, { status: 500 });
+    }
+
+    if (!chunks.length) {
+      return Response.json({ error: "No content provided" }, { status: 400 });
+    }
+
+    const prompt = buildPrompt({
+      category,
+      questionCount,
+      chunks,
+      fileName,
+    });
+
+    const completion = await client.responses.create({
+      model: "gpt-5",
+      input: prompt,
+    });
+
+    const text = completion.output_text;
+
+    let parsed;
+    try {
+      parsed = JSON.parse(text);
+    } catch {
+      return Response.json({ error: "Bad AI response" }, { status: 500 });
+    }
+
+    const questions = Array.isArray(parsed.questions)
+      ? parsed.questions.filter(isValidQuestion)
+      : [];
+
+    return Response.json({ questions });
+  } catch (err) {
+    console.error(err);
+    return Response.json({ error: "Server error" }, { status: 500 });
+  }
+}
