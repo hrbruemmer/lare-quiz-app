@@ -18,6 +18,101 @@ type QuestionPayload = {
   multi: boolean;
 };
 
+declare global {
+  // eslint-disable-next-line no-var
+  var DOMMatrix: any;
+  // eslint-disable-next-line no-var
+  var ImageData: any;
+  // eslint-disable-next-line no-var
+  var Path2D: any;
+}
+
+function installPdfPolyfills() {
+  if (typeof global.DOMMatrix === "undefined") {
+    class SimpleDOMMatrix {
+      a = 1;
+      b = 0;
+      c = 0;
+      d = 1;
+      e = 0;
+      f = 0;
+
+      constructor(_init?: unknown) {}
+
+      multiplySelf() {
+        return this;
+      }
+
+      preMultiplySelf() {
+        return this;
+      }
+
+      translateSelf() {
+        return this;
+      }
+
+      scaleSelf() {
+        return this;
+      }
+
+      rotateSelf() {
+        return this;
+      }
+
+      invertSelf() {
+        return this;
+      }
+
+      transformPoint(point: unknown) {
+        return point;
+      }
+    }
+
+    global.DOMMatrix = SimpleDOMMatrix;
+  }
+
+  if (typeof global.ImageData === "undefined") {
+    global.ImageData = class ImageDataPolyfill {
+      data: Uint8ClampedArray;
+      width: number;
+      height: number;
+
+      constructor(
+        dataOrWidth: Uint8ClampedArray | number,
+        widthOrHeight: number,
+        maybeHeight?: number
+      ) {
+        if (typeof dataOrWidth === "number") {
+          this.width = dataOrWidth;
+          this.height = widthOrHeight;
+          this.data = new Uint8ClampedArray(this.width * this.height * 4);
+        } else {
+          this.data = dataOrWidth;
+          this.width = widthOrHeight;
+          this.height = maybeHeight ?? 1;
+        }
+      }
+    };
+  }
+
+  if (typeof global.Path2D === "undefined") {
+    global.Path2D = class Path2DPolyfill {
+      constructor(_path?: unknown) {}
+      addPath() {}
+      closePath() {}
+      moveTo() {}
+      lineTo() {}
+      rect() {}
+      roundRect() {}
+      arc() {}
+      arcTo() {}
+      bezierCurveTo() {}
+      quadraticCurveTo() {}
+      ellipse() {}
+    };
+  }
+}
+
 function cleanText(text: string): string {
   return text.replace(/\s+/g, " ").trim();
 }
@@ -85,7 +180,7 @@ export async function POST(req: Request) {
 
     let fullText = "";
 
-    // IMPORTANT: require pdf-parse INSIDE the handler so Vercel does not evaluate it at build time
+    installPdfPolyfills();
     const pdfParse = require("pdf-parse");
 
     for (const file of files) {
