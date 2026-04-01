@@ -1,0 +1,559 @@
+LARE SECTION 3 — PROJECT AND CONSTRUCTION ADMINISTRATION
+Complete Reference Database
+Sources: Practice Exam, Erik Sweet Section D Practice Problems, Jimmie Hinze Construction
+Contracts, Mometrix LARE Flashcard Study System
+TOPIC 1: PROJECT MANAGEMENT FUNDAMENTALS
+The project manager is the person who leads the project team and is responsible for defining
+the scope of work, planning and directing design work, coordinating with the client, and
+monitoring progress. The project manager is the single point of accountability for the success
+of a project.
+The six main activities of a project manager are: defining the scope of work, planning the
+design work, directing the design work, coordinating with the client, monitoring progress
+against schedule and budget, and learning from project outcomes to improve future
+performance.
+The five phases of project management in correct order are: Start, Planning, Design,
+Production, and Closeout. These are not the same as traditional design phase names.
+The five basic functions of management are: planning, organizing, commanding, coordinating,
+and controlling. Eliminating risk is not one of the five functions.
+Management by Objectives (MBO) is a method by which projects are managed by measuring
+progress toward achieving stated objectives rather than by tracking activities or tasks. The
+focus is on results and outcomes, not on what people are doing.
+The concept that timeliness is more important than perfection is expressed by the phrase: the
+perfect is the enemy of the good. Design decisions must be made when the schedule requires
+them, not postponed while waiting for all information to be available.
+Synergy, described by Mary Follett in 1918, is the process by which the effect of a group is
+more than the sum of its parts. A well-functioning collaborative team produces better work
+than the same individuals working independently.
+A charrette is an intensive collaborative design process conducted on site over multiple days
+with a multidisciplinary team. It is characterized by three features: it is conducted on site and
+lasts multiple days; teams are multidisciplinary so integrated solutions are produced; and
+each session is followed by a feedback discussion with stakeholders.
+TOPIC 2: ORGANIZATIONAL STRUCTURES FOR DESIGN FIRMS
+The four basic organizational structures for design firms are: sole proprietorship, design
+studio, matrix organization, and ad hoc project team.
+A sole proprietorship is a single individual who owns and operates the business. The sole
+proprietor is personally liable for all business obligations with no legal separation between the
+individual and the firm.
+A design studio is a small to medium-sized single-discipline firm headed by a principal leading
+a team of designers and support staff. Studios often have fluid organizational structures with
+informal reporting relationships.
+A matrix organization is found in medium to large multi-discipline firms. Employees report
+along two axes. Vertical reporting is discipline-specific — department heads are responsible
+for technical quality within their specialty across all projects. Horizontal reporting is
+project-specific — project managers are responsible for overall project success across all
+disciplines and phases.
+Siloing is the tendency of working groups within a large organization to lose sight of the
+concerns of other groups and focus only on their own area. In design firms it causes
+coordination failures and conflicts in construction documents. The matrix organization
+combats siloing through horizontal reporting.
+An ad hoc project team is assembled specifically for a single project around a single project
+manager and disbands when the project is complete. Members are drawn from within the firm
+or from outside consultants based on project needs.
+The four requirements for an empowered team are: a clear scope of work and clearly defined
+roles for each member; delegation of technical decisions to the right team members; team
+buy-in to the work plan; and appropriate resources and authority. The project manager does
+NOT relinquish management of scope, budget, and schedule in an empowered team.
+Offshoring is the practice of using service providers located outside of North America to
+perform production work such as drafting or CAD work at a lower cost or faster turnaround. It
+is distinct from domestic outsourcing.
+TOPIC 3: PROJECT WORK PLANNING — TASKS, SUBTASKS, AND DELIVERABLES
+A task is an essential activity or increment of work that can be defined and used to build a
+work breakdown schedule. Every task has three defining elements: an objective — what the
+task is meant to accomplish; a duration — the calendar time budgeted to complete the task;
+and a level of effort — the number of labor hours budgeted to accomplish the objective.
+A subtask is a detailed action that will lead to the completion of a task. Subtasks break a task
+down into its component steps.
+A deliverable is a tangible or intangible product of work that must be provided to someone
+else. Deliverables are what the project produces. Tasks are performed to produce
+deliverables.
+Level of effort is the number of labor hours budgeted to accomplish an objective, measurable
+in hours or labor dollars. It differs from duration — duration is calendar time, level of effort is
+actual work time.
+The Work Breakdown Structure (WBS) is a project planning tool that divides a project into
+hierarchical tasks, identifying broad tasks first and breaking them down to the level of detail
+needed to control the work. It is the foundation on which the project schedule and budget are
+built.
+The six objectives of a Project Work Plan are: define project objectives and identify the project
+team; establish a project schedule; establish a project budget; establish a project quality
+control program; identify project risks; and define communication protocols. Eliminating all
+project risk is not one of the six objectives.
+TOPIC 4: PROJECT SCHEDULING TOOLS AND CONCEPTS
+A Gantt chart is a bar chart with the horizontal axis representing a timescale and the vertical
+axis listing work tasks and milestones. Horizontal bars represent task durations. It is the most
+commonly used scheduling tool in design practice.
+A Milestone List Schedule is a chronological list of due dates for critical or contract-defined
+activities. It identifies key dates all parties must meet and is often included in Requests for
+Proposals and project contracts.
+The Critical Path Method (CPM) graphically shows dependent, interconnected, and related
+activities. It identifies the critical path — the sequence of tasks that must stay on schedule for
+the overall project to be completed on time. Tasks on the critical path have zero float.
+PERT — Program Evaluation and Review Technique — is a work diagramming system that
+uses statistics to determine the probabilities of task durations. It looks like circles or boxes
+with connecting arrows and is used when task durations are uncertain.
+Float, also called slack, is the amount of time a task can be delayed without affecting the
+overall project completion date. A task on the critical path has zero float — any delay to it
+delays the entire project.
+Pass-the-Baton scheduling is a structure where one task must end before the next can begin
+— also called a finish-to-start relationship. It creates sequential dependencies.
+A Finish-to-Finish task relationship describes two or more tasks scheduled to finish at the
+same time regardless of when they started. Used when parallel workstreams must converge
+at the same milestone.
+Two techniques for shortening project schedules are: running tasks in parallel rather than
+sequentially, and using more resources by assigning additional staff to labor-intensive tasks.
+The Percentage Complete method estimates drawing completion status. A drawing described
+as fifty percent complete has been drawn but is not yet fully dimensioned and notes or
+callouts are incomplete.
+TOPIC 5: BUDGET MANAGEMENT AND EARNED VALUE
+Actual Cost of Work Performed (ACWP) is the actual amount of money or hours spent
+performing a task — what was actually spent.
+Budgeted Cost of Work Performed (BCWP) is the amount of estimated budget earned based
+on the work actually completed compared to the budget for that task. Also called earned
+value. It answers: given how much work is complete, what should it have cost?
+Budgeted Cost of Work Scheduled (BCWS) is the estimated or planned cost to complete a
+task at a given point in time — what the work was supposed to cost according to the original
+plan.
+If ACWP is greater than BCWP, the project is over budget. If BCWP is greater than BCWS,
+the project is ahead of schedule. If a team has billed 45 percent of the fee but produced only
+30 percent of the work, this is an Earned Value red flag indicating budget is being consumed
+faster than work is being produced.
+A design contingency is a portion of the overall project budget — typically five to twenty
+percent — reserved for genuinely unpredictable problems. It cannot be used to cover tasks
+taking longer than expected due to inefficiency or poor estimating.
+Budget recovery strategies include: writing a formal amendment if out-of-scope work is being
+performed or stopping it immediately; reminding team members of their available budget; and
+modifying the work plan to find more efficient methods.
+Reimbursable expenses are amounts expended for or on account of the project and typically
+include travel and subsistence expenses, communication expenses, reproduction costs such
+as blueprinting and photocopying, subconsultant expenses for special services, and
+identifiable production supply costs.
+Materials and labor cost estimates should include labor and subcontract costs, material and
+material waste, shipping, storage and staging, equipment and tools required for installation,
+general conditions affecting cost such as insurance and bonding, design and project
+management costs, and market or regional conditions that affect actual construction costs.
+TOPIC 6: RISK MANAGEMENT
+The five strategies for controlling project risk are: avoidance — eliminating the risk; prevention
+— reducing the likelihood or severity; transfer — shifting the risk to another party through
+contracts or insurance; mitigation — reducing the impact if the risk occurs; and contingency
+planning — preparing a response in advance.
+Contract-related risk management strategies include: using standardized contract forms
+whenever possible; identifying excluded as well as included services to eliminate scope
+ambiguity; and specifying dispute resolution methods in the contract — agreeing on mediation
+or arbitration in advance is far less costly than litigation.
+Non-contract risk management strategies include: informing clients of potential risks early;
+choosing consultants carefully; not starting construction document production until the design
+is well-defined and client-approved; and avoiding running projects without budget and
+schedule contingency plans.
+Standards of Practice are the guiding principles by which licensees conduct their day-to-day
+responsibilities within their scope of practice. Reasonable care and skill means any work done
+must be at least as good as the work of a competent person with average skills and
+experience in the type of work required.
+Professional Liability Insurance (Errors and Omissions insurance) protects from claims if a
+client holds the professional responsible for errors or the failure of their work to perform as
+promised. Coverage includes legal defense costs, judgments, and court costs. It is
+claims-made, meaning coverage must be maintained continuously even after a project is
+complete.
+Courts apply the term design professional primarily to architects, engineers, landscape
+architects, and surveyors. Design professionals are held to a standard of care consistent with
+the minimum standard of care in their profession. Expert testimony is usually needed to
+establish this standard.
+TOPIC 7: COMMUNICATION AND PROFESSIONAL PRACTICE
+Active listening is focusing on what is being said and how it is being said, asking follow-up
+questions to fully understand the message, and formulating a response only after the
+message has been completely understood.
+Communication methods used to share knowledge and evaluate outcomes include:
+pre-construction meetings, paper trail diary, proposals or contracts, material specifications,
+schedules, financial information and vendor contracts, project status reports, signoff forms,
+letters, memos and meeting agendas, conversations, interviews, computer software
+programs, SMEE-mail archives, checklist and punch lists, legal documents such as deeds
+and permits, telephone hotlines, key people contacts, and soils tests.
+Best practices for professional meetings include: every meeting should have a clearly defined
+purpose and desired outcome; an agenda should be distributed prior to the meeting and
+followed during it; meetings should start and end on time; meetings should not exceed one
+hour unless necessary; and someone should take minutes and distribute them after.
+Techniques for facilitating meetings include: start and finish on time; set ground rules; include
+only individuals who can contribute; make the meeting formal; move quickly through topics;
+schedule breaks; and lead the meeting. Techniques for group discussion include the
+discursive approach where discussion flows freely, the round robin approach where each
+member speaks in turn, and the small group approach where the group breaks into smaller
+focused groups.
+The two most commonly used approaches to reach a group decision are the consensus
+approach and the majority vote approach.
+Meeting minutes are the official record of what discussions occurred and what decisions were
+made. They record the action plan including tasks assigned, timelines for completion, and the
+person responsible for each task.
+Best practices for email include: use email to confirm discussions or decisions that have
+already taken place; use email to transmit lengthy documents as attachments; avoid email for
+sensitive conversations, complex negotiations, or delivering bad news — those require
+face-to-face or phone communication.
+The landscape architect's code of ethics addresses: responsibility to the public to protect
+safety, health, property, and welfare; public statements and testimony based on knowledge
+and competence; competency for assignments undertaken; conflicts of interest to be avoided;
+improper solicitation of employment prohibited; knowledge of improper conduct by others
+must not be concealed; and seals and rubber stamps affixed only to documents prepared by
+or under the supervision of the licensee.
+TOPIC 8: PROJECT PHASES AND TEAM MEMBER ROLES
+Design phase components include: Planning phase — higher-level analysis, feasibility
+studies, program, and budgeting; Schematic Design (SD) — a conceptual design based on
+program and budget prepared for the owner including sketches, graphics, general design
+criteria, and preliminary cost estimates; Design Development (DD) — follows owner approval
+of SD with outline specifications, drawings, and estimates; Construction Documents (CDs) —
+follows DD approval, the design team prepares documents for obtaining pricing; and Bidding
+— the design team prepares clarifications to bid documents in the form of addenda.
+Design and construction team member roles include: Owner — defines requirements and
+provides approval at each phase; Architect — serves as lead design professional and
+organizes design team activities and schedules; Engineer — prepares drawings,
+specifications, and estimates; Consultant — prepares drawings, specifications, and estimates
+as required by timeline and scope; Construction Manager (CM) — typically hired near end of
+design phase, participates in final estimates, bid processes, and contractor selection; General
+Contractor — not involved during design phase; Contractors and Subcontractors — not
+involved during design phase.
+Tasks during the construction phase include: periodic site observations to assure compliance
+with contract documents; review of the complete document set; review of shop drawings;
+processing submittals; monitoring the construction schedule; sampling materials; verification
+of work completed; review and recommendations on pay applications; issuance of certificate
+of substantial completion; and documents and modifications to construction administration
+procedures as necessary.
+Post-construction activities include: cutover and first-use activities; training of owner's
+personnel on equipment use and adjustments; operation and maintenance of various
+systems; and final payments and release of retainage, which are often made well after
+occupancy once the owner is satisfied the project is fully completed.
+The landscape architect's typical responsibilities include: defining scope and mutual
+responsibilities; preparing work and fee schedules; surveys for future and existing facilities;
+establishing priorities of development; preparing design and presentation drawings; making
+preliminary cost estimates; developing the approved concept plan; making preliminary
+material selections; drawing up preliminary construction details; updating cost estimates;
+submitting detailed drawings and specifications for client approval; supplying bid documents;
+reviewing bid quotations; assisting in award of contract; representing client to contractor in all
+matters under contract; providing on-site supervision per contract; administering revisions and
+shop drawings; and making final inspection at project conclusion.
+Owner duties during construction include: disclose all property information needed to evaluate
+or enforce lien rights; furnish reasonable evidence of sufficient financial arrangements; furnish
+surveys showing physical characteristics, legal limitations, and utility locations; pay fees for all
+permits, easements, and approvals; provide all information or services required by contract
+documents; avoid any construction delay through reasonable promptness; pay for all copies
+of drawings and specifications reasonably needed by the contractor; pay all sums when due;
+and carry property insurance to protect the contractor's and owner's interests during
+construction.
+TOPIC 9: CONTRACT DOCUMENTS AND SPECIFICATIONS
+A specification is an explicit set of requirements to be satisfied by a material, product, or
+service. Specifications in North America form part of the contract documents that accompany
+and govern the construction of a building or site.
+The four main types of specifications are: Performance — focus on results, contractors
+choose materials and methods to achieve desired results; Proprietary — call out brand names
+and models; Descriptive — focus on exact properties and installation methods; and Reference
+— requirements based on an established standard.
+Three documents standardize construction format in North America, produced jointly by CSI
+and Construction Specifications Canada (CSC): the Page Format standardizes how text on
+pages in a specification is presented; the Section Format organizes information in each
+section into Part 1 General, Part 2 Product, and Part 3 Execution; and the MasterFormat is a
+master list of numbers and titles to organize activities and requirements of a construction
+project including 16 divisions plus a summary of front-end requirements.
+Drawings are the first of three elements of a design. They show the location of the work
+required in relation to other required elements, as well as quantity and size. Drawings are
+generally grouped by discipline: Structural (S), Architectural (A), Mechanical (M), Electrical
+(E), and Plumbing (P). Types of drawings include Plan — horizontal views such as floor plans;
+Elevation — vertical views such as wall or rack; Section — sectional view such as a sleeve
+through a wall; Detail — details such as faceplate labeling; Schedule Spreadsheets — tables
+of information; and General — symbols, legend, and notes.
+The daily construction report is a written record of the day's activities including weather
+conditions, work accomplished, number of personnel for each trade involved, equipment
+involved, materials received, visitors or inspectors present, and problems encountered.
+TOPIC 10: BIDDING AND BID DOCUMENTS
+The owner typically supplies the bidding and contracting requirements to be included in the
+project manual and often coordinates advertising or invitations to prospective bidders. The
+architect, engineer, or consultant produces any addenda required to clarify contract
+documents and may participate in evaluation or negotiation of bids. The Construction
+Manager may lead or participate during bidding. The General Contractor, Contractor, and
+Subcontractor prepare and submit bids to the owner.
+Bid document components include: Bid solicitation — brief overview of scope, where
+documents can be reviewed, bid security requirements, bid due date, time, and location;
+Instructions to bidders — type of bid, how to prepare the bid, bid security, bonds and
+certificates, permits, subcontractor listings, pre-bid meeting requirements, and information
+related to bid opening; Information available to bidders — references to existing conditions,
+hazardous materials, description of site and buildings; Bid response forms — project
+identification, to whom bid is directed, who submitted it, acknowledgments, length of time bid
+is valid, acknowledgment of addenda, pricing, start and completion dates, signature and date;
+Contract forms; General conditions and supplementary conditions; Specifications; and
+Drawings.
+An addendum is a document that addresses changes or modifications made to the contract
+and issued prior to the bidding process. It addresses questions, answers, errors, and changes
+that evolve during bidding and is usually sent at least five days in advance of receipt of bids so
+adjustments can be made.
+A substitution is a process in which bidders request to use components other than those
+specified in the contract. This usually occurs when there are proprietary specifications or few
+manufacturers of the specified items. Approval results in an addendum sent to all bidders
+informing them of acceptable substitution.
+An alternate is a request included in the bidding documents that asks the contractor to provide
+a price for some type of variation from the base bid, allowing flexibility in project cost.
+Three types of construction contracts are: Stipulated Sum — a contractor submits a fixed
+price for the scope of work required, most low-bid contracts are stipulated sum; Cost Plus Fee
+— the contractor is reimbursed for actual costs plus a fee, a guaranteed maximum price
+(GMP) may be required, and there can be a shared savings clause or incentives for early
+completion; and Unit Price — used when actual scope cannot be determined at time of bid,
+requires a realistic estimate of quantities for each activity type.
+TOPIC 11: CONSTRUCTION CONTRACT ADMINISTRATION
+Contract time refers to the period from the agreed upon starting date to the agreed upon
+substantial completion date. It includes agreed upon adjustments and may be extended by
+change order or circumstances beyond the contractor's control. Commencement is the
+calendar specific time that states when the project will begin.
+Substantial completion is the point at which the completion of the project is sufficient enough
+but not completed so that the owner can occupy or use the site. It can be stated as a specific
+calendar date or as a number of calendar days from commencement.
+A change order form is completed when problems arise during construction, the client
+changes their mind about what they want, or unforeseen additional work is discovered. The
+change order details the new plan including services, materials, and designs that the client
+and contractor have mutually agreed upon. The change order form then becomes the valid
+contract.
+Liquidated damages are specified daily charges deducted from moneys payable to the
+contractor for each day the contractor fails to meet a milestone or contract completion date.
+They are a contract-based remedy for late completion and must be agreed to by the parties in
+the construction contract. Liquidated damages is defined as a sum which a party agrees to
+pay or a deposit they agree to forfeit if they break a promise, having been arrived at by a good
+faith effort to estimate in advance the actual damage that would probably ensue from the
+breach.
+Retainage is a percentage of the total bid which a contractor or subcontractor pays upon
+submitting a bid for work. It is considered insurance and a good faith tool to assure the project
+owner they are entering an agreement with a solvent, insured party who will be around for the
+duration of the project. The money is held in escrow and paid back with interest when the
+contractor has fulfilled obligations under the agreement.
+Payment applications must have certification — a written statement of the correctness and
+reliability of something and written permission to do something. They must be notarized,
+submitted usually ten days before the date of each payment, include value of work done to the
+date of application, include the value of any unused purchased materials in acceptable
+storage, and must be approved, certified, and signed by the owner or designer before
+payment.
+Construction observation techniques include: observing installation to assure compliance with
+contract documents; preparing change orders; resolving site and design issues; reviewing
+submittals and making recommendations; preparing project documentation including daily
+reports, photography, field measurements, construction notification memos, bi-monthly
+summary reports, and meeting memos; monitoring all independent testing for material,
+compaction, and utility compliance; preparing the punch list from outstanding work items;
+informing the client if construction practices are contrary to the norm; notifying the client of
+defects in the work of the contractor; and performing final review of the project.
+Quality control procedures include: inspection by direct inspection of work products or
+processes or by monitoring the activities creating the products or processes; tests to
+determine if an item or service is acceptable or to acquire additional information; procedures
+for handling, storage, and shipping of equipment or supplies critical to quality; and corrective
+actions taken to ensure any conditions leading to failures, malfunctions, or deficiencies are
+identified and corrected.
+TOPIC 12: BONDS, INSURANCE, AND LEGAL CONCEPTS
+A bid bond is submitted with a contractor's bid guaranteeing that if the bidder is awarded the
+contract they will execute it and provide all required performance and payment bonds. It
+protects the owner if the low bidder refuses to sign the contract after being selected.
+A performance bond guarantees the faithful completion of the contractor's obligations under
+the construction contract up to the face value of the bond. If the contractor defaults, the surety
+completes the work or pays the cost of completion.
+A payment bond guarantees that the contractor will pay all subcontractors, suppliers, and
+laborers. It protects the owner from mechanics liens — unpaid parties claim against the bond
+rather than against the owner's property.
+Liquidated damages are a pre-agreed daily dollar amount charged to the contractor for each
+day of delay past the contract completion date. They must be a genuine pre-estimate of the
+owner's anticipated costs of delay, not an unreasonably high penalty. Courts will not enforce
+liquidated damage clauses that function as punitive penalties.
+Every surety bond involves three parties: the principal — the contractor who must perform; the
+obligee — the owner to whom the obligation is owed; and the surety — the bonding company
+that guarantees performance if the principal defaults.
+General liability insurance protects against claims for bodily injury and property damage
+arising from the contractor's operations. Workers compensation insurance provides medical
+benefits and wage replacement to workers injured on the job. Builder's risk insurance, also
+called course of construction insurance, covers the project itself against physical loss during
+construction from events like fire, theft, and vandalism. Professional liability insurance, also
+called errors and omissions insurance, covers claims arising from professional negligence in
+the design work and is claims-made.
+In arbitration, parties agree to give up their right to go to court and instead have disputes
+resolved by an arbitrator or arbitration panel. In binding arbitration, parties agree to accept the
+arbitrator's decision as final. In nonbinding arbitration, parties are free not to accept the
+decision and may seek satisfaction through other means including a lawsuit. In mediation,
+parties agree to enter into good faith negotiations through a neutral mediator in order to
+attempt to resolve their differences.
+A contract clause outlines how any disputes will be resolved. Most include an arbitration
+agreement as a contractual provision and a mediation provision for good faith negotiations
+through a neutral mediator.
+In written warranty, there are two general types of warranties in construction: manufacturer
+warranty of a product and labor warranty. A roofing contract may include a 30-year material
+warranty and a 5-year labor warranty as an example.
+TOPIC 13: PROJECT CLOSEOUT
+Substantial completion is the status of a project when it is sufficiently complete to be occupied
+and used by the owner for its intended purpose, even if minor work remains. It starts the
+guarantee period, stops liquidated damages, and triggers partial retainage release.
+A punch list is a written list of all remaining work items requiring completion or correction
+before final completion. It is prepared during the substantial completion inspection. Each item
+must be specific and unambiguous, identifying exactly where the problem is and exactly what
+must be done.
+Final completion is the status when all work including all punch list items has been completed
+in full conformance with the contract documents. It triggers release of remaining retainage,
+final payment, and submission of all closeout documents.
+Closeout documents the contractor must submit include: as-built drawings showing the project
+as actually constructed, operation and maintenance manuals for installed systems, warranties
+and guarantees transferred to the owner, and a final lien waiver confirming all subcontractors
+and suppliers have been paid in full.
+The guarantee period, also called the warranty period, typically lasts one year from substantial
+completion. During this period the contractor must return to the site and correct any defects or
+failures in the completed work at no additional cost to the owner. It runs concurrently with but
+is separate from manufacturer warranties on installed products.
+Commissioning is the formal process of testing and verifying all installed systems — irrigation,
+lighting, specialty equipment — to confirm they operate as designed. It is a quality verification
+step performed at or near project closeout.
+TOPIC 14: CONSTRUCTION PLANS AND DETAILS — 50% OF EXAM
+A complete landscape architecture construction document set includes: cover sheet, existing
+conditions plan, demolition plan, layout plan, materials plan, grading and drainage plan,
+planting plan, irrigation plan, construction details, and supplemental plans as needed.
+The cover sheet includes project name and address, client and consultant contact
+information, property legal description, vicinity map, complete drawing list, permit information,
+and applicable code references. The legal description is critical because permitting agencies
+use it to locate the property in their records.
+The existing conditions plan documents everything currently on the site including buildings,
+trees, utilities, grades, pavement, property lines, and easements. It is prepared from a
+topographic survey by a licensed surveyor.
+The demolition plan shows what gets removed, what gets protected, and what remains. A
+sawcut is a clean straight cut in existing pavement at the limit of demolition that maintains
+structural integrity of the remaining pavement. The demolition plan must coordinate precisely
+with the protection and mitigation plan.
+The most important tree protection measure is construction barrier fencing at the dripline —
+the outer edge of the canopy, which corresponds to the outer extent of the root zone. Fencing
+must be installed before any site work begins. Inside the fenced zone no equipment may
+operate, no materials may be stored, no soil may be compacted, and no grade changes may
+occur.
+DBH — diameter breast height — is measured at 4.5 feet above grade and is the standard
+measurement for specifying tree size. Trees failing to meet specified DBH should be rejected
+from the project.
+The layout plan shows horizontal location of all new elements dimensioned from known
+reference points. Two locating methods are used: dimensioning from fixed reference points
+(works for rectilinear designs) and the coordinate method using northings and eastings
+(preferred for large, complex, or curved projects).
+The materials plan designates surface material for every area using hatching, keynotes, and a
+legend. It must coordinate with construction details — the materials plan shows what material
+goes where, the details show how it is built.
+A retaining wall up to three feet can be designed by a landscape architect without a structural
+engineer. Above three feet an engineer is required. Height is measured from bottom of footing
+to top of wall. All retaining walls regardless of type must have drainage to prevent hydrostatic
+pressure failure.
+OSHA requires deck and platform railings to be at least 42 inches high. Maximum spacing
+between railing members is 4 inches, based on the size of a baby's head. Plantings in site
+triangles at 35 mph road entrances must be kept at or below 30 inches.
+The three goals of landscape lighting are: facilitating safety, improving legibility of outdoor
+spaces at night, and encouraging nighttime use. The most critical factor in recreational area
+lighting is uniformity. The light source should never be directly visible to users. Low-voltage
+lighting can be installed by a licensed landscape contractor. High-voltage lighting requires an
+electrical permit and a licensed electrical contractor.
+TOPIC 15: CONSTRUCTION SPECIFICATIONS AND BIDDING — 20% OF EXAM
+The project manual contains four sections: bidding requirements, contract forms, conditions of
+the contract (general and supplementary), and technical specifications. Together with
+drawings these form the complete contract documents. When drawings and specifications
+conflict, specifications typically govern.
+General conditions are standardized documents outlining roles of all parties and procedures
+for varying circumstances. Supplementary conditions are project-specific additions or
+modifications. Supplementary conditions do not replace general conditions — they
+supplement them.
+CSI MasterFormat 2004 key divisions: Division 1 — General Requirements (administrative
+and procedural requirements for the whole project); Division 31 — Earthwork (excavation,
+grading, topsoil stripping and stockpiling); Division 32 — Exterior Improvements (paving, site
+improvements, planting, and irrigation — irrigation moved here from Division 2 in the 1995
+edition); Division 33 — Utilities (water, sewer, storm drainage outside buildings).
+Technical specification sections follow three-part CSI format: Part 1 General — scope,
+references to standards, submittals, quality assurance; Part 2 Products — materials,
+products, and equipment to be used; Part 3 Execution — installation procedures, preparation,
+tolerances, and field quality control.
+Bid bonds are submitted with bids guaranteeing the bidder will execute the contract if
+awarded. Addenda are formal written documents issued during bidding to clarify, correct, or
+modify bidding documents. They must be issued to all bidders simultaneously and in writing
+— verbal clarifications have no legal effect. Addenda become part of the contract documents.
+Project delivery methods include: General Contract (design-bid-build) — designer and
+contractor have separate contracts with owner; Design-Build — one entity contracts for both
+design and construction; Professional Construction Management — CM firm represents
+owner throughout design and construction; Multiple Prime Contracts — owner holds separate
+contracts with multiple prime contractors.
+TOPIC 16: CONSTRUCTION ADMINISTRATION — 30% OF EXAM
+Pre-construction activities include: the pre-construction meeting covering scope, submittal
+schedule, construction schedule, site logistics, safety requirements, and administrative
+procedures; the pre-construction site walk to document existing conditions; installation of
+survey control points before any earth is moved; and the Notice to Proceed (NTP) which starts
+the contract duration clock and can be issued before the contract is formally signed.
+An RFI — Request for Information — is a formal written inquiry from the contractor asking for
+clarification about the construction documents. The landscape architect must respond
+promptly, clearly, and definitively. Slow responses can delay construction and generate time
+extension and delay cost claims. Vague responses that defer design decisions to the
+contractor are inappropriate. Every RFI must be logged.
+The landscape architect observes — not inspects or supervises — the work. Observation
+means assessing whether work appears to be proceeding in general conformance with the
+contract documents. Inspection implies control over means and methods and creates legal
+liability. Contracts should use the word observation, never inspection or supervision.
+A field report is the written record of each site observation. It must include: date, weather
+conditions, persons present, description of work observed, deficiencies noted, verbal
+instructions given to the contractor, open items requiring follow-up, and references to
+photographs taken.
+Submittals are documents provided by the contractor for review before materials are
+incorporated into the project. Types include shop drawings, product data submittals, samples,
+material certifications, manufacturer's literature, and mock-ups. The four response
+designations are: Approved, Approved as Noted, Revise and Resubmit, and Rejected. The
+landscape architect's approval does not relieve the contractor of responsibility for conforming
+to the contract documents.
+Shop drawings are prepared by the contractor, subcontractor, or fabricator — not the
+landscape architect — showing how a specific item will be manufactured and installed. They
+are submitted before fabrication. As-built drawings are produced after construction showing
+the project as actually built.
+A substitution request is a formal request to use a different product from what was specified.
+Cost alone does not justify approval — the substitute must meet technical and aesthetic
+requirements. Or-equal clauses in specifications allow substitutions that are genuinely equal
+in quality and performance.
+A mock-up is a full or partial scale physical sample of a work element built on site for review
+before that work proceeds. Once approved it becomes the quality standard for all subsequent
+work of that type. Mock-ups reveal construction challenges early, establish clear visual
+standards, and create contractor accountability.
+A change order is a formal written amendment to the construction contract signed by both
+parties before changed work proceeds. A field change (field order) is a minor modification not
+affecting contract amount or duration. A change directive authorizes the contractor to proceed
+with changed work when time is critical, with price to be determined afterward. A bulletin is a
+written document issued during construction to clarify or modify the contract documents — the
+construction-phase equivalent of an addendum.
+The three sources of change orders are: changes in owner scope or program, design errors or
+omissions, and differing site conditions. Differing site conditions are physical conditions that
+differ from what was shown in the bidding documents or from what would reasonably be
+expected. They do not terminate the contract — they are resolved through the change order
+process.
+Owner-caused delays entitle the contractor to both a time extension and additional
+compensation for delay costs. Excusable delays (force majeure) entitle the contractor to a
+time extension only with no additional compensation. Contractor-caused delays entitle the
+contractor to neither — the owner may assess liquidated damages.
+Construction acceleration types: Actual acceleration is an explicit written directive from the
+owner to speed up. Constructive acceleration occurs when the owner denies a legitimate time
+extension request, forcing the contractor to speed up without explicit direction — still entitles
+the contractor to compensation. Fast-tracking overlaps design and construction phases to
+compress overall schedule — not the same as acceleration.
+Retainage is a percentage — typically five to ten percent — of each progress payment
+withheld by the owner throughout construction. Released at or after final completion. Its
+purpose is to give the contractor financial incentive to complete all work and punch list items.
+Project management roles: the Project Manager leads the team and is responsible for scope,
+schedule, and budget; the Project Controller manages project finances and works with the PM
+to keep the project financially on track; the Construction Administrator manages the
+construction phase including site observations, RFIs, submittals, change orders, and closeout.
+OAC meetings — owner-architect-contractor — are regular coordination meetings held during
+construction, typically monthly or biweekly, with the landscape architect preparing the agenda
+and minutes.
+TOPIC 17: PROJECT ACCOUNTING AND COST ESTIMATING
+Salary-related expenses, also called burden costs, are additional labor costs beyond base
+salary including employer contributions to Social Security, Medicare, unemployment
+insurance, workers compensation, health insurance, vacation pay, and sick leave. They are a
+direct cost of employment and must be included when calculating the true cost of labor.
+Other Direct Costs (ODCs) are miscellaneous project-related costs other than direct labor,
+typically billed as reimbursable expenses. Examples include postage, printing and
+reproduction, messenger services, travel expenses, and photo development.
+RS Means and Saylor publish cost estimating reference manuals for the United States. CSI
+publishes specification standards. ASTM publishes material testing standards. Neither CSI
+nor ASTM publishes cost estimating data.
+A budgetary cost model breaks down estimated construction costs into major project
+components organized by CSI MasterFormat number. It establishes cost targets for each
+component and provides a baseline for evaluating different materials and construction
+approaches.
+Program validation is the design team's independent review of the client's stated program and
+budget before design begins, identifying cost increases or unanticipated requirements. It
+prevents investing design effort in a program that cannot be built within budget.
+Design to Cost is a method in which a cost target is set at the outset and all subsequent
+design decisions are monitored for conformance with that target. Cost management is
+integrated into the design process from the beginning.
+Value Engineering is a review of a project by a third-party team of experts aimed at improving
+performance, reliability, quality, safety, and life-cycle costs. It is an independent third-party
+process distinct from internal quality control.
+Shell package is designed space delivered in a basic unfinished condition with the developer
+providing structure and core systems but not interior build-out. Tenant improvement package
+is design and construction work paid for by tenants who wish to customize their space.

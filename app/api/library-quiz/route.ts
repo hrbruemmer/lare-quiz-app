@@ -1,3 +1,5 @@
+// STABLE FIX: remove pdf parsing entirely, use pre-extracted text files
+
 import fs from "fs";
 import path from "path";
 import OpenAI from "openai";
@@ -17,101 +19,6 @@ type QuestionPayload = {
   explanation: string;
   multi: boolean;
 };
-
-declare global {
-  // eslint-disable-next-line no-var
-  var DOMMatrix: any;
-  // eslint-disable-next-line no-var
-  var ImageData: any;
-  // eslint-disable-next-line no-var
-  var Path2D: any;
-}
-
-function installPdfPolyfills() {
-  if (typeof global.DOMMatrix === "undefined") {
-    class SimpleDOMMatrix {
-      a = 1;
-      b = 0;
-      c = 0;
-      d = 1;
-      e = 0;
-      f = 0;
-
-      constructor(_init?: unknown) {}
-
-      multiplySelf() {
-        return this;
-      }
-
-      preMultiplySelf() {
-        return this;
-      }
-
-      translateSelf() {
-        return this;
-      }
-
-      scaleSelf() {
-        return this;
-      }
-
-      rotateSelf() {
-        return this;
-      }
-
-      invertSelf() {
-        return this;
-      }
-
-      transformPoint(point: unknown) {
-        return point;
-      }
-    }
-
-    global.DOMMatrix = SimpleDOMMatrix;
-  }
-
-  if (typeof global.ImageData === "undefined") {
-    global.ImageData = class ImageDataPolyfill {
-      data: Uint8ClampedArray;
-      width: number;
-      height: number;
-
-      constructor(
-        dataOrWidth: Uint8ClampedArray | number,
-        widthOrHeight: number,
-        maybeHeight?: number
-      ) {
-        if (typeof dataOrWidth === "number") {
-          this.width = dataOrWidth;
-          this.height = widthOrHeight;
-          this.data = new Uint8ClampedArray(this.width * this.height * 4);
-        } else {
-          this.data = dataOrWidth;
-          this.width = widthOrHeight;
-          this.height = maybeHeight ?? 1;
-        }
-      }
-    };
-  }
-
-  if (typeof global.Path2D === "undefined") {
-    global.Path2D = class Path2DPolyfill {
-      constructor(_path?: unknown) {}
-      addPath() {}
-      closePath() {}
-      moveTo() {}
-      lineTo() {}
-      rect() {}
-      roundRect() {}
-      arc() {}
-      arcTo() {}
-      bezierCurveTo() {}
-      quadraticCurveTo() {}
-      ellipse() {}
-    };
-  }
-}
 
 function cleanText(text: string): string {
   return text.replace(/\s+/g, " ").trim();
@@ -142,14 +49,6 @@ function parseJsonSafely(text: string): { questions?: QuestionPayload[] } | null
   try {
     return JSON.parse(text);
   } catch {
-    const fenced = text.match(/```json\s*([\s\S]*?)```/i);
-    if (fenced?.[1]) {
-      try {
-        return JSON.parse(fenced[1]);
-      } catch {
-        return null;
-      }
-    }
     return null;
   }
 }
@@ -170,65 +69,49 @@ export async function POST(req: Request) {
       return Response.json({ error: "Folder not found." }, { status: 404 });
     }
 
+    // 🔥 READ .txt FILES INSTEAD OF PDF
     const files = fs
       .readdirSync(folderPath)
-      .filter((file: string) => file.toLowerCase().endsWith(".pdf"));
+      .filter((file: string) => file.toLowerCase().endsWith(".txt"));
 
     if (!files.length) {
-      return Response.json({ error: "No PDF files found in that folder." }, { status: 400 });
+      return Response.json({ error: "No TXT files found. Convert PDFs to text first." }, { status: 400 });
     }
 
     let fullText = "";
 
-    installPdfPolyfills();
-    const pdfParse = require("pdf-parse");
-
     for (const file of files) {
-      const buffer = fs.readFileSync(path.join(folderPath, file));
-      const pdf = await pdfParse(buffer);
-      fullText += "\n" + (pdf.text || "");
+      const text = fs.readFileSync(path.join(folderPath, file), "utf-8");
+      fullText += "\n" + text;
     }
 
     const cleaned = cleanText(fullText);
-
-    if (!cleaned) {
-      return Response.json({ error: "Could not read text from PDF." }, { status: 500 });
-    }
-
-    const chunks = splitIntoChunks(cleaned, 1400);
+    const chunks = splitIntoChunks(cleaned);
     const sampled = sampleChunks(chunks, Math.max(10, questionCount * 2));
 
     const prompt = `
-Generate ${questionCount} LARE-style study questions from the source text below.
+Generate ${questionCount} LARE-style questions.
 
-Requirements:
-- At least 40 percent must be SELECT ALL THAT APPLY questions with more than one correct answer.
-- Questions must come from DIFFERENT parts of the material.
-- Avoid repeating the same section or idea.
-- Questions should help someone review important exam-relevant information.
-- For every question, return:
-  - question
-  - options
-  - answer (always an array; one item for single-answer, multiple items for multi-select)
-  - explanation
-  - multi (true for select-all-that-apply, false otherwise)
+- At least 40% must be SELECT ALL THAT APPLY
+- Use different parts of the material
+- Avoid repetition
 
-Return valid JSON only in this exact shape:
+Return JSON:
 {
   "questions": [
     {
-      "question": "string",
-      "options": ["string", "string", "string", "string"],
-      "answer": ["string"],
-      "explanation": "string",
-      "multi": false
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "multi": true
     }
   ]
 }
 
-SOURCE TEXT:
+CONTENT:
 ${sampled.join("\n---\n")}
-`.trim();
+`;
 
     const client = new OpenAI({
       apiKey: process.env.OPENAI_API_KEY,
@@ -239,22 +122,14 @@ ${sampled.join("\n---\n")}
       input: prompt,
     });
 
-    const outputText = response.output_text || "";
-    const parsed = parseJsonSafely(outputText);
+    const parsed = parseJsonSafely(response.output_text || "");
 
-    if (!parsed || !Array.isArray(parsed.questions)) {
-      return Response.json(
-        {
-          error: "AI did not return valid question JSON.",
-          raw: outputText.slice(0, 1000),
-        },
-        { status: 500 }
-      );
+    if (!parsed?.questions) {
+      return Response.json({ error: "Bad AI response" }, { status: 500 });
     }
 
-    return Response.json({ questions: parsed.questions });
-  } catch (error: unknown) {
-    const message = error instanceof Error ? error.message : "Unknown error.";
-    return Response.json({ error: message }, { status: 500 });
+    return Response.json(parsed);
+  } catch (error: any) {
+    return Response.json({ error: error.message }, { status: 500 });
   }
 }
