@@ -62,10 +62,7 @@ function splitIntoParagraphChunks(text: string, maxLength: number = 1100): strin
     }
   }
 
-  if (current) {
-    chunks.push(current);
-  }
-
+  if (current) chunks.push(current);
   return chunks;
 }
 
@@ -148,6 +145,101 @@ function normalizeQuestions(items: QuestionPayload[]): QuestionPayload[] {
     );
 }
 
+function makeBatchPlan(total: number): number[] {
+  if (total <= 3) return [total];
+  if (total <= 5) return [Math.ceil(total / 2), Math.floor(total / 2)];
+  if (total <= 8) return [3, total - 3];
+  const batches: number[] = [];
+  let remaining = total;
+  while (remaining > 0) {
+    if (remaining <= 4) {
+      batches.push(remaining);
+      break;
+    }
+    batches.push(3);
+    remaining -= 3;
+  }
+  return batches;
+}
+
+function buildPrompt(args: {
+  questionCount: number;
+  requireMulti: number;
+  selectedSegments: string[];
+}) {
+  return `
+Generate ${args.questionCount} LARE-style study questions from the source excerpts below.
+
+Requirements:
+- At least ${args.requireMulti} of these ${args.questionCount} questions must be SELECT ALL THAT APPLY questions with more than one correct answer.
+- Spread the questions across DIFFERENT files and DIFFERENT excerpts.
+- Avoid repeating the same topic, section, or concept.
+- Focus on important exam-relevant information rather than trivia.
+- Use plausible distractors.
+- Return valid JSON only.
+
+Return exactly this shape:
+{
+  "questions": [
+    {
+      "question": "string",
+      "options": ["string", "string", "string", "string"],
+      "answer": ["string"],
+      "explanation": "string",
+      "multi": false
+    }
+  ]
+}
+
+SOURCE EXCERPTS:
+${args.selectedSegments.join("\n\n---\n\n")}
+`.trim();
+}
+
+async function generateBatch(
+  client: OpenAI,
+  questionCount: number,
+  allSegments: string[],
+  offsetSeed: number
+): Promise<QuestionPayload[]> {
+  const segmentCount = Math.min(
+    allSegments.length,
+    Math.max(6, questionCount * 2)
+  );
+
+  const rotated = allSegments
+    .slice(offsetSeed % allSegments.length)
+    .concat(allSegments.slice(0, offsetSeed % allSegments.length));
+
+  const selectedSegments = selectDistributedChunks(rotated, segmentCount);
+
+  const prompt = buildPrompt({
+    questionCount,
+    requireMulti: Math.max(1, Math.round(questionCount * 0.4)),
+    selectedSegments,
+  });
+
+  const response = await client.responses.create({
+    model: "gpt-5",
+    input: prompt,
+  });
+
+  const outputText = response.output_text || "";
+  const parsed = parseJsonSafely(outputText);
+
+  if (!parsed || !Array.isArray(parsed.questions)) {
+    throw new Error("AI did not return valid question JSON.");
+  }
+
+  const normalized = normalizeQuestions(parsed.questions);
+
+  if (!normalized.length) {
+    throw new Error("No usable questions were returned.");
+  }
+
+  return normalized.slice(0, questionCount);
+}
+
 export async function POST(req: Request) {
   try {
     const body = (await req.json()) as RouteBody;
@@ -205,77 +297,31 @@ export async function POST(req: Request) {
       );
     }
 
-    const maxSegments = Math.min(
-      perFileSegments.length,
-      Math.max(10, questionCount * 2)
-    );
-    const selectedSegments = selectDistributedChunks(perFileSegments, maxSegments);
-
-    const prompt = `
-Generate ${questionCount} LARE-style study questions from the source excerpts below.
-
-Requirements:
-- At least 40 percent must be SELECT ALL THAT APPLY questions with more than one correct answer.
-- Spread the questions across DIFFERENT files and DIFFERENT excerpts.
-- Avoid repeating the same topic, section, or concept.
-- Focus on important exam-relevant information rather than trivia.
-- Use plausible distractors.
-- For every question, return:
-  - question
-  - options
-  - answer (always an array; one item for single-answer, multiple items for multi-select)
-  - explanation
-  - multi (true for select-all-that-apply, false otherwise)
-
-Return valid JSON only in this exact shape:
-{
-  "questions": [
-    {
-      "question": "string",
-      "options": ["string", "string", "string", "string"],
-      "answer": ["string"],
-      "explanation": "string",
-      "multi": false
-    }
-  ]
-}
-
-SOURCE EXCERPTS:
-${selectedSegments.join("\n\n---\n\n")}
-`.trim();
-
     const client = new OpenAI({
       apiKey: process.env.OPENAI_API_KEY,
     });
 
-    const response = await client.responses.create({
-      model: "gpt-5",
-      input: prompt,
-    });
+    const batchPlan = makeBatchPlan(questionCount);
+    const batchResults: QuestionPayload[] = [];
 
-    const outputText = response.output_text || "";
-    const parsed = parseJsonSafely(outputText);
-
-    if (!parsed || !Array.isArray(parsed.questions)) {
-      return Response.json(
-        {
-          error: "AI did not return valid question JSON.",
-          raw: outputText.slice(0, 1000),
-        },
-        { status: 500 }
+    for (let i = 0; i < batchPlan.length; i += 1) {
+      const batchSize = batchPlan[i];
+      const batchQuestions = await generateBatch(
+        client,
+        batchSize,
+        perFileSegments,
+        i * 3
       );
+      batchResults.push(...batchQuestions);
     }
 
-    const questions = normalizeQuestions(parsed.questions);
+    const uniqueQuestions = Array.from(
+      new Map(
+        batchResults.map((item) => [item.question.toLowerCase(), item])
+      ).values()
+    );
 
-    if (!questions.length) {
-      return Response.json(
-        { error: "No usable questions were returned." },
-        { status: 500 }
-      );
-    }
-
-    return Response.json({ questions });
+    return Response.json({ questions: uniqueQuestions.slice(0, questionCount) });
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : "Unknown error.";
     return Response.json({ error: message }, { status: 500 });
