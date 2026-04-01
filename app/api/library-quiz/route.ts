@@ -1,25 +1,28 @@
-// FINAL FIX v3 - fixes TypeScript + runtime issues
-
 import fs from "fs";
 import path from "path";
 import OpenAI from "openai";
 
-// force Node runtime
 export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
 
-// correct import
-const pdfParse = require("pdf-parse");
+type RouteBody = {
+  topic?: string;
+  questionCount?: number;
+};
 
-const client = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+type QuestionPayload = {
+  question: string;
+  options: string[];
+  answer: string[];
+  explanation: string;
+  multi: boolean;
+};
 
-// ✅ FIX: add type
 function cleanText(text: string): string {
   return text.replace(/\s+/g, " ").trim();
 }
 
-function splitIntoChunks(text: string, size: number = 1200): string[] {
+function splitIntoChunks(text: string, size: number = 1400): string[] {
   const chunks: string[] = [];
   for (let i = 0; i < text.length; i += size) {
     chunks.push(text.slice(i, i + size));
@@ -28,70 +31,135 @@ function splitIntoChunks(text: string, size: number = 1200): string[] {
 }
 
 function sampleChunks(chunks: string[], count: number): string[] {
+  if (chunks.length <= count) return chunks;
+
   const result: string[] = [];
-  const step = Math.floor(chunks.length / count) || 1;
+  const step = Math.max(1, Math.floor(chunks.length / count));
+
   for (let i = 0; i < chunks.length && result.length < count; i += step) {
     result.push(chunks[i]);
   }
+
   return result;
+}
+
+function parseJsonSafely(text: string): { questions?: QuestionPayload[] } | null {
+  try {
+    return JSON.parse(text);
+  } catch {
+    const fenced = text.match(/```json\s*([\s\S]*?)```/i);
+    if (fenced?.[1]) {
+      try {
+        return JSON.parse(fenced[1]);
+      } catch {
+        return null;
+      }
+    }
+    return null;
+  }
 }
 
 export async function POST(req: Request) {
   try {
-    const body = await req.json();
-    const topic: string = body.topic;
-    const questionCount: number = body.questionCount || 10;
+    const body = (await req.json()) as RouteBody;
+    const topic = String(body.topic || "").trim();
+    const questionCount = Math.max(1, Math.min(30, Number(body.questionCount || 10)));
+
+    if (!topic) {
+      return Response.json({ error: "No folder selected." }, { status: 400 });
+    }
 
     const folderPath = path.join(process.cwd(), "library", topic);
-    const files = fs.readdirSync(folderPath).filter((f: string) => f.endsWith(".pdf"));
 
-    let fullText: string = "";
+    if (!fs.existsSync(folderPath)) {
+      return Response.json({ error: "Folder not found." }, { status: 404 });
+    }
+
+    const files = fs
+      .readdirSync(folderPath)
+      .filter((file: string) => file.toLowerCase().endsWith(".pdf"));
+
+    if (!files.length) {
+      return Response.json({ error: "No PDF files found in that folder." }, { status: 400 });
+    }
+
+    let fullText = "";
+
+    // IMPORTANT: require pdf-parse INSIDE the handler so Vercel does not evaluate it at build time
+    const pdfParse = require("pdf-parse");
 
     for (const file of files) {
       const buffer = fs.readFileSync(path.join(folderPath, file));
       const pdf = await pdfParse(buffer);
-      fullText += "\n" + pdf.text;
+      fullText += "\n" + (pdf.text || "");
     }
 
     const cleaned = cleanText(fullText);
-    const chunks = splitIntoChunks(cleaned);
-    const sampled = sampleChunks(chunks, questionCount * 2);
+
+    if (!cleaned) {
+      return Response.json({ error: "Could not read text from PDF." }, { status: 500 });
+    }
+
+    const chunks = splitIntoChunks(cleaned, 1400);
+    const sampled = sampleChunks(chunks, Math.max(10, questionCount * 2));
 
     const prompt = `
-Generate ${questionCount} LARE-style questions.
+Generate ${questionCount} LARE-style study questions from the source text below.
 
-REQUIREMENTS:
-- At least 40% must be SELECT ALL THAT APPLY
-- Questions must come from DIFFERENT parts of the material
-- Avoid repeating the same section
+Requirements:
+- At least 40 percent must be SELECT ALL THAT APPLY questions with more than one correct answer.
+- Questions must come from DIFFERENT parts of the material.
+- Avoid repeating the same section or idea.
+- Questions should help someone review important exam-relevant information.
+- For every question, return:
+  - question
+  - options
+  - answer (always an array; one item for single-answer, multiple items for multi-select)
+  - explanation
+  - multi (true for select-all-that-apply, false otherwise)
 
-Return JSON only:
+Return valid JSON only in this exact shape:
 {
   "questions": [
     {
-      "question": "",
-      "options": [],
-      "answer": [],
-      "explanation": "",
-      "multi": true
+      "question": "string",
+      "options": ["string", "string", "string", "string"],
+      "answer": ["string"],
+      "explanation": "string",
+      "multi": false
     }
   ]
 }
 
-CONTENT:
+SOURCE TEXT:
 ${sampled.join("\n---\n")}
-`;
+`.trim();
+
+    const client = new OpenAI({
+      apiKey: process.env.OPENAI_API_KEY,
+    });
 
     const response = await client.responses.create({
       model: "gpt-5",
       input: prompt,
     });
 
-    const text = response.output_text;
-    const json = JSON.parse(text);
+    const outputText = response.output_text || "";
+    const parsed = parseJsonSafely(outputText);
 
-    return Response.json(json);
-  } catch (e: any) {
-    return Response.json({ error: e.message });
+    if (!parsed || !Array.isArray(parsed.questions)) {
+      return Response.json(
+        {
+          error: "AI did not return valid question JSON.",
+          raw: outputText.slice(0, 1000),
+        },
+        { status: 500 }
+      );
+    }
+
+    return Response.json({ questions: parsed.questions });
+  } catch (error: unknown) {
+    const message = error instanceof Error ? error.message : "Unknown error.";
+    return Response.json({ error: message }, { status: 500 });
   }
 }
