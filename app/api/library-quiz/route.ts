@@ -30,7 +30,7 @@ function cleanText(text: string): string {
     .trim();
 }
 
-function splitIntoParagraphChunks(text: string, maxLength: number = 1100): string[] {
+function splitIntoParagraphChunks(text: string, maxLength: number = 900): string[] {
   const cleaned = cleanText(text);
   const paragraphs = cleaned
     .split(/\n\s*\n/)
@@ -146,9 +146,9 @@ function normalizeQuestions(items: QuestionPayload[]): QuestionPayload[] {
 }
 
 function makeBatchPlan(total: number): number[] {
-  if (total <= 3) return [total];
-  if (total <= 5) return [Math.ceil(total / 2), Math.floor(total / 2)];
-  if (total <= 8) return [3, total - 3];
+  if (total <= 4) return [total];
+  if (total <= 8) return [Math.ceil(total / 2), Math.floor(total / 2)];
+  if (total <= 12) return [4, 4, total - 8];
   const batches: number[] = [];
   let remaining = total;
   while (remaining > 0) {
@@ -156,10 +156,16 @@ function makeBatchPlan(total: number): number[] {
       batches.push(remaining);
       break;
     }
-    batches.push(3);
-    remaining -= 3;
+    batches.push(4);
+    remaining -= 4;
   }
   return batches;
+}
+
+function dedupeByQuestion(items: QuestionPayload[]): QuestionPayload[] {
+  return Array.from(
+    new Map(items.map((item) => [item.question.toLowerCase(), item])).values()
+  );
 }
 
 function buildPrompt(args: {
@@ -172,10 +178,11 @@ Generate ${args.questionCount} LARE-style study questions from the source excerp
 
 Requirements:
 - At least ${args.requireMulti} of these ${args.questionCount} questions must be SELECT ALL THAT APPLY questions with more than one correct answer.
-- Spread the questions across DIFFERENT files and DIFFERENT excerpts.
-- Avoid repeating the same topic, section, or concept.
-- Focus on important exam-relevant information rather than trivia.
+- Spread questions across DIFFERENT excerpts when possible.
+- Avoid repeating the same concept.
+- Focus on important exam-relevant material.
 - Use plausible distractors.
+- Keep explanations short and useful.
 - Return valid JSON only.
 
 Return exactly this shape:
@@ -204,7 +211,7 @@ async function generateBatch(
 ): Promise<QuestionPayload[]> {
   const segmentCount = Math.min(
     allSegments.length,
-    Math.max(6, questionCount * 2)
+    Math.max(4, Math.min(8, questionCount + 2))
   );
 
   const rotated = allSegments
@@ -220,7 +227,7 @@ async function generateBatch(
   });
 
   const response = await client.responses.create({
-    model: "gpt-5",
+    model: "gpt-5-mini",
     input: prompt,
   });
 
@@ -269,23 +276,19 @@ export async function POST(req: Request) {
     }
 
     const perFileSegments: string[] = [];
-    const chunksPerFile = Math.max(
-      2,
-      Math.min(4, Math.ceil(questionCount / Math.max(1, files.length)) + 1)
-    );
+    const chunksPerFile = 2;
 
     for (const file of files) {
       const raw = fs.readFileSync(path.join(folderPath, file), "utf-8");
       const cleaned = cleanText(raw);
-
       if (!cleaned) continue;
 
-      const fileChunks = splitIntoParagraphChunks(cleaned, 1100);
+      const fileChunks = splitIntoParagraphChunks(cleaned, 900);
       const sampled = selectDistributedChunks(fileChunks, chunksPerFile);
 
       sampled.forEach((chunk, index) => {
         perFileSegments.push(
-          `[FILE: ${file} | EXCERPT ${index + 1} of ${sampled.length}]\n${chunk}`
+          `[FILE: ${file} | EXCERPT ${index + 1}]\n${chunk}`
         );
       });
     }
@@ -302,26 +305,22 @@ export async function POST(req: Request) {
     });
 
     const batchPlan = makeBatchPlan(questionCount);
-    const batchResults: QuestionPayload[] = [];
 
-    for (let i = 0; i < batchPlan.length; i += 1) {
-      const batchSize = batchPlan[i];
-      const batchQuestions = await generateBatch(
-        client,
-        batchSize,
-        perFileSegments,
-        i * 3
-      );
-      batchResults.push(...batchQuestions);
-    }
-
-    const uniqueQuestions = Array.from(
-      new Map(
-        batchResults.map((item) => [item.question.toLowerCase(), item])
-      ).values()
+    const batchPromises = batchPlan.map((batchSize, index) =>
+      generateBatch(client, batchSize, perFileSegments, index * 2)
     );
 
-    return Response.json({ questions: uniqueQuestions.slice(0, questionCount) });
+    const batchResults = await Promise.all(batchPromises);
+    const merged = dedupeByQuestion(batchResults.flat());
+
+    if (!merged.length) {
+      return Response.json(
+        { error: "No usable questions were returned." },
+        { status: 500 }
+      );
+    }
+
+    return Response.json({ questions: merged.slice(0, questionCount) });
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : "Unknown error.";
     return Response.json({ error: message }, { status: 500 });
