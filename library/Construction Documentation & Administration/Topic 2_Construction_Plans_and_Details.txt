@@ -1,0 +1,1048 @@
+LARE SECTION 3 REFERENCE FILE 2 OF 6
+CONSTRUCTION PLANS AND DETAILS
+For use with quiz generation applications
+Source materials: LARE Practice Exam, Erik Sweet Section D Practice Problems, Jimmie Hinze Construction Contracts, Mometrix LARE Flashcard Study System
+================================================================================
+
+TOPIC: REQUIRED PLAN SHEETS
+
+A complete landscape architecture construction document set includes these standard sheet types:
+- Cover sheet
+- Existing conditions plan (also called base plan or survey plan)
+- Demolition plan
+- Layout plan (also called layout and staking plan)
+- Materials plan (also called paving plan or hardscape plan)
+- Grading and drainage plan
+- Planting plan
+- Irrigation plan
+- Construction details
+- Supplemental plans as needed (lighting, playground, wayfinding, site furnishings)
+
+Cover sheet must include:
+- Project name and address
+- Client name and contact information
+- Names and contact information of all consultants
+- Property legal description
+- Vicinity map showing project location in broader context
+- Complete list of all drawings in the set organized by sheet number and title
+- Permit information
+- Applicable code references
+- Project north arrow and graphic scale
+
+Why the legal description on the cover sheet matters:
+- Permitting agencies use the legal description to locate the property in their records
+- A missing or incorrect legal description can delay or block the permit process
+- It is critical for the contractor and for any future work on the site
+
+Existing conditions plan documents:
+- Everything that currently exists on the site
+- Buildings and structures
+- Trees with species and size noted
+- Utilities both above-ground and below-ground
+- Existing grades and topographic contours
+- Pavement and hardscape
+- Property lines and easements
+- Drainage features such as swales and inlets
+- Environmentally sensitive areas such as wetlands or floodplains
+NOTE: Prepared from a topographic survey by a licensed surveyor.
+
+Demolition plan elements:
+- Items to be removed — shown with dashed lines or an X through them
+- Items to remain — shown at a lighter line weight
+- Items to be protected — called out with protective symbols and specific notes
+- Common elements include: existing trees to be removed, pavement to be removed or sawcut, structures to be demolished, utilities to be capped or abandoned, fences and walls to be removed
+
+Sawcut definition and purpose:
+- A clean straight cut made in existing pavement at the limit of demolition
+- Maintains the structural integrity of the remaining pavement
+- Creates a neat edge for new construction to meet
+- Prevents ragged edges that can crack and deteriorate
+
+Critical coordination requirement:
+- The demolition plan must coordinate precisely with the protection and mitigation plan
+- Any discrepancy between what the demolition plan says gets removed and what the protection plan says gets saved creates field confusion
+- Discrepancies can generate contractor claims for additional time or cost
+
+================================================================================
+
+TOPIC: PROTECTION AND MITIGATION PLANS
+
+The protection and mitigation plan identifies all existing features that must survive the construction process and specifies protective measures required for each.
+
+Tree protection measures — in order of importance:
+- Install construction barrier fencing at the dripline of the tree (MOST IMPORTANT)
+- Apply wood chip mulch within the protection zone
+- Install protective signage
+- Install temporary irrigation during construction if needed
+- Include monetary damage provisions in contract documents
+
+The dripline:
+- The outer edge of the tree's canopy
+- Corresponds roughly to the outer extent of the root system below ground
+- The correct location for protective fencing
+
+Construction barrier fencing requirements:
+- Must be installed BEFORE any site work begins — before clearing, demolition, or grading
+- Inside the fenced zone: no equipment may operate
+- Inside the fenced zone: no materials may be stored
+- Inside the fenced zone: no soil may be compacted
+- Inside the fenced zone: no grade changes may occur
+
+DBH — Diameter Breast Height:
+- Measured at 4.5 feet above grade
+- Standard measurement for specifying tree size in construction documents
+- Trees failing to meet specified DBH should be rejected from the project
+
+Why grade changes near trees are dangerous:
+- Raising the grade over roots cuts off oxygen to the root system
+- Lowering the grade cuts roots directly
+- Both can kill an otherwise healthy tree
+- Even minor changes within the dripline can cause fatal damage
+
+A proper tree protection note specifies:
+- The species
+- The DBH
+- The protection radius
+- The required fencing type
+- The financial consequences if the tree is damaged by the contractor
+NOTE: A vague note such as "protect existing tree" is insufficient.
+
+Beyond trees, the protection and mitigation plan addresses:
+- Adjacent buildings and structures on neighboring properties
+- Active utilities that remain in service
+- Existing hardscape to remain in place
+- Environmentally sensitive areas
+- Stormwater features that must remain functional during construction
+
+================================================================================
+
+TOPIC: LAYOUT AND MATERIALS PLANS
+
+Layout plan content:
+- Precise horizontal location of all new site elements
+- Paths, plazas, walls, steps, ramps, structures, planters, site furnishings
+- Every element dimensioned from known reference points
+- Key elevations including finished floor elevations and spot elevations at grade transitions
+- Top and bottom of wall elevations
+- Must coordinate with the grading and drainage plan
+
+Two primary methods for locating elements on a layout plan:
+
+Dimensioning method:
+- Measures distances from fixed reference points such as property lines or existing buildings
+- Works well for rectilinear designs
+- Simpler to produce and read
+
+Coordinate method (also called staking method):
+- Locates elements using a northings and eastings coordinate system
+- Contractor uses surveying equipment or GPS
+- Preferred for large or complex projects
+- Preferred for curved geometry that is difficult to dimension conventionally
+- Creates a precise, unambiguous location for every element
+
+Materials plan content:
+- Designates the surface material for every area of the site
+- Uses hatching, keynotes, and a legend
+- Shows what material goes where in plan view
+- Includes a legend listing every material with its hatch pattern
+- Keynotes reference each material
+- References to detail sheets showing each material assembly in cross-section
+- Transition notes at material edges showing how one material meets another
+- Notes about special conditions such as scored patterns or inlaid materials
+
+Critical relationship between materials plan and construction details:
+- The materials plan shows WHAT material goes WHERE in plan view
+- The construction details show HOW each material assembly is BUILT in cross-section
+- Both must be perfectly coordinated — conflicts are expensive to resolve in the field
+
+================================================================================
+
+TOPIC: CONSTRUCTION DETAILS — PURPOSE AND DRAWING METHODS
+
+Construction details show how individual elements are built in cross-section, elevation, or three dimensions.
+
+The primary drawing method used in construction details:
+- Orthographic drawing
+- Presents a design from multiple two-dimensional perspectives
+- Includes plan view, elevation view, and section view
+- Allows a three-dimensional assembly to be fully communicated through flat drawings
+- Construction detail sheets communicate through dimensions and orthographic drawings
+- NOT through isometric or perspective views
+
+Types of construction details:
+- Wall details — cross-section from footing to top
+- Paving details — cross-section from subgrade to surface
+- Drainage details — how water is captured and conveyed
+- Planting details — how plants are installed
+- Structure details — how pergolas, arbors, site furnishings are built and connected
+- Green roof details — the layered assembly of a vegetated roof system
+
+Wall detail content:
+- Footing dimensions, depth, material, and reinforcement
+- Wall material and thickness
+- Any reinforcement within the wall body
+- Drainage features such as weep holes or perforated pipe
+- Backfill material specification
+- Waterproofing or dampproofing on back face
+- Cap or coping detail at the top
+
+Paving detail content:
+- Subgrade — native soil with compaction requirement
+- Base course — typically crushed aggregate with depth and compaction requirement
+- Any intermediate layers such as sand setting bed for pavers
+- Wearing surface — finished material with thickness and finish specified
+- Edge conditions — curbs, edging, or transition details
+- Joint spacing and treatment
+
+Drainage detail content:
+- Dimensions and material of drainage structures such as catch basins and trench drains
+- Pipe material, size, and slope
+- How drainage connects to the overall stormwater system
+- Filter fabric and aggregate layers in subsurface systems
+
+================================================================================
+
+TOPIC: SOILS
+
+Three soil property categories always considered when planning and designing a site:
+- Physical properties
+- Site engineering properties
+- Horticultural properties
+
+The three main components that make up soil:
+- Silt
+- Sand
+- Clay
+NOTE: Bark, mulch, and other organic materials are additives, not soil components.
+
+Neutral soil pH range: 6.6 to 7.3
+
+Soil pH affects:
+- Plant survival
+- The color of some plants
+- The durability of landscape construction materials such as rock and plastics
+
+Urban soil failure causes and consequences:
+- Caused by overcompaction and poor maintenance
+- Results in infiltration loss
+- Results in reduced oxygen exchange
+- Results in loss of soil organics
+
+The angle of repose:
+- The natural angle at which a soil rests without compaction or manipulation
+- The stable slope formed when soil is placed naturally
+- Typically a 2:1 slope (two units horizontal for every one unit vertical) in most common soil conditions
+
+Soil bearing capacity:
+- The key soil characteristic that determines footing size
+- The ability of soil to bear weight
+- When designing a footing, the area must be large enough to distribute the load without exceeding bearing capacity
+
+Soil plasticity:
+- Achieved when enough moisture leaves the soil profile and the soil is no longer in a liquid state
+- At this point the soil has some cohesive ability and enters its plastic state
+- The plastic limit is the transition point from liquid to plastic state
+
+Liquefaction:
+- The condition where a soil acts like a liquid
+- Typically occurs during earthquake conditions
+- A risk in certain soil types that must be accounted for in foundation design in seismic zones
+- In poor soil or liquefaction risk areas, only low-ground-pressure tracked equipment is appropriate
+
+Maximum stockpile depth for native topsoil reserved for later planting use: 4 feet
+- Deeper piles compact under their own weight
+- Compaction removes oxygen and kills soil organisms and organic material
+
+The USDA soil classification system is used in the United States to regulate agricultural practices and is the standard for evaluating soils for planting conditions.
+
+Types of soil used in construction:
+- Structural fill — approved solid structural fill material used under floor slabs and building foundations, for bridging over poor soil conditions
+- Geotextile fabrics — used as separation layers between native soils and imported base materials, preventing migration of fines upward into the base course
+
+================================================================================
+
+TOPIC: RETAINING WALLS
+
+Maximum height a landscape architect can design without a structural engineer: 3 feet
+
+How retaining wall height is measured:
+- From the bottom of the footing (including portions buried below finish grade) to the top of the wall
+- NOT from finish grade to the top of the wall
+- The buried portions of the footing count toward the total height for engineering purposes
+
+The one design component common to ALL retaining wall types: drainage
+- All walls must have a means of releasing water from the retained soil
+- Prevents hydrostatic pressure buildup
+- Hydrostatic pressure buildup is one of the most common causes of retaining wall failure
+
+Drainage methods by wall type:
+- Rigid concrete or masonry walls: weep holes
+- Dry-stack or gabion walls: natural voids allow water to pass through
+- Any rigid wall: perforated drain pipe installed at the base in a bed of gravel
+
+Retaining wall types and characteristics:
+
+Cantilever wall:
+- Cast-in-place concrete
+- Used for moderate to high walls
+- Most costly type
+- Greatest potential for height gain
+- Offers options for finish and design pattern
+
+Gravity wall (unit-stack):
+- Materials such as dry-stack stone, keystone block, or crib and bin systems
+- Low to moderate cost
+- Quick to build and inexpensive
+- No finish options
+
+Gabion wall:
+- Wire mesh baskets filled with crushed rock
+- Easy to construct
+- Relatively inexpensive
+- Water passes through naturally — no separate drainage required
+- Appropriate for non-aesthetic solutions where cost is a primary factor
+
+Rockery wall:
+- Large angular boulders stacked and fitted together
+- Natural appearance
+- Moderate cost
+
+Soil-bioengineering wall:
+- Reinforced embankment using geotextile materials, plantings, stone, or concrete surfacing
+
+The batter of a retaining wall:
+- The slight backward tilt built into the face of the wall
+- A lean back into the slope
+- Provides visual stability and helps resist the lateral load of the retained soil
+- Both the exposed face and the back of a wall can have batter
+
+The lateral load on a retaining wall:
+- The force exerted by the soil bearing against the back of the wall
+- Only soil that exceeds the angle of repose exerts pressure
+- Depends on soil type and moisture content
+
+Weep holes:
+- Appropriate for any rigid form of wall construction
+- A footing drain may also be used to relieve water pressure
+
+================================================================================
+
+TOPIC: CONCRETE DETAILS
+
+Concrete strength fundamentals:
+- Strength comes from the ratio of cement to aggregate
+- More water in the mix weakens concrete by diluting the cement paste
+- Too much water reduces compressive strength
+
+Full strength timeline: 28 days after mixing and placement
+
+The chemical process responsible for hardening: hydration
+- Chemical bonding of cement particles with water molecules
+- Continues until particles touch and form the hardened mass
+- Concrete is still curing and gaining strength after 28 days but reaches design strength at 28 days
+
+Common concrete testing methods:
+- Slump test: most common on-site method, measures workability of the mix
+- Proctor test: used to verify subgrade compaction before concrete is placed, establishes maximum dry density and optimum moisture content
+- Cylinder test: measures compressive strength
+
+Vibration during concrete pour:
+- Used to consolidate the mix and fill all voids in forms
+- Without vibration, air pockets form and weaken the finished structure
+
+Most common placement method: cast-in-place (poured and pumped directly on site)
+
+Concrete admixtures — materials added before or during mixing to modify properties:
+- Retardant: slows the hydration process, giving more time to work the concrete — useful for long-distance transport or hot weather
+- Accelerator: speeds up hydration
+- Air entrainment: adds microscopic air bubbles that improve freeze-thaw resistance
+- Reducer: reduces the amount of water needed
+NOTE: A retardant is the admixture used to slow the setting of concrete.
+
+Contraction joints (control joints):
+- Control cracking as concrete expands and contracts with temperature and moisture changes
+- Minimum depth: one-sixth the depth of the concrete slab
+- A construction joint is a break that occurs between concrete pours or sections during installation
+
+Welded wire mesh in a concrete slab:
+- Increases slab tensile strength
+- Helps control cracking
+- Holds the slab together when cracks occur
+- Does NOT increase compressive strength
+
+Aggregate selection for roadway concrete:
+- Primary criterion is rock hardness
+- Rock hardness affects wearing ability under traffic
+- Availability, aggregate size, and cost do not affect wearing surface performance as directly
+
+Base aggregate layer for asphalt roadways:
+- Should always extend beyond the finish pavement edge
+- Provides drainage for the pavement surface
+- Supports the outside edge of the pavement
+- Discourages edge failure
+- Satisfies municipal code requirements
+
+Asphalt treated base (ATB):
+- Used under the asphalt wearing course in wet or freezing conditions
+- Can be worked in adverse weather
+- Reduces subgrade damage from wet conditions
+- Reduces erosion of control points during construction
+
+Tack coat: used to bond two lifts of asphalt together
+Primer: applied as the initial overlayment of the first course of asphalt on a prepared base
+Binder: holds old and new coats of asphalt together
+NOTE: These three terms are distinct and frequently tested.
+
+The three aggregates in standard concrete mixes: sand, crushed stone, and gravel
+NOTE: Cobblestone is NOT commonly used as aggregate in concrete.
+
+Concrete full strength is reached at 28 days — this is a chemical process, not simply drying.
+
+================================================================================
+
+TOPIC: MASONRY DETAILS
+
+Most common masonry materials in landscape construction:
+- Brick
+- Concrete
+- Stone
+NOTE: Clay, brick, concrete, and stone are the most common — listed in the practice materials as brick, concrete, and stone.
+
+Mortar composition:
+- Sand
+- Cement
+- Water
+NOTE: Adding gravel or aggregate to mortar would make it concrete.
+
+Mortar functions in masonry construction:
+- Bonds masonry units together
+- Compensates for irregularities in individual units
+- Allows use of ties and reinforcing within units
+- Provides color and texture enhancement
+
+How to achieve a watertight masonry joint:
+- Through a compressed, tooled joint
+- Mason sets the block into the mortar
+- Uses a rounded tool to compress the mortar into the joint
+- Creates a solid watertight seal
+NOTE: Compressed tooled joints are the correct answer — NOT protruding mortar joints or contraction joints.
+
+Wall tie uses:
+- Hold masonry units together
+- Used to install veneered clay brick units by extending perpendicularly into the masonry unit
+- In a masonry unit with brick veneer, steel rebar would be integral but would not hold the bricks — wall ties hold the bricks
+
+Non-shrink grout:
+- Used to install a railing into a sleeve embedded in a masonry wall
+- Prevents water from entering the sleeve
+- Secures the railing permanently
+
+DBH stands for diameter breast height and is measured at 4.5 feet above grade.
+
+================================================================================
+
+TOPIC: WOOD AND DECK DETAILS
+
+Deck structural hierarchy from top to bottom:
+- Decking surface (transfers load to joists)
+- Joists (carry the decking surface, attached to beams)
+- Beams — the major load-carrying member (span between posts, carry the load of joists)
+- Posts (support the beams)
+- Footings (distribute the load to the soil)
+- Railings (protect users from falls but are NOT structural load-carrying members)
+
+When dead load is excessive on a deck:
+- Deck posts will be CRUSHED — not bent or deflected
+- Deflection occurs when joists are too far apart, causing the decking to sag
+
+Wood member sizing reference: wood span tables
+- Determine deck material sizes based on wood species, spans, and loads
+- Sieve analysis is used for soil testing, NOT for sizing wood members
+- ASTM standards govern manufacture and testing, NOT sizing
+- Connector size tables are used for this situation but derive from wood span tables
+
+Live loads for wooden decks: measured in pounds per square foot (psf)
+
+Beam types:
+- Continuous-span beam: spans more than two posts
+- Cantilever beam: hangs over a post and ends before connecting to another post
+
+Lumber terminology:
+- Nominal-sized lumber: sized prior to kiln drying, shrinkage, and planing
+- Unseasoned lumber (green lumber): freshly cut wood that has not been cured by kiln or air drying
+- Kiln-dried lumber: moisture content is marked on the lumber adjacent to the kiln-dried stamp
+- Finish-grade lumber: specified as having a kiln-dried appearance
+
+Lumber is sold in North America in units of: board feet
+
+Proper orientation for wood decking: BARK SIDE UP
+- Allows cupping to occur away from the walking surface as wood expands and contracts
+- Prevents a tripping hazard
+
+Recommended nail length for wood decking:
+- 2.5 times the thickness of the wood member being secured
+- The nail must penetrate the full depth of the member and drive into the framing below
+
+Nail length for common nail in decking installation:
+- 2.5 times the thickness of the wood member being secured
+
+Wood treatments for ground contact applications (acceptable):
+- Ammoniacal copper arsenate (ACA)
+- Chromated copper arsenate (CCA)
+- Wolmanization
+NOTE: These prevent rot and deter insects. Most treated wood has a life expectancy of 20 to 25 years.
+
+Wood finishes for exposed exterior conditions NOT in ground contact (acceptable):
+- Transparent stain
+- Alkyd paint
+- Polyurethane
+NOTE: Acrylic latex paint is water-based and NOT ideal for fully exposed exterior applications.
+
+================================================================================
+
+TOPIC: FASTENER TYPES
+
+Lag bolt (lag screw):
+- Large fastener with hex head and coarse aggressive threading
+- Used for heavy wood-to-wood or metal-to-wood connections
+- Has wide aggressive thread pattern
+
+Wood screw:
+- Smaller fastener with aggressive threading
+- Used for decking and light wood assemblies
+- Used for small wood pieces and non-lateral sheer structural elements
+- Small wood screws will shear in a lateral direction, so use is prohibited by code in some situations
+
+Machine screw:
+- Standard even threads throughout
+- Used for metal-to-metal or metal-to-plastic connections
+- Has standard thread pattern (not aggressive)
+
+Anchor bolt:
+- Cast in place in concrete
+- Provides structural tie between a footing and the element above it
+- Used for light standards, benches, walls, and deck ledgers attached to new concrete
+
+Nail:
+- The least expensive fastener type
+- Used for general wood framing and decking
+- Least expensive of all fastener types
+
+Spike:
+- A long galvanized metal nail
+- Driven down through stacked timber layers to strengthen and connect them
+- Used for landscape timber walls built in stacked layers (e.g., 4x6 timbers stacked four high)
+
+Application-specific fastener selection:
+- Wooden ledger attached to new concrete wall: anchor bolt embedded in new concrete
+- Timber wall four pieces high using stacked timbers: spike
+- Deck wood-to-wood connection requiring moisture sealing: construction adhesive in conjunction with bolting system
+- Railing installed in sleeve in masonry wall: non-shrink grout
+
+================================================================================
+
+TOPIC: DRAINAGE DETAILS AND LOW IMPACT DEVELOPMENT
+
+Subsurface drainage system components:
+- Perforated pipe (surrounded by filter aggregate)
+- Filter aggregate — typically washed gravel
+- Geotextile fabric — wraps the aggregate to prevent fine soil particles from clogging the system
+- The pipe is sloped toward an outlet
+
+Geotextile fabrics in drainage and pavement applications:
+- Separation layer between native soils and imported base materials
+- Prevents migration of fines upward into the base course
+- Used in applications involving poor or moisture-sensitive soils under impervious surfaces
+
+Low Impact Development (LID):
+- An alternative comprehensive stormwater management strategy
+- Focused on reduction of environmental and economic impacts of site development
+- Uses sustainable materials and concepts to maintain natural hydrologic cycles
+- Especially appropriate for urban redevelopment projects and projects near environmentally sensitive areas
+
+LID site design techniques:
+- Rain gardens (bioretention systems)
+- Porous pavements
+NOTE: Stormwater discharge structures and detention facilities would NOT be LID techniques — they are traditional stormwater approaches that do not allow rainwater to recharge through soil contact.
+
+Benefits of LID approach to stormwater management include:
+- Enhanced landscape aesthetics and wildlife habitats
+- Reduced construction costs
+- Increased lot yield
+- Reduced need for subsurface piping and detention pond infrastructure
+
+Changes associated with traditional site development that LID corrects:
+- Decreased soil porosity and infiltration capacity
+- Increased areas of disturbance
+- Increased areas of impervious surfaces
+- Increased stormwater runoff velocity, volume, and duration
+- Decreased areas of native vegetation
+
+Rain garden (bioretention system):
+- A planted depression that collects and stores stormwater from impervious surfaces
+- Allows stormwater to infiltrate slowly into the ground
+- Recharges groundwater
+- Improves runoff water quality by filtering pollutants through the soil and plant system
+- Three functions simultaneously: stores stormwater, recharges groundwater, and improves runoff water quality
+
+Rain garden soil profile (per stormwater Best Management Practices):
+- Should consist of compost-amended sandy soil
+- Allows rapid infiltration
+- Supports plant and microbial health
+- Improves water quality through filtration
+- Retains moisture to support vegetation between rain events
+
+Plants most appropriate for rain gardens without supplemental irrigation:
+- Native vegetation
+- Acclimated to local climate and can handle both inundation and drought
+NOTE: Evergreen shrubs, ornamental flowering shrubs, and shade trees require supplemental irrigation or cannot handle moisture fluctuations and are NOT the correct answer.
+
+Why geotextile fabric is NOT appropriate in a rain garden:
+- Becomes clogged with fine particulate matter over time
+- Creates a thin impervious layer in the soil profile
+- Reduces or eliminates the infiltration function
+- Causes the rain garden to fail as a stormwater management system
+
+Rain garden soil profile details (based on BMP cross-section):
+- 6 inches flooding depth (max storm events only)
+- 6 inches free board (minimum)
+- Containment berm
+- Non-woven geotextile fabric separation (between sandy soil and gravel)
+- 18 inches of compost-amended sandy soil
+- 4-inch layer of pea gravel
+- Infiltration zone of washed rock
+- 6-inch perforated pipe at base
+- Undisturbed soil below
+
+Best Management Practices (BMPs):
+- Govern not only stormwater but also irrigation and on-site landscape management issues
+- Through use of native plantings
+- Reduced use of fertilizer, pesticides, and herbicides
+- Reuse and proper amendment of on-site soil
+- Main goal: recharge groundwater — promote on-site point-source water management and mitigation by allowing stormwater to infiltrate native subsoils as if the site was undeveloped
+
+LEED — Leadership in Energy and Environmental Design:
+- Program developed by the US Green Building Council (USGBC)
+- Measures the performance efficiency and sustainability of buildings and their associated development
+- Programs include site development and reuse of resources
+- Placing important emphasis on reduction and reuse of water for irrigation
+
+On-site soil recycling techniques that contribute to a healthy growing medium:
+- Tilling soil
+- Stockpiling and reusing on-site topsoil
+- Amending the stockpiled soils with certified compost material
+NOTE: Stockpiling soil in a large pile is NOT beneficial — it compacts. Covering material with plastic is NOT beneficial. Combining soil with on-site trenching spoils is NOT beneficial.
+
+================================================================================
+
+TOPIC: GREEN ROOF DETAILS
+
+Green roof definition: a vegetated roof system installed on top of a waterproofed roof structure.
+
+The seven layers of a green roof assembly from BOTTOM to TOP:
+1. Structural roof deck
+2. Waterproofing membrane (MOST CRITICAL LAYER — failure allows water and roots into building structure)
+3. Root barrier (may be separate or combined with waterproofing membrane)
+4. Drainage layer (lightweight aggregate, drainage mat, or modular drainage panels)
+5. Filter fabric (separates drainage layer from growing medium, prevents fines migration)
+6. Growing medium (specially engineered lightweight substrate — NOT native soil)
+7. Vegetation
+
+Growing medium characteristics (must be):
+- Lightweight to minimize structural load
+- Well-draining to prevent waterlogging
+- Capable of supporting plant growth with minimal depth
+
+Before designing a green roof:
+- A structural engineer must verify the roof structure can handle the additional dead load
+
+Green roof types:
+
+Extensive green roof:
+- Shallow growing medium — 2 to 6 inches deep
+- Lightweight
+- Minimal maintenance required
+- Planted with low-growing drought-tolerant species such as sedums and native groundcovers
+
+Intensive green roof:
+- Deeper growing medium — 6 inches or more
+- Can support wider range of plants including shrubs and small trees
+- Requires more maintenance
+- Imposes significantly greater structural load on the building
+
+Benefits of green roofs:
+- Stormwater management: absorb and slow the release of rainwater, reducing peak runoff
+- Thermal insulation: growing medium and vegetation reduce building energy consumption
+- Urban heat island reduction: vegetation cools the roof through evapotranspiration
+- Extended roof membrane life: layers protect membrane from UV radiation and temperature extremes
+- Habitat creation: provide habitat for birds and insects in urban environments
+
+================================================================================
+
+TOPIC: SUPPLEMENTAL PLANS — LIGHTING
+
+Lighting plan content:
+- Location and type of every luminaire (technical term for a light fixture)
+- Mounting heights
+- Photometric output in footcandles
+- Circuit designations
+- Conduit runs
+- Panel location and schedule
+- Control points such as timers, photocells, and manual switches
+
+The three goals of landscape lighting:
+- First: facilitate safety for users
+- Second: improve the legibility of outdoor spaces and focal points at night
+- Third: encourage use of a space during nighttime hours
+
+The primary goal of pathway lighting: provide a safe travel route through the landscape
+
+The most critical design factor in a recreational area lighting system: uniformity
+- Non-uniform lighting creates shadows and blind spots
+- Reduces safety and can cause injury
+- Especially dangerous in sports and recreational spaces
+
+Invalid criteria for landscape lighting design — this answer appears on the exam:
+- Orienting fixtures so the source of the light is visible to the user
+NOTE: The light source should NEVER be directly visible to users. Glare causes a blinding effect.
+
+The unit used to measure illumination on a surface in the United States: footcandle
+The international standard unit for illumination: lux
+1 footcandle = approximately 10.76 lux
+
+Minimum footcandle level for landscape lighting — per practice materials: 1 footcandle minimum
+
+Installation qualifications by lighting type:
+- Low-voltage lighting: can be installed by a licensed landscape contractor with limited permit requirements
+- Architectural high-voltage lighting: requires electrical permit and must be installed by licensed electrical contractor
+- Sports field lighting: requires electrical permit and must be installed by licensed electrical contractor
+
+Proper grounding method for exterior lighting control panel:
+- Install a ground wire with a welded connection to a grounding rod or plate
+- Connect the panel to that ground
+INCORRECT grounding methods:
+- Connecting to a metal downspout
+- Connecting to the metal conduit with incoming wires
+NOTE: These do NOT adequately protect against lightning or power surges.
+
+================================================================================
+
+TOPIC: SUPPLEMENTAL PLANS — IRRIGATION
+
+Irrigation plan content:
+- Point of connection to the potable water source
+- Backflow prevention device (double-check device)
+- Main shutoff valve
+- Zone control valves
+- Mainline pipe routing
+- Lateral lines from valves to heads
+- Irrigation head locations with coverage radius and precipitation rate
+- Irrigation controller location
+- Rain or soil moisture sensors
+
+Backflow prevention device (double-check device):
+- Required when connecting to a potable water source
+- Prevents irrigation water from flowing backward into the drinking water supply during a pressure drop
+- Required by local codes in virtually every jurisdiction
+- Without it, fertilizers, pesticides, and soil contaminants could contaminate drinking water
+
+Maximum Applied Water Allowance (MAWA):
+- The formula used to calculate total irrigation water allowed on a project when purchasing water rights
+- Takes into account site area, reference evapotranspiration rate for the region, and types of plants being irrigated
+
+Matching precipitation rates rule:
+- When mixing irrigation heads of various radius sizes in the same zone, ALL heads must have matching precipitation rates
+- This ensures uniform water distribution regardless of different coverage radii
+- Mismatched precipitation rates lead to overwatering and underwatering in the same zone
+- Manufacturers produce heads that vary in coverage radius but are calibrated to deliver the same precipitation rate
+
+When to install irrigation sleeves:
+- AFTER mass earthwork is complete
+- BEFORE any permanent site construction — specifically before paving, concrete, or other hardscape
+- Allows irrigation pipes and control wires to be threaded under hardscape later without demolishing finished work
+- Missing this timing window requires costly demolition of finished hardscape
+
+Cold climate irrigation design rule:
+- All mainlines and lateral lines must be installed below the frost line depth
+- Prevents pipes from freezing and bursting during winter
+
+Equipment for irrigation installation by soil type:
+- Colloidal or cohesive soil: chain trencher is most economical
+- Sandy loam golf course (minimize site damage): turf tire wheel trencher
+- Other soil conditions: various types of trenching equipment depending on scale and soil
+
+Connecting irrigation to potable water — required device: backflow preventer
+
+Irrigation control wire sizing:
+- Valve wire must be sized to allow for the voltage drop at the end of each run of wire
+- Voltage drop is determined using Ohm's law
+- Ohm's law finds the voltage drop by multiplying the current (listed in the manufacturer's catalog for each valve) times the resistance for the type of wire used
+
+================================================================================
+
+TOPIC: SUPPLEMENTAL PLANS — PLAYGROUND
+
+Playground design requirements:
+- Fall zone (use zone): the area around and beneath play equipment that must be surfaced with impact-attenuating material
+- Fall zone size is based on the height and type of the equipment
+- Critical fall height: the maximum height from which a child can fall onto the surfacing material without sustaining a life-threatening head injury
+- Surfacing must meet the critical fall height for the tallest piece of equipment
+
+Impact-attenuating surfacing materials:
+- Engineered wood fiber
+- Loose fill rubber
+- Shredded rubber mulch
+- Pea gravel
+- Sand
+- Unitary rubber surfaces
+- Synthetic turf surfaces
+
+Governing standards for playground equipment:
+- Consumer Product Safety Commission (CPSC) guidelines
+- ASTM International standards
+- These define acceptable equipment design, fall zone dimensions, surfacing requirements, and age-appropriate equipment configurations
+
+Playground accessibility:
+- Governed by the Americans with Disabilities Act (ADA)
+- A certain percentage of ground-level and elevated play components must be accessible
+- Accessible routes must connect accessible components throughout the playground
+
+Pool barrier guidelines from the US Consumer Product Safety Commission:
+- Pool top barrier must be at least 48 inches above grade, measured on the side facing away from the swimming pool
+- Eliminate handholds and footholds
+- Minimize the size of openings — all openings should be small enough that a 4-inch diameter sphere cannot pass through (based on head breadth and chest depth of a young child)
+- Barrier bottom should not exceed 4-inch maximum clearance above grade, when measured on the side of the barrier facing away from the pool
+- Barriers should be equipped with a gate or gates which restrict access to the pool
+- A locking device should be included in the gate design
+- Gates should open out from the pool and should be self-closing and self-latching
+
+================================================================================
+
+TOPIC: SUPPLEMENTAL PLANS — WAYFINDING
+
+Wayfinding plan content:
+- Location of all signs
+- Type and mounting method of each sign
+- Information content of each sign
+- Orientation and direction of arrow elements
+- Any lighting associated with signage
+
+Principle of sign placement:
+- Signs are placed at decision points where users must choose a direction
+- Signs placed mid-route where there is no decision add clutter without value
+
+Sign types in a wayfinding system:
+- Identification signs: name a place or facility
+- Directional signs: guide users toward destinations
+- Informational signs: provide details about a location
+- Regulatory signs: communicate rules and restrictions
+- Interpretive signs: provide educational or cultural information about the site
+
+ADA requirements for wayfinding:
+- Sign heights are governed by ADA standards
+- Mounting locations governed by ADA standards
+- Character sizing for visually impaired users governed by ADA standards
+
+================================================================================
+
+TOPIC: GENERAL NOTES, SCHEDULES, AND LEGENDS
+
+General notes cover:
+- Applicable codes and standards for the project
+- Quality standards for materials and workmanship
+- Contractor responsibility statements
+- Coordination requirements between trades
+- Permit and inspection requirements
+- References to standard specifications
+- Special project conditions that apply site-wide
+
+Common schedule types in landscape architecture documents:
+- Plant schedule: symbol, botanical name, common name, quantity, size at installation, and special installation notes
+- Site furnishings schedule: product name, manufacturer, model number, finish, and installation requirements
+- Lighting fixture schedule: type, mounting, lamp type, and circuit designation
+- Irrigation valve schedule: zone number, valve size, flow rate, and coverage area
+
+Legend content:
+- Hatch patterns for all paving materials with labels
+- Symbols for all plant types
+- Line type descriptions for property lines, setback lines, easements, and special conditions
+- Symbols for site elements such as light poles, valve boxes, and drainage structures
+
+Redlines:
+- Drawings reviewed by senior staff and marked with corrections and revisions
+- Traditionally in red pen, today may be digital markup
+- An internal quality assurance tool
+- Produced before documents are issued for client approval, permitting, or construction
+- Reviewed and marked-up drawings — not original drawings and not final issued documents
+
+================================================================================
+
+TOPIC: QA/QC AND CODE COMPLIANCE
+
+Quality Assurance (QA):
+- Ongoing processes and procedures put in place to ensure quality throughout document production
+- Includes consistent drawing standards, coordination protocols, and regular internal reviews
+- Proactive — designed to prevent errors from being made in the first place
+
+Quality Control (QC):
+- Specific checking activities applied to finished products to catch errors before issuance
+- The redline review is a classic quality control activity
+- Reactive — catches what got through despite the QA process
+
+Quality Control goals in construction document production:
+- Preparing accurate and complete documents
+- Designing a project that can be built on time and on budget
+- Ensuring all regulatory requirements are met
+NOTE: Reducing the number of client review meetings is NOT a quality control goal.
+
+Value Engineering:
+- A review of a project by a third-party team of experts
+- Mission: improve performance, reliability, quality, safety, and life-cycle costs
+- An independent third-party process
+- NOT the same as internal quality control
+- NOT the same as redesigning to reduce cost (though cost reduction may be an outcome)
+
+Program Validation:
+- The design team's independent review of the client's stated program and budget before design begins
+- Identifies cost increases or unanticipated required tasks early
+- Prevents investing design effort in a program that cannot be built within budget
+
+Total Quality Management (TQM) — three components:
+- Managing the quality of BOTH the design AND the design process (not just the final product)
+- Upper management leading by example
+- Assuming employees will do a good job if properly trained and given correct tools
+NOTE: TQM does NOT focus quality efforts exclusively on final deliverables — it applies throughout the entire process.
+
+Commissioning:
+- The formal process of testing and verifying all installed systems at project completion
+- Confirms they operate as designed
+- Distinct from QC which applies during document production
+- Commissioning happens after construction is complete
+
+Code dimensions to memorize:
+- OSHA minimum railing height for decks and platforms: 42 inches above adjacent deck surface
+- Maximum spacing between railing members: 4 inches (based on size of a baby's head)
+- Maximum planting height in site triangle at 35 mph road entrance: 30 inches
+
+Site triangle definition:
+- Area where all plantings must be kept below 30 inches
+- Ensures drivers have clear visibility when entering or exiting a parking lot or driveway
+- The dimensions of the site triangle depend on the speed of the adjacent road — faster road = larger triangle
+
+Applicable codes and standards landscape architects commonly reference:
+- Zoning regulations: each town's regulations concerning a structure's use, size, relationship to the site, and parking
+- Building codes: published by the state, address how structures are to be constructed including door sizes and materials, window sizes and locations, structural lumber sizes, stair and hallway dimensions
+- Uniform Building Code (ICBO)
+- Uniform Plumbing Code
+- Uniform Mechanical Code
+- National Electric Code
+- Council of American Building Officials (CABO) One and Two Family Dwelling Code
+- International Energy Conservation
+- All public developments must comply with accessibility laws and regulations to ensure access to public spaces for people with disabilities
+
+================================================================================
+
+TOPIC: PLANTING PLANS AND DETAILS
+
+Planting plan components:
+- Plant locations (shown at mature spread, not installed size)
+- Plant tags or callouts
+- Plant schedule (plant list)
+- Planting notes
+
+Why plants are shown at mature spread:
+- Communicates long-term design intent
+- Confirms that spacing is adequate for mature size
+- Gives contractor and owner accurate picture of finished landscape
+
+Plant schedule (plant list) contents:
+- Symbol or abbreviation used on the plan
+- Full botanical name
+- Common name
+- Total quantity required
+- Specified size at installation
+- Any special installation notes
+
+Plant size specifications by type:
+- Trees: specified by caliper — trunk diameter measured 6 inches above grade for trees up to 4-inch caliper, 12 inches above grade for larger trees
+- Shrubs: height and spread or container size
+- Groundcovers and perennials: container size (typically 1-gallon or 4-inch pots)
+
+DBH (Diameter Breast Height): measured at 4.5 feet above grade, standard for specifying tree size
+
+Trees failing to meet specified DBH should be rejected from the project.
+
+Planting notes cover:
+- Soil preparation requirements and amendments
+- Planting hole dimensions
+- Backfill mix specifications
+- Fertilization requirements at planting
+- Mulching requirements — type, depth, and placement
+- Staking and guying — when required, hardware to use, how long to keep in place
+- Warranty and establishment period terms
+
+Correct planting hole preparation: SHALLOW AND WIDE
+- Wide: allows roots to spread into loosened soil, promotes outward root development
+- Shallow (matching root ball depth): prevents plant from settling too low, prevents suffocating the crown
+- Deep narrow holes: compact soil below root ball, restrict oxygen, channel roots downward
+
+Ball-and-burlap tree installation requirements:
+- Set tree at correct elevation first
+- Fully remove the twine from the pit
+- Fully remove the wire basket from the pit
+- Fully remove the burlap from the pit
+- Do NOT fold any of these down into the pit — they leave air voids, impede root growth, and do not decompose quickly
+- Only pruning: removal of dead and damaged branches ONLY
+- No structural pruning, no crown reduction
+
+Staking requirements and timeline:
+- Staking is only appropriate when severe weather conditions exist OR when tree size does not allow self-support
+- Unnecessary staking impedes trunk strength development
+- When used: loosen stakes after the FIRST growing season
+- When used: REMOVE stakes entirely after the SECOND growing season
+- Leaving stakes and guy wires in place indefinitely can girdle the tree
+
+Mulch requirements:
+- Moderates soil temperature
+- Retains soil moisture
+- Suppresses weed growth
+- MUST NEVER contact the trunk or stem of a plant
+- Burying the trunk in mulch causes rot and disease (called volcano mulching)
+- Pull back from the trunk several inches
+- Spread evenly over the full root zone
+
+Most important factor for long-term plant health at installation:
+- The condition of the plants upon arrival at the planting site
+- Inspect immediately for dryness, physical damage, and unhealed wounds in the bark
+
+Best planting season: FALL
+- Allows root systems to establish before summer heat or drought
+- Root development focus before encountering seasonal stress
+
+Second best planting season: Spring
+- But spring focuses energy on above-ground growth rather than root development
+- Leaves the root system less established going into first summer
+
+Worst planting seasons: Summer and Winter (most stressful, avoid when possible)
+
+USDA plant hardiness zones:
+- Based on average annual minimum winter temperature
+- General indication of which plant species will survive in a given location
+- Not sufficient alone for selecting specific cultivars
+- Cultivar hardiness also depends on where the plant was grown (nursery location matters)
+- Always verify suitability with a local reputable nursery
+
+Organization that sets standards for plant material health, size, shape, and vigor:
+- ANLA — American Nursery and Landscape Association
+NOTE: NOT ANSI (general safety standards), NOT ASTM (testing and materials), NOT CSI (specifications organization)
+
+Stakes and guy wires for trees should remain in place for:
+- Loosened after one growing season
+- Removed entirely after two growing seasons
+
+Planting season for most landscape materials — best season and reason:
+- Fall is best because plants can establish root systems during mild fall and winter temperatures before facing summer heat or drought
+
+================================================================================
+END OF REFERENCE FILE 2 — CONSTRUCTION PLANS AND DETAILS
+================================================================================

@@ -1,0 +1,599 @@
+LARE SECTION 3 REFERENCE FILE 3 OF 6
+CONSTRUCTION SPECIFICATIONS AND BIDDING
+For use with quiz generation applications
+Source materials: LARE Practice Exam, Erik Sweet Section D Practice Problems, Jimmie Hinze Construction Contracts, Mometrix LARE Flashcard Study System
+================================================================================
+
+TOPIC: THE PROJECT MANUAL AND CONTRACT DOCUMENTS
+
+The project manual is the bound written document that accompanies the construction drawings. Together — drawings plus project manual — these form the complete set of contract documents.
+
+The contract documents are the complete legal set that defines:
+- What is to be built
+- The standards the work must meet
+- The terms under which the work is performed
+- The rights and responsibilities of all parties
+- How disputes will be resolved
+
+The relationship between drawings and specifications:
+- Drawings show the location, configuration, and dimensions of the work
+- Specifications describe the quality, materials, and methods
+- Neither is complete without the other
+- When there is a conflict between drawings and specifications, the SPECIFICATIONS typically govern unless the contract explicitly states otherwise
+
+The four major sections of a project manual in order:
+1. Bidding requirements
+2. Contract forms
+3. Conditions of the contract (general conditions and supplementary conditions)
+4. Technical specifications
+
+================================================================================
+
+TOPIC: BIDDING REQUIREMENTS
+
+Bidding requirements section contains:
+- Advertisement or invitation to bid
+- Instructions to bidders
+- Bid form
+- Supplementary bid documents (if any)
+
+Advertisement or invitation to bid includes:
+- Project name and location
+- Brief description of scope of work
+- Owner and landscape architect contact information
+- Instructions for obtaining bidding documents
+- Bid deadline date, time, and location
+- Bid bond requirements
+
+Instructions to bidders covers:
+- Format and content requirements for the bid
+- Type of bid (lump sum, unit price, etc.)
+- Bid security required (bonds and certificates)
+- Submission deadline and location
+- How to handle questions during the bidding period
+- What to do if a bidder finds an error in the documents
+- Pre-bid meeting requirements
+- Subcontractor listing requirements
+- Information related to the opening of the bids
+
+Information available to bidders includes:
+- References to existing conditions
+- Hazardous materials information
+- Description of the site and buildings
+
+Bid form (bid response form) should include:
+- Project identification
+- To whom the bid is directed
+- Who submitted the bid
+- Acknowledgments
+- Length of time the bid is valid
+- Acknowledgment of all addenda received
+- Pricing — unit prices and total lump sum
+- Start and completion dates
+- Signature and date of bid
+
+Contract forms included in the project manual:
+- Agreement between owner and contractor (the actual contract)
+- Performance bond
+- Payment bond
+- Certificates of insurance
+
+================================================================================
+
+TOPIC: CONDITIONS OF THE CONTRACT
+
+General conditions (boilerplate):
+- Standardized document outlining the roles of all parties
+- Provides guidance for procedures under varying circumstances
+- Covers owner's rights and responsibilities
+- Covers contractor's obligations
+- Covers the landscape architect's role during construction
+- Covers payment procedures
+- Covers the change order process
+- Covers dispute resolution procedures
+- Covers insurance requirements
+- Covers project completion requirements
+- Typically a standard industry form — most commonly an AIA (American Institute of Architects) standard document
+- Applies to all projects using that form
+
+Supplementary conditions:
+- Project-specific additions or modifications to the general conditions
+- Address issues that standard general conditions omit
+- Customize the general conditions for a particular project
+- Do NOT replace the general conditions — they supplement them
+- Any item in supplementary conditions that conflicts with general conditions typically governs over the general conditions language
+
+Division 1 — General Requirements:
+- Administrative and procedural requirements that apply to the ENTIRE project
+- Where documents relating to contracts, work sequences, price and payment procedures, and quality requirements are placed
+- The rulebook for how the project will be administered
+- Covers submittal procedures, payment requirements, quality control, temporary facilities, and project closeout procedures
+
+================================================================================
+
+TOPIC: CSI MASTERFORMAT
+
+The Construction Specifications Institute (CSI) developed MasterFormat — the standardized numbering and organizational system for construction specifications in North America.
+
+Two key editions and their differences:
+
+1995 MasterFormat:
+- All site-related work concentrated in Division 2 — Site Work
+- Division 2 included earthwork, paving, site drainage, site utilities, landscaping, and IRRIGATION
+- Had 16 total divisions
+
+2004 MasterFormat:
+- Significantly expanded to better reflect modern construction practice
+- Site work redistributed across multiple divisions
+- Has 49 total divisions
+- IRRIGATION moved from Division 2 to Division 32
+
+Key divisions in 2004 MasterFormat that must be memorized:
+
+Division 1 — General Requirements:
+- Administrative and procedural requirements for the entire project
+- Submittal procedures
+- Payment procedures
+- Quality control requirements
+- Temporary facilities
+- Project closeout procedures
+
+Division 31 — Earthwork:
+- All excavation, grading, and earthwork operations
+- Requirements for stripping and stockpiling existing topsoil for later reuse
+- Soil compaction testing
+- Subgrade preparation
+- Fill material requirements
+NOTE: When a landscape architect writes requirements for saving and reusing native topsoil, those requirements go in Division 31.
+
+Division 32 — Exterior Improvements:
+- Exterior paving and surfacing
+- Curbs and gutters
+- Site improvements such as fences and retaining walls
+- Exterior planting including trees, shrubs, groundcovers, and sod
+- Exterior irrigation systems
+NOTE: This is where IRRIGATION is located in the 2004 edition — moved here from Division 2 in the 1995 edition. This is a directly and commonly tested fact.
+
+Division 33 — Utilities:
+- Utility systems located outside of buildings
+- Water distribution systems
+- Sanitary sewer systems
+- Storm drainage systems
+- Other underground utilities
+NOTE: When specifying the connection of an irrigation system to the site water supply or a stormwater drainage system, those utility-related specs fall under Division 33.
+
+Three documents that standardize construction format, produced jointly by CSI and Construction Specifications Canada (CSC):
+- Page Format: standardizes how the text on each page in a specification is presented
+- Section Format: organizes the information in each section into three parts (Part 1 General, Part 2 Product, Part 3 Execution)
+- MasterFormat: a master list of numbers and titles to organize the activities and requirements of a construction project — includes 16 divisions (1995) or 49 divisions (2004) plus a summary of front-end requirements
+
+================================================================================
+
+TOPIC: TECHNICAL SPECIFICATIONS — THREE-PART FORMAT
+
+Every technical specification section follows the standard three-part CSI format:
+
+Part 1 — General:
+- Scope of work covered by the section
+- Related sections in other divisions
+- References to applicable standards (ASTM, ANSI, ANLA, etc.)
+- Submittals required before work in this section begins
+- Quality assurance requirements
+- Delivery, storage, and handling requirements
+- Project conditions
+ANSWERS: Part 1 General covers scope, references, submittals, and quality assurance.
+
+Part 2 — Products:
+- The exact materials, products, and equipment to be incorporated into the work
+- Brand names or product standards
+- Material properties such as compressive strength or density
+- Acceptable manufacturers or product lines
+- Substitution procedures
+ANSWERS: Part 2 Products covers what materials and products will be used.
+
+Part 3 — Execution:
+- How the work is to be installed
+- Surface preparation before installation
+- The installation method including sequencing and technique
+- Field quality control requirements such as testing and inspection
+- Tolerances — the acceptable range of dimensional variation
+- Requirements for protecting and cleaning the finished work
+ANSWERS: Part 3 Execution covers how the work will be installed.
+
+================================================================================
+
+TOPIC: TYPES OF SPECIFICATIONS
+
+Four types of specifications (also called the four main types):
+
+Performance specifications:
+- Describe the required outcome or performance standard
+- Focus is on results
+- Contractors choose the materials and installation methods to provide the desired results
+- Give contractor flexibility in how to meet the standard
+- Appropriate when the outcome can be clearly defined but the method need not be prescribed
+- Example: a paving system capable of infiltrating a minimum of 10 inches of rainfall per hour
+
+Proprietary specifications (also called prescriptive or closed specifications):
+- Specify exact materials by brand name and product number
+- OR describe properties so detailed that only one or a few products can meet the requirements
+- Give maximum design control to the owner and designer
+- Reduce competition among contractors
+- May be more expensive
+- Appropriate when design depends on a specific aesthetic or performance characteristic
+
+Descriptive specifications:
+- Focus on exact properties and installation methods
+- Do not name brands
+- Describe the characteristics of acceptable materials in detail
+
+Reference standard specifications:
+- Requirements are based on an established published standard
+- Reference a published standard such as ASTM, ANSI, or ANLA as the measure of acceptability
+- The contractor must meet the requirements of that published standard
+- Advantage: the standard is detailed, technically rigorous, and widely recognized
+- Requires the landscape architect to be familiar with the referenced standard
+
+NOTE: Most real-world project specifications use a combination of all four types.
+NOTE: The exam may also present these as three types: performance, proprietary, and reference standard.
+
+Or-equal clauses in specifications:
+- Some specifications list a named product followed by the phrase "or equal" or "or approved equal"
+- Means the contractor may use the named product OR any product the landscape architect determines to be equal in quality and performance
+- Builds substitution flexibility directly into the specification
+- Different from a substitution request — or-equal clause is pre-approved flexibility in the spec itself
+
+================================================================================
+
+TOPIC: ESTABLISHING BID REQUIREMENTS
+
+Before a project can go out to bid, bidding requirements must establish:
+- Who can bid
+- How bids must be submitted
+- What information bidders must provide
+- How bids will be evaluated
+
+Public projects vs. private projects:
+- Public projects: must be publicly advertised, open to any qualified contractor
+- Private projects: owner may selectively invite a short list of pre-screened contractors
+
+Bid security types:
+- Bid bond (most common on larger projects)
+- Certified check
+- Cashier's check
+NOTE: Bid bonds are typically expressed as a percentage of the bid amount — commonly five or ten percent.
+
+Bid bond:
+- A surety instrument submitted with a contractor's bid
+- Guarantees that if the bidder is awarded the contract they will execute it and provide all required performance and payment bonds
+- Protects the owner if the low bidder refuses to sign the contract after selection
+- The surety can recover the cost difference between the defaulting bid and the next lowest bid
+- Three parties: principal (contractor), obligee (owner), surety (bonding company)
+
+Prequalification:
+- Process used on large, complex, or specialized projects
+- Owner evaluates contractor before allowing them to bid
+- Evaluates: financial capacity, relevant experience, available equipment, key personnel, and safety record
+- Contractors not meeting prequalification criteria are not permitted to submit bids
+- Reduces the risk of awarding a contract to a contractor who cannot perform the work
+
+Unit prices on a bid form:
+- Pre-agreed costs for specific units of work (e.g., cost per square foot of paving, cost per each of a plant type)
+- Valuable because they allow change orders during construction to be priced at pre-agreed rates
+- Reduces disputes and speeds the change order process
+- Allows owner to evaluate the true cost of alternates
+
+================================================================================
+
+TOPIC: THE BID PROCESS
+
+Bid process sequence:
+1. Issue bidding documents to all interested or invited contractors simultaneously
+2. Bidders review documents, visit the site, and prepare their bids
+3. Pre-bid meeting or site walk (optional but common)
+4. Bidders submit written questions during the bidding period
+5. Landscape architect issues addenda to all bidders simultaneously
+6. Bid day — bids submitted by deadline
+7. Bids opened (publicly on public projects, privately on private projects)
+8. Owner evaluates bids with landscape architect's assistance
+9. Contract awarded to lowest responsive responsible bidder (public) or per owner criteria (private)
+10. Contract executed — both parties sign, bonds and insurance provided
+11. Notice to Proceed issued
+
+Issuance of bidding documents:
+- Distributed simultaneously to all bidders — no contractor should receive documents before others
+- May be distributed as hard copy, digital files, or through an online plan room
+- Complete set includes project manual, all drawing sheets, and acknowledgment form
+
+Pre-bid meeting requirements:
+- All questions asked at pre-bid meeting are preliminary until formalized in writing
+- Verbal answers at pre-bid meetings do NOT change the contract documents
+- Only written addenda change the contract documents
+- Questions raised at pre-bid meetings must still be formalized through addenda to be legally valid
+
+Bid day rules:
+- All bids must be received at the designated location by the specified time
+- LATE BIDS ARE TYPICALLY REJECTED WITHOUT BEING OPENED — this is a firm rule on most public projects
+- Treating the deadline as flexible would be unfair to contractors who submitted on time
+
+Bid opening:
+- Public projects: bids are opened publicly, bid amounts read aloud
+- Private projects: bids typically reviewed privately by owner and landscape architect
+
+Bid evaluation criteria:
+- Public projects: lowest responsive, responsible bidder
+- Private projects: owner has more flexibility — price, track record, proposed schedule, key personnel
+
+Responsive bid: complies with all procedural requirements — correct form, bid security included, all addenda acknowledged, all required information included
+
+Responsible bidder: has the financial capacity, experience, equipment, and personnel to actually perform the work
+
+Both criteria must be met — a bid can be low in price but rejected if the bidder is not responsible.
+
+Contract execution after award:
+- Both parties sign the agreement
+- Contractor provides required performance and payment bonds
+- Contractor provides certificates of insurance
+- Notice to Proceed is issued
+- The NTP date is the start date for measuring contract duration
+
+================================================================================
+
+TOPIC: ADDENDA
+
+Addendum definition:
+- A formal written document issued by the landscape architect or owner during the bidding period
+- Purpose: to clarify, correct, or modify the bidding documents
+- Addresses questions, answers, errors, and changes that evolve during the bidding process
+
+Critical rules governing addenda — ALL of these are exam-testable:
+
+Rule 1 — Must be issued to ALL bidders SIMULTANEOUSLY:
+- Providing information to one bidder but not others creates an unfair advantage
+- Selective communication can invalidate the entire bid process
+- Can expose the owner to legal challenge from other bidders
+
+Rule 2 — Must be in WRITING:
+- Verbal clarifications — at pre-bid meetings, by phone, in person — do NOT change the contract documents
+- Only formally issued written addenda have legal effect
+- Verbal answers must be followed up with a written addendum to be binding
+
+Rule 3 — Addenda BECOME PART OF THE CONTRACT DOCUMENTS:
+- Contractor must incorporate all addenda into their bid
+- At contract award, complete contract documents = original documents + all issued addenda
+- Changes made by addendum supersede original document language for those items
+
+Rule 4 — Must be issued with ENOUGH TIME for bidders to incorporate them:
+- Most contracts specify a minimum period — often 3 to 7 days before bid date — within which addenda cannot be issued
+- If a significant issue arises very close to bid day, the bid date may need to be extended
+
+Rule 5 — Bidders must ACKNOWLEDGE receipt of all addenda:
+- Acknowledgment is required on the bid form
+- A bid that fails to acknowledge an addendum may be considered non-responsive
+
+Common reasons for issuing an addendum:
+- Error or omission discovered in the documents
+- Change in scope of work requested by the owner during bidding
+- Clarification needed to resolve an ambiguity
+- Response to a bidder question that affects all bidders
+- Change in bid date or bid procedures
+
+Addendum document contents:
+- Project name and number
+- Addendum number (sequential — Addendum No. 1, No. 2, etc.)
+- Date of issuance
+- Clear description of each change or clarification
+- Any revised drawing sheets or specification sections
+
+Substitution during bidding:
+- A substitution is a process in which bidders request to use components other than those specified
+- Usually occurs when there are proprietary specifications or few manufacturers of specified items
+- Approval results in an addendum sent to all bidders informing them of the acceptable substitution
+
+Alternate bids:
+- An alternate is a request included in the bidding documents
+- Asks the contractor to provide a price for some type of variation from the base bid
+- Allows flexibility in project cost
+
+================================================================================
+
+TOPIC: CONTRACT TYPES
+
+Lump Sum contract (also called Stipulated Sum):
+- A single fixed price covers all work required to complete the project
+- Contractor receives that amount regardless of actual costs
+- Efficient performance = profit; inefficiency = loss
+- Risk is entirely on the contractor
+- Most appropriate when scope of work is well-defined and complete before bidding
+- Most low-bid contracts are stipulated sum contracts
+
+Time and Materials contract (T&M):
+- Contractor is paid for actual labor costs plus actual direct costs plus agreed profit margin
+- No maximum contract amount
+- Owner pays whatever the work actually costs
+- Requires detailed backup documentation — every hour of labor and material cost tracked
+- More complex to administer than lump sum
+- Owner bears the cost risk
+
+Time and Materials with Maximum Not-to-Exceed (T&M with Cap):
+- Works like T&M except a maximum budget amount is agreed upon in advance
+- Contractor paid for actual costs up to the maximum
+- Protects owner from open-ended cost exposure
+- Limits the contractor's ability to claim full profit as costs approach the cap
+- Different from GMP — distinction is subtle but both protect the owner
+
+Guaranteed Maximum Price (GMP):
+- Contractor invoices on a cost basis — similar to T&M
+- Total cannot exceed a stipulated maximum price agreed to in advance
+- If actual costs exceed GMP, the contractor absorbs the difference
+- If actual costs are less than GMP, savings may be shared per terms agreed in contract
+- Protects owner from cost overruns while giving contractor an incentive to perform efficiently
+- May include a shared savings clause or incentives for early completion
+
+Cost Plus Fixed Fee:
+- Contractor is reimbursed for all direct costs
+- Receives a fixed fee on top of those costs as profit
+- Fixed fee is negotiated at start of contract and does NOT change as project progresses
+- Even if scope changes or actual costs vary, the profit fee stays fixed
+- Used when scope is not fully defined
+- Owner wants contractor motivated to control costs
+
+Unit Price contract:
+- Used when the actual scope of work cannot be determined at the time of bid
+- Contractor provides a price per unit of work (per linear foot of pipe, per square yard of paving, etc.)
+- The key to obtaining effective bids is to provide a realistic estimate of the quantities for each activity type
+
+Ways to achieve a lower design fee by refining contract scope:
+- Reduce the number of design alternatives to be developed and presented
+- Reduce the number of formal plan submittals and review meetings
+- Reduce the general scope of work by removing certain services entirely
+
+================================================================================
+
+TOPIC: PROJECT DELIVERY METHODS
+
+Four primary project delivery methods:
+
+General Contract Method (design-bid-build):
+- Most widely used approach
+- Process is sequential: design first, then bid, then build
+- Owner hires landscape architect to produce complete construction documents
+- Completed documents put out to competitive bid
+- Contractor selected
+- Landscape architect and contractor have SEPARATE, INDEPENDENT contracts with the owner
+- Landscape architect and contractor do NOT contract directly with each other
+- Landscape architect administers the construction contract on behalf of the owner
+
+Design-Build Method (also called turnkey or design-construct):
+- Owner awards a SINGLE contract for both design and construction
+- One entity — the design-builder — is responsible for both
+- Design-builder may be a contractor with in-house design, a design firm with construction capability, or a joint venture
+- Compresses the project schedule by allowing construction to begin before design is complete
+- Gives owner a single point of accountability
+- Disadvantage: owner loses the independent check that exists in design-bid-build
+- NOTE: In a design-build project, the CM may actually be the entity who hires the design team
+
+Professional Construction Management Method:
+- Owner hires a CM firm to serve as professional advisor throughout design AND construction
+- CM represents the owner's interests
+- CM coordinates the work of multiple contractors
+- CM manages the schedule, monitors costs, oversees construction process
+- CM typically does NOT self-perform construction work
+- Most appropriate for large, complex projects needing dedicated professional management
+
+Multiple Prime Contract Method:
+- Owner enters into SEPARATE prime contracts with multiple contractors
+- Example: one contract for civil work, one for landscape, one for electrical
+- Each prime contractor directly accountable to the owner
+- Can save money by eliminating general contractor's markup on subcontractors' work
+- Places significantly more coordination and administrative burden on the owner
+
+================================================================================
+
+TOPIC: COST ESTIMATING AND ACCOUNTING IN SPECIFICATIONS
+
+RS Means and Saylor: publish cost estimating reference manuals for the United States
+CSI: publishes specification standards — NOT cost estimating
+ASTM: publishes material testing standards — NOT cost estimating
+
+Budgetary cost model:
+- Breakdown of overall estimated construction costs into major components
+- Organized by CSI MasterFormat number
+- Establishes cost targets for each major component
+- Provides a baseline for evaluating different materials and approaches
+
+Scope of Work (SOW):
+- Defines the boundaries and deliverables of a project
+- The contractual definition of what is included and what is excluded
+- Primary tool for preventing scope creep (gradual expansion of project work beyond what was agreed)
+
+Salary-related expenses (burden costs):
+- Additional labor costs beyond base salary
+- Include: employer's share of Social Security, Medicare, unemployment insurance, workers compensation insurance, health insurance, vacation pay, sick leave
+- Must be included in project fee calculations
+- Distinct from indirect labor costs — do NOT confuse these terms
+
+Other Direct Costs (ODCs):
+- Miscellaneous project-related costs other than direct labor
+- Examples: postage, printing and reproduction, messenger services, travel expenses, photo development
+- Typically billed as reimbursable expenses
+
+Reimbursable expenses under a design contract typically include:
+- Travel and subsistence expenses
+- Communication expenses (telephone, facsimile, messenger charges, postage)
+- Production supplies and expenses
+- Reproduction costs (blueprinting, photocopying, photographs, printing, binding)
+- Subconsultant expenses for special services (structural, mechanical, electrical engineering, surveying, soil investigations, testing)
+- Specialized equipment including computers and software
+- Project incentives
+
+================================================================================
+
+TOPIC: DRAWINGS AS PART OF CONTRACT DOCUMENTS
+
+Drawings are the first of three elements of a design (along with specifications and contract conditions). The role of drawings is to show the location of the work required in relation to other required elements, as well as the quantity and size.
+
+Drawings should be drawn to scale whenever possible.
+
+Drawings are generally grouped together by discipline:
+- Structural (S)
+- Architectural (A)
+- Mechanical (M)
+- Electrical (E)
+- Plumbing (P)
+- Civil/Landscape (C or L)
+
+Types of drawings used to show work from different perspectives:
+- Plan: shows site or building horizontal views (floor plans)
+- Elevation: shows vertical views (wall or rack views)
+- Section: shows sectional view (sleeve through a wall)
+- Detail: shows details (faceplate labeling, assembly connections)
+- Schedule Spreadsheets: tables of information (cross-connect schedule, plant schedule)
+- General: symbols, legend, and notes
+
+A specification is an explicit set of requirements to be satisfied by a material, product, or service. Specifications in North America form part of the contract documents that accompany and govern the construction of a building or project.
+
+================================================================================
+
+TOPIC: BIDDING PARTIES AND THEIR ROLES
+
+Owner:
+- Typically supplies the bidding and contracting requirements to be included in the project manual
+- Often coordinates advertising or invitations to prospective bidders
+- Pays fees for all permits, easements, approvals, assessments, and charges not the contractor's responsibility
+
+Architect/Engineer/Consultant:
+- Produces any addenda required to clarify the contract documents
+- May participate during evaluation or negotiation of bids
+- May help owner determine the successful bidder by considering alternates and substitutions
+
+Construction Manager (CM):
+- Depending on project nature, may lead or participate during the bidding process
+- May help evaluate bids to help owner determine the successful bidder
+
+General Contractor, Contractor, and Subcontractor:
+- Prepare and submit bids to the owner
+- Subcontractors prepare and submit their pricing to the GC or other contractors
+
+================================================================================
+
+TOPIC: FEDERAL AND REGULATORY CONTEXT FOR SPECIFICATIONS
+
+Projects must meet applicable local codes, rehabilitation standards, and ordinances including:
+- Zoning regulations published by each town that concern a structure's use, size, relationship to the site, and parking
+- Building codes published by the state that address how structures are to be constructed
+- Uniform Building Code (ICBO)
+- Uniform Plumbing Code
+- Uniform Mechanical Code
+- National Electric Code
+- Council of American Building Officials (CABO) One and Two Family Dwelling Code
+- International Energy Conservation
+- All public developments must comply with accessibility laws
+
+National Pollutant Discharge Elimination System (NPDES):
+- Controls water pollution by regulating point and nonpoint sources
+- May require stormwater pollution prevention plans as part of construction specifications on larger projects
+
+================================================================================
+END OF REFERENCE FILE 3 — CONSTRUCTION SPECIFICATIONS AND BIDDING
+================================================================================

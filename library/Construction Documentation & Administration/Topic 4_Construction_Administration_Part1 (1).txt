@@ -1,0 +1,595 @@
+LARE SECTION 3 REFERENCE FILE 4 OF 6
+CONSTRUCTION ADMINISTRATION PART 1
+Pre-Construction, RFIs, Contract Management, Submittals, Shop Drawings, Substitutions, Mock-Ups, Change Orders, Bulletins, Purchase Requests, Change Directives
+For use with quiz generation applications
+Source materials: LARE Practice Exam, Erik Sweet Section D Practice Problems, Jimmie Hinze Construction Contracts, Mometrix LARE Flashcard Study System
+================================================================================
+
+TOPIC: PRE-CONSTRUCTION ACTIVITIES
+
+Pre-construction activities are the steps that take place between contract execution and the start of physical construction work.
+
+The pre-construction meeting:
+- First formal gathering of all parties after the contract is signed and before any site work begins
+- Landscape architect typically facilitates this meeting
+- Landscape architect prepares and distributes meeting minutes promptly after
+
+Attendees at the pre-construction meeting typically include:
+- Owner or owner's representative
+- Landscape architect or project architect of record
+- General contractor
+- Key subcontractors
+- Local building or permitting authority (sometimes)
+
+Items covered at the pre-construction meeting:
+- Project scope review — everyone starts with the same understanding of what is being built
+- Submittal schedule — detailed list of all required submittals, who is responsible, when each must be submitted and returned
+- Construction schedule including key milestones and contract completion date
+- Site logistics — where materials will be staged, where the site office will be located, how access will be managed, what security measures are required
+- Safety requirements and applicable OSHA standards
+- Administrative procedures for RFIs, change orders, pay applications, and substitution requests
+- Communication chain and chain of command
+- Survey control point locations and protection requirements
+
+Pre-construction site walk:
+- Physical walk of the site with the owner and contractor before any work begins
+- Primary purpose: document existing conditions of the site and all adjacent areas
+- Documents through notes and photographs
+- Creates a baseline record before any work starts
+- Protects all parties if damage claims arise during or after construction
+- If a neighbor claims damage was caused by construction, the documentation establishes what conditions existed before work began
+- Without this documentation there is no baseline to compare against
+
+Survey control points:
+- Fixed reference markers from which all construction staking is referenced
+- Establish the coordinate system for the project
+- MUST be installed before any clearing, demolition, or grading begins — before any earth is moved
+- If disturbed by early construction activity before use, the entire project positioning can be compromised
+- Critical for: locating walls, paths, structures, utilities, and all constructed elements
+- Used throughout construction from clearing to grading to building locations to irrigation connections
+
+Notice to Proceed (NTP):
+- The written document by which the owner formally authorizes the contractor to begin work
+- The NTP date is the reference point from which contract duration is measured
+- Can be issued BEFORE the contract is formally signed if the owner needs work to begin immediately
+- Once issued, the contractor can mobilize and begin work
+
+Commonly required forms during construction administration:
+- Notice to Proceed: tells the contractor to begin work as of a particular date
+- Meeting minutes: keeps track of issues raised in meetings and forms the agenda for subsequent meetings
+- Request for Information (RFI): used to obtain a formal response to the contract documents
+- Field orders: used to facilitate minor changes to the requirements that do not require a change order
+- Change order requests: can be submitted by the contractor in response to a field order or as an uninitiated request for a change in scope
+- Change order: the formal document that defines what changes in project scope are required and identifies the associated changes to time frame, dollar amounts, or both
+- Punch list: a document that summarizes corrections that a contractor must make prior to the work being accepted as complete
+
+================================================================================
+
+TOPIC: REQUESTS FOR INFORMATION (RFIs)
+
+An RFI — Request for Information — is a formal written inquiry submitted by the contractor to the landscape architect asking for clarification or additional information about the construction documents.
+
+RFIs arise when the contractor encounters:
+- Something unclear, ambiguous, or missing from the documents
+- An apparent error or inconsistency (dimension on one sheet does not match another)
+- A conflict between the specifications and the detail drawings
+- A field condition not reflected in the documents (existing utility not shown on drawings)
+- A question about the designer's intent for a specific detail
+- A condition simply not anticipated in the documents
+
+The landscape architect's three required response qualities:
+1. PROMPT — respond within the timeframe established in the contract (typically a defined number of business days from receipt)
+2. CLEAR — leave no room for misinterpretation; the landscape architect must make the design decision, not defer it to the contractor
+3. DEFINITIVE — final and actionable so the contractor knows exactly what to do next
+
+Legal consequences of slow RFI responses:
+- May delay the contractor's work
+- Contractor may be entitled to a time extension
+- Contractor may be entitled to additional compensation for delay costs
+- The designer has an implied professional duty to respond promptly
+
+Legal consequences of vague RFI responses:
+- Transfers design decision-making authority to the contractor
+- The contractor is not a licensed design professional
+- Design decisions are the landscape architect's responsibility
+- Can create professional liability if the contractor's decision leads to a problem
+
+RFI log requirements:
+- Must be maintained for every RFI
+- Records: RFI number, date received, submitter, question description, response date, response summary
+- Serves as the project's documented record of all questions and answers during construction
+- Primary reference document if disputes arise about when issues were identified or how they were resolved
+
+When an RFI response involves a design change:
+- May need to be followed up with a formal drawing revision or bulletin
+- Must be incorporated into the project record
+- All revised documents issued during construction must be logged
+
+High volume of RFIs signals:
+- Quality issues in the construction documents (ambiguities, inconsistencies, or missing information)
+- Analyzing RFI patterns after a project helps improve future document quality
+
+================================================================================
+
+TOPIC: MANAGING THE CONSTRUCTION CONTRACT
+
+Budget management during construction:
+
+Retainage:
+- A percentage of each progress payment withheld by the owner throughout construction
+- Typically 5 to 10 percent of each progress payment
+- Held throughout the construction period
+- Generally returned after final completion
+- Purpose: gives the contractor financial incentive to complete all work and address all punch list items
+- From the contractor's perspective: cash earned but not collectible until the job is finished
+- At substantial completion: a portion (often half) may be released
+- At final completion: remaining retainage is released
+
+Pay application review:
+- Landscape architect reviews the contractor's monthly pay application
+- Compares claimed completion percentages against site observation records
+- Must certify the amount that should be paid based on professional judgment
+- Certifying payment for work not done exposes the landscape architect to professional liability
+- Should cross-reference claimed work against field reports and site observation notes
+- Should confirm all required submittals for that work have been received and approved before certifying payment
+
+Stored materials in pay applications:
+- Contractor may include materials purchased but not yet installed
+- Materials must be properly stored, protected, and documented
+- Landscape architect must verify documentation and protection before certifying payment
+
+================================================================================
+
+TOPIC: CHANGE ORDERS
+
+A change order is:
+- A formal written amendment to the construction contract
+- Modifies scope of work, contract price, contract duration, or any combination
+- MUST be agreed upon and signed by BOTH the owner and contractor BEFORE the changed work is performed
+- The mutual agreement and prior written authorization distinguishes a change order from other modifications
+
+The three primary sources of change orders:
+1. Changes in the owner's program or desires (owner wants something added, removed, or changed)
+2. Design errors or omissions (documents contained a mistake or left something out)
+3. Differing site conditions (actual field conditions differ from what was shown in bidding documents)
+
+Change order process sequence:
+1. Contractor identifies a condition requiring a change
+2. Contractor submits a change order request (change order proposal) with detailed cost and time breakdown
+3. Landscape architect reviews the proposal for reasonableness
+4. Landscape architect checks if the work is truly outside the original contract scope
+5. Landscape architect makes a recommendation to the owner
+6. Owner approves, denies, or negotiates
+7. Both parties sign the change order
+8. Changed work proceeds
+
+CRITICAL PRINCIPLE: Changed work must NEVER proceed without written authorization.
+- Verbal directions do not authorize changed work — even from the owner or landscape architect
+- If contractor performs additional work based on a verbal direction without a signed change order, collecting payment is extremely difficult
+- This is one of the most common sources of construction disputes
+- Best practice: never allow changed work to proceed based solely on a verbal instruction
+
+When evaluating change order cost proposals:
+- Compare proposed pricing against original unit prices in the bid form
+- Compare against published cost data from RS Means or similar references
+- Use professional judgment about what the work should cost
+- Contractors sometimes price change orders higher than their original bid because the owner is in a weaker negotiating position
+- The landscape architect's role is to protect the owner's interests by ensuring fair pricing
+
+Differing site conditions:
+- Physical conditions encountered during construction that differ from what was shown in the bidding documents OR
+- Conditions that differ from what would reasonably be expected at a site of that type
+- Examples: unexpected underground utilities, buried structures, rock where soil was expected, groundwater at unexpected level
+- Do NOT automatically terminate the contract
+- Are addressed through the change order process
+- Contractor documents the condition, submits a change order request for additional time and cost
+- Parties negotiate a resolution
+
+================================================================================
+
+TOPIC: BULLETINS
+
+A bulletin (also called a construction bulletin or clarification bulletin):
+- A written document issued by the landscape architect during construction
+- Purpose: clarify, supplement, or modify the construction documents
+- The primary tool for formally communicating document changes to the contractor during construction
+- The construction-phase equivalent of an addendum (which is issued during bidding)
+
+Key difference between addenda and bulletins:
+- Addenda: issued during the BIDDING period before the contract is signed
+- Bulletins: issued during CONSTRUCTION after the contract is executed
+
+Common reasons for issuing a bulletin:
+- Clarifying a detail that was unclear in the original documents
+- Providing additional information in response to an RFI that requires revised drawings
+- Issuing revised drawings incorporating owner-directed changes
+- Providing supplemental details for conditions not fully detailed in the original set
+
+Bulletin rules:
+- Numbered sequentially (Bulletin No. 1, No. 2, etc.)
+- Logged as part of the project record
+- Every bulletin becomes part of the project record
+- In most cases bulletins become part of the contract documents
+- Contractor is obligated to build in accordance with the most current bulletin for any given element
+
+Critical distinction — when a bulletin requires a change order:
+- A bulletin that CLARIFIES existing contract documents without changing scope: does NOT require a change order
+- A bulletin that ADDS scope, changes materials to something more expensive, or modifies work in a way that affects the contractor's cost or schedule: MUST be accompanied by a corresponding change order
+- Issuing a scope-adding bulletin without a change order asks the contractor to do more work without compensation — this is both unfair and legally untenable
+
+================================================================================
+
+TOPIC: PURCHASE REQUESTS
+
+A purchase request (also called a purchase order):
+- A formal document used to authorize the purchase of specific materials, products, or equipment
+- Used in two primary contexts in construction administration
+
+Context 1 — Owner-furnished, contractor-installed work:
+- When the owner is supplying certain materials or equipment directly
+- Landscape architect may be involved in preparing or reviewing purchase requests for owner-supplied items
+- Documents exactly what is being ordered, from whom, for what price, and on what schedule
+
+Context 2 — Long-lead items:
+- Materials or equipment with extended manufacturing and delivery times
+- Must be ordered early in construction to avoid project delays
+- Contractor submits purchase requests before ordering long-lead items
+- Landscape architect reviews to verify the correct product is being ordered per specifications
+- Landscape architect verifies timing is consistent with the construction schedule
+- Common long-lead landscape items: custom site furnishings, specialty lighting fixtures, large specimen trees, custom fabricated elements
+
+Why purchase request review matters:
+- Catching errors before ordering is far less costly than after delivery
+- Gives owner visibility into what is being incorporated before money is spent
+- Allows early identification of products that do not meet specifications
+
+================================================================================
+
+TOPIC: CHANGE DIRECTIVES
+
+A change directive (also called a construction change directive or interim directive):
+- A written instruction from the owner, issued through the landscape architect
+- Directs the contractor to proceed with specific changed work
+- Used when time is critical and waiting to negotiate a full change order would cause unacceptable delay
+- Price is NOT agreed upon before work begins
+
+THE KEY DIFFERENCE between a change order and a change directive:
+- Change order: requires mutual agreement on price and time BEFORE work proceeds — both parties sign first
+- Change directive: authorizes the contractor to proceed IMMEDIATELY, with price to be determined and formalized in a change order AFTER the work is complete
+
+When change directives are used:
+- An unforeseen condition requires an immediate response (unexpected underground rock must be removed to continue grading)
+- The owner needs immediate action but does not have time to negotiate a full change order
+- Time constraints would cause costly delays if the change order process was followed in full
+
+Contractor's obligations under a change directive:
+- Must meticulously document ALL costs associated with the directed work
+- Every hour of labor, piece of equipment, and material must be tracked and recorded
+- This documentation becomes the basis for the subsequent change order negotiation
+- A contractor who performs change directive work without detailed cost records may be unable to recover full costs
+
+Change directives must ALWAYS be in writing:
+- Even in urgent field situations, a verbal direction must be followed immediately by a written change directive
+- Never allow significant changed work to proceed based solely on verbal instruction, even in an emergency
+
+================================================================================
+
+TOPIC: SUBMITTALS — OVERVIEW AND PROCESS
+
+Submittals are documents, samples, and physical items provided by the contractor to the landscape architect for review and approval before certain materials, products, or systems are incorporated into the project.
+
+Purpose of submittal review:
+- Verify before materials are installed that the contractor intends to use products and methods that comply with the contract documents
+- One of the landscape architect's most important quality control responsibilities during construction
+- Primary opportunity to prevent non-conforming materials from being incorporated into the project
+
+Submittal schedule:
+- Established at the pre-construction meeting
+- Lists every required submittal, who is responsible, required submission date, and required return date
+- Landscape architect must review submittals within the timeframe specified in the contract (typically 14 to 21 calendar days)
+- Late returns delay the contractor's ability to order materials
+- Late returns can cause construction delays for which the landscape architect may bear responsibility
+
+Types of submittals:
+- Shop drawings
+- Product data submittals (materials submittals)
+- Samples
+- Material certifications
+- Manufacturer's literature
+- Mock-ups
+- Test reports
+- Manuals and user instructions
+
+Items the contractor submits during the construction phase:
+- Certificates of insurance
+- Surety bonds
+- List of subcontractors and product lists
+- Schedules of activities
+- Shop drawings
+- Product data
+- Samples
+- Test reports
+- Manuals and user manuals
+- Project photographs
+
+Submittal response designations — know all four:
+1. APPROVED — conforms to the contract documents as submitted; contractor may proceed with fabrication or purchase as shown
+2. APPROVED AS NOTED — acceptable with specific modifications noted on the returned document; contractor must incorporate modifications before proceeding; resubmission not required unless modifications are significant
+3. REVISE AND RESUBMIT — does not conform to contract documents; must be substantially revised and resubmitted for another review round; contractor cannot proceed until approved
+4. REJECTED — fundamentally unacceptable and incompatible with contract requirements
+
+CRITICAL PRINCIPLE — the most important concept in submittal review:
+- The landscape architect's approval of a submittal does NOT relieve the contractor of their responsibility to ensure the work conforms to the contract documents
+- Approval confirms the proposed design and materials APPEAR to conform to the contract documents as the landscape architect understands them
+- Approval does NOT certify dimensional accuracy
+- Approval does NOT certify fabrication correctness
+- Approval does NOT mean compliance with construction means and methods
+- If fabricated work contains dimensional errors not caught in review, that is the CONTRACTOR'S responsibility
+- This is one of the most heavily and directly tested concepts on the exam
+
+================================================================================
+
+TOPIC: SHOP DRAWINGS
+
+Shop drawings definition:
+- Drawings prepared by the contractor, subcontractor, manufacturer, or fabricator
+- NOT prepared by the landscape architect
+- Show exactly how a specific item will be manufactured, fabricated, and installed
+- Translate the landscape architect's design intent into production-ready instructions for the fabricator
+
+Example of a shop drawing:
+- A steel fabricator preparing to build a custom gate submits shop drawings showing: exact dimensions of every member, connection details at every joint, weld sizes and types, surface treatment and finish, anchor bolt pattern, and sequence of assembly
+
+When shop drawings are submitted:
+- BEFORE fabrication — before the item is manufactured, cut, welded, or finished
+- This is the entire point: catching errors on paper costs almost nothing
+- Catching errors after fabrication — when the item arrives on site and does not fit — can cost tens of thousands of dollars
+
+Shop drawings vs. as-built drawings:
+- Shop drawings: submitted BEFORE fabrication, show how item will be made and installed
+- As-built drawings: produced AFTER construction is complete, show the project as actually built incorporating all field changes
+- As-built drawings are a contract CLOSEOUT document, not a pre-construction submittal
+
+The landscape architect's role in reviewing shop drawings:
+- Reviews for conformance with the design intent and contract documents
+- Verifies that the fabricator's interpretation matches the design intent
+- Does NOT check for dimensional accuracy — that is the contractor's responsibility
+- Does NOT certify that fabrication is correct
+- Does NOT take responsibility for means and methods of construction
+
+================================================================================
+
+TOPIC: MATERIALS SUBMITTALS AND SAMPLES
+
+Materials submittals (product data submittals):
+- Manufacturer-prepared technical data sheets, catalog cuts, installation instructions, and performance data
+- For specific products the contractor proposes to use
+- Landscape architect compares product data against specification requirements
+
+What the landscape architect verifies in a materials submittal:
+- That the proposed product's technical performance values meet specification requirements
+- Examples of values checked: compressive strength, absorption rate, freeze-thaw resistance, slip resistance, color and finish consistency
+- Creates a documented record of exactly what products were approved for incorporation
+
+Samples:
+- Physical examples of materials submitted for review and approval
+- Examples: piece of paving stone, paint chip, fabric swatch, mortar sample, plant material sample
+- Approved samples become the standard of comparison for materials delivered to the site
+- If delivered materials do not match the approved sample, the landscape architect has grounds to reject them
+- Samples are commonly required for: paving materials, stone, wood finishes, site furnishing finishes, plant materials
+
+Material certifications:
+- Documents from the manufacturer certifying that a product meets specified standards
+- Example: a certification that concrete pipe meets ASTM standards
+
+Test reports:
+- Laboratory or field test results confirming product performance
+- Example: compressive strength test results for concrete, soil compaction test results
+
+================================================================================
+
+TOPIC: SUBSTITUTION REQUESTS
+
+A substitution request:
+- A formal request from the contractor to use a product or material different from what was specified
+- Must follow the process defined in Division 1 of the specifications
+- Typically must be submitted within a defined period after contract execution
+- Late substitution requests that could have been avoided by timely ordering are generally not acceptable
+
+When substitution requests arise:
+- The specified product is unavailable or discontinued
+- The specified product has an unacceptable lead time
+- The contractor believes an equivalent product is available at lower cost
+- A specified product is no longer manufactured
+
+Required contents of a substitution request:
+- Complete technical information about the proposed substitute
+- Side-by-side comparison showing it meets the specified product's performance requirements
+- Information about any impact on other work in the project
+- Pricing information
+- Evidence that the substitute is actually equivalent
+
+Approval criteria for substitution requests:
+- The substitute must meet the TECHNICAL requirements of the specification
+- The substitute must meet the AESTHETIC requirements of the specification
+- Cost alone is NOT sufficient justification for approval
+- If a substitute is equivalent in performance and aesthetics but costs less, those savings typically belong to the OWNER — not the contractor — unless the contract states otherwise
+- The landscape architect should not approve a substitution simply because it is cheaper
+
+Or-equal clauses vs. substitution requests:
+- Or-equal clause: in the specification itself, lists a named product followed by "or equal" or "or approved equal" — contractor may use any product the landscape architect determines is genuinely equal
+- Substitution request: a separate formal process required when a product is specified without an or-equal option
+- Or-equal clause builds flexibility into the spec; substitution request is the process when that flexibility is not built in
+
+================================================================================
+
+TOPIC: MOCK-UPS
+
+A mock-up:
+- A full-scale or partial-scale physical sample of a work element
+- Assembled in place on the PROJECT SITE (not in a factory or off-site)
+- Built by the contractor for review and approval by the landscape architect and owner
+- Must be reviewed BEFORE that work proceeds in full across the project
+
+When mock-ups are required:
+- Work elements where quality, appearance, and technique are critical
+- When reviewing flat product data or small samples is not sufficient to evaluate the finished result
+
+Common landscape architecture applications for mock-ups:
+- Stone or masonry wall sections showing actual coursing pattern, joint width, mortar color, and surface finish
+- Complex paving layouts showing pattern, joint alignment, and edge treatment
+- Specialty concrete finishes such as exposed aggregate, broom finish, or stamped patterns
+- Planting bed installations showing mulch depth, plant spacing, and edge definition
+- Specialty site furnishing installations
+- Any custom or complex work where appearance is critical to the design intent
+
+Mock-up review process:
+1. Contractor assembles the mock-up per specifications
+2. Contractor submits the mock-up for review
+3. Landscape architect and owner evaluate it IN PERSON — not from photographs
+4. Evaluate for conformance with design intent
+5. If approved: mock-up becomes the quality standard for all subsequent work of that type on the project
+6. If not approved: contractor revises and resubmits
+
+Once approved, the mock-up becomes:
+- The quality standard against which all subsequent work of that type is evaluated
+- Every subsequent installation of that work element must match the approved mock-up in quality, appearance, and technique
+- The contractor cannot claim they did not know the expected standard
+
+The three purposes of mock-ups:
+1. Reveal practical construction challenges EARLY before they become widespread and expensive problems
+2. Establish clear visual quality standards — reduce subjectivity in quality evaluation
+3. Create contractor ACCOUNTABILITY — once approved, the expected standard is defined
+
+What the contract documents should specify about mock-ups:
+- Which elements require mock-ups
+- Minimum size or extent of the mock-up
+- The review procedure
+- The disposition of the mock-up at project completion (incorporated into work, retained as reference, or removed)
+
+================================================================================
+
+TOPIC: CONSTRUCTION SEQUENCING
+
+The proper sequencing of a landscape construction project:
+1. Receive bids and award the project
+2. Perform mass earthwork — rough grading, clearing, and demolition
+3. Install minor site structures — walls, foundations, drainage structures, and underground utilities
+4. Install irrigation and plants
+
+Why this sequence must be followed:
+- Cannot install irrigation before rough grading because grades determine where pipes run
+- Cannot plant before irrigation is in because plants need water immediately after installation
+- Cannot do mass earthwork while plants are in the ground
+- Each step depends on completion of the one before it
+
+Critical note on irrigation sleeves:
+- Must be installed AFTER mass earthwork
+- Must be installed BEFORE any permanent hardscape construction — before paving, concrete, or other site construction
+- Allows irrigation pipes and control wires to be threaded under hardscape later without demolishing finished work
+- Missing this timing window is a very costly mistake requiring demolition of finished hardscape
+
+Construction surveying:
+- Critical for locating building corners, grades, utility connections, and other site elements
+- Coordinate type used to locate construction elements: NORTHINGS AND EASTINGS (a Cartesian coordinate system)
+
+Plane surveying:
+- Method typically used on small to medium landscape architecture projects
+- Measures distances along the horizontal plane
+- Disregards the curvature of the earth
+- Modern plane surveying uses a laser to verify and measure distances and elevations
+- The instrument stores information digitally, downloading it to a program that creates a topographic map
+- Foresights and backsights are used to verify the surveyor's location
+
+Geodetic surveying:
+- Takes into account the curvature of the earth
+- Used for large-scale projects or projects crossing vast areas of land
+- Used for national mapping and large infrastructure projects
+- Example: NOAA would use geodetic survey to map a section of the Bering Sea
+
+GPS (Global Positioning System) for large-scale staking:
+- Most economical method for large-scale construction staking such as state highway projects
+- GPS units are portable, give accurate readings
+- Do not require line-of-sight measurements
+- Can be operated by a very small crew or even one person
+- Can be done by a GPS unit, a laser transit, a survey crew, or links/Philadelphia rod depending on project scale
+
+Bearing in surveying:
+- Always taken with north or south as the starting direction depending on which hemisphere
+- Most road and building projects use a northings and eastings coordinate system
+
+ALTA survey:
+- Used when a project consists of multiple irregular parcels the owner wants to consolidate
+- Boundary line adjustment can also be used for consolidating parcels
+- A topographic survey shows existing grades and features
+- GPS mapping is used for large areas
+
+Survey control points are typically installed:
+- Prior to site clearing — before any disturbance
+- These are critical reference markers for all construction staking throughout the project
+- They are essential for liability, for potential change orders, and for verification of all project components from clearing to grading to irrigation system connections
+
+Hub and whisker stakes:
+- Used in surveying to set the base elevation on a site
+- Hub is driven into the ground
+- Whisker (small nail or stake) is set at the exact elevation
+- Used to relate information to adjoining properties
+
+Benchmark:
+- Used to set elevations related to a landscape architecture project
+- All topographic surveys indicate the datum and benchmark that the survey is tied to
+- Used as the base reference point for designing project grades and elevations
+
+Corner pin:
+- A surveying monument marking a property corner
+- Not the same as a benchmark
+
+================================================================================
+
+TOPIC: SCHEDULING TOOLS IN CONSTRUCTION ADMINISTRATION
+
+Gantt chart: bar chart with horizontal axis as timescale and vertical axis listing tasks and milestones, bars represent task durations — most common scheduling tool
+
+Critical Path Method (CPM): graphically shows dependent activities and identifies the critical path — the sequence that must stay on schedule for overall project to finish on time
+
+PERT (Program Evaluation and Review Technique): uses statistics to determine probability of task durations — looks like circles or boxes with connecting arrows — used when durations are uncertain
+
+Float (slack): amount of time a task can be delayed without affecting overall completion — zero float means the task is on the critical path
+
+Milestone List Schedule: chronological list of critical due dates — often included in RFPs and contracts
+
+Pass-the-Baton scheduling (finish-to-start): one task must end before the next begins
+
+Finish-to-Finish relationship: two tasks scheduled to finish at the same time
+
+Techniques for schedule compression:
+- Run tasks in parallel rather than sequentially
+- Add additional staff to labor-intensive tasks
+
+Percentage Complete method: 50 percent complete means drawn but not yet fully dimensioned with notes and callouts incomplete
+
+================================================================================
+
+TOPIC: BUDGET MONITORING TOOLS IN CONSTRUCTION ADMINISTRATION
+
+ACWP — Actual Cost of Work Performed: what was actually spent
+BCWP — Budgeted Cost of Work Performed: earned value — what completed work should have cost
+BCWS — Budgeted Cost of Work Scheduled: planned cost — what the work was supposed to cost at this point
+
+Red flag: if team has billed 45 percent of fee but produced only 30 percent of work — budget is being consumed faster than work is produced
+
+Design contingency:
+- 5 to 20 percent of total budget
+- Reserved for genuinely unpredictable events
+- NOT for tasks taking longer than expected due to inefficiency
+
+Budget recovery strategies:
+- Write formal amendment if out-of-scope work is being performed, or stop it immediately
+- Remind team members of their available budget
+- Modify work plan to find more efficient methods
+
+Percentage Complete method: 50 percent complete = plans drawn but not fully dimensioned, notes or callouts incomplete
+
+================================================================================
+END OF REFERENCE FILE 4 — CONSTRUCTION ADMINISTRATION PART 1
+================================================================================

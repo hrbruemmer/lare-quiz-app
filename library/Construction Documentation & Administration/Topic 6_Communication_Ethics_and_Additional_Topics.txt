@@ -1,0 +1,744 @@
+LARE SECTION 3 REFERENCE FILE 6 OF 6
+COMMUNICATION, ETHICS, LICENSING, BUSINESS PRACTICE, AND ADDITIONAL TOPICS
+For use with quiz generation applications
+Source materials: LARE Practice Exam, Erik Sweet Section D Practice Problems, Jimmie Hinze Construction Contracts, Mometrix LARE Flashcard Study System
+================================================================================
+
+TOPIC: PROFESSIONAL COMMUNICATION
+
+Active listening:
+- Focusing on what is being said AND how it is being said
+- Asking follow-up questions to fully understand the message BEFORE formulating a response
+- Withholding judgment until the speaker has finished
+- Distinguished from passive hearing by full engagement with the speaker
+- Particularly important in client meetings where understanding true goals and concerns is essential
+
+Communication methods used on construction projects to share knowledge and evaluate outcomes:
+- Pre-construction meetings where the project is explained
+- Paper trail diary
+- Proposal or contract
+- Material specifications
+- Schedule (project management report)
+- Financial information and vendor contracts
+- Project status reports
+- Signoff forms
+- Letters, memos, and meeting agendas
+- Conversations
+- Interviews, faxes, and photos
+- Computer software programs
+- SMEE-mail archives
+- Checklist and punch list
+- Legal documents such as deeds, permits, and covenants
+- Telephone hotline available at all hours of the day and night
+- Key people such as project team, client representatives, and outside organizations
+- Soils tests
+
+Best practices for professional meetings:
+- Every meeting should have a clearly defined purpose and desired outcome established before it begins
+- An agenda should be distributed to all participants prior to the meeting and followed during it
+- Meetings should start and end on time
+- Meetings should not exceed one hour unless absolutely necessary
+- Someone should be designated to take notes and distribute minutes after the meeting
+- Each item on the agenda should have a time limit
+- Set ground rules at the beginning
+- Include only individuals who can contribute to the discussions and decisions
+- Make the meeting formal
+- Move quickly through topics
+- Schedule breaks as needed
+- Lead the meeting effectively
+
+Techniques for facilitating meetings include:
+- Start on time and finish on time — each item on the agenda should have a time limit
+- Set ground rules
+- Include the individuals who can contribute to the meetings discussions and decisions
+- Make sure the meeting is formal
+- Move quickly through topics
+- Schedule breaks
+- Lead the meeting
+
+Techniques for group discussion include:
+- Discursive approach: discussion is allowed to flow and individuals decide whether they want to participate
+- Round robin approach: each member of the group is given the opportunity to speak in turn
+- Small group approach: the group breaks into smaller groups focusing on one agenda item
+
+The two most commonly used approaches to reach a group decision:
+- Consensus approach
+- Majority vote approach
+
+Meeting minutes:
+- The official record of what discussions occurred at the meeting and what decisions were made
+- Record the action plan — tasks assigned, timelines for completion, and the person responsible for each task
+- Minutes serve as the project's memory for decisions made during meetings
+
+Best practices for email communication:
+- Use email to confirm discussions or decisions that have already taken place — creates a written record of verbal agreements
+- Use email to transmit lengthy documents as attachments
+- Do NOT use email for sensitive conversations, complex negotiations, or delivering bad news — those require face-to-face or phone communication
+- Email threads should not substitute for meetings when a decision requires back-and-forth discussion
+
+Synergy (described by Mary Follett in 1918):
+- The process by which the effect of a group is more than the sum of its parts
+- A well-functioning collaborative team produces better work than the same individuals working independently
+- Achieved through effective communication, mutual respect, and shared commitment to project goals
+
+The charrette process:
+- An intensive collaborative design process conducted on site over multiple days with a multidisciplinary team
+- Word origin: French word for cart — historically referring to the cart that carried student work to the Ecole des Beaux-Arts for review
+- Three defining characteristics:
+  1. Conducted ON SITE and lasts MULTIPLE DAYS
+  2. Teams are MULTIDISCIPLINARY so that integrated solutions addressing multiple design aspects simultaneously are produced
+  3. Each work session is followed by a FEEDBACK DISCUSSION with stakeholders — the design evolves iteratively based on community or client input
+
+Offshoring:
+- The practice of using service providers located OUTSIDE of North America to perform production work
+- Typically drafting, CAD, or BIM work
+- Performed at a lower cost or faster turnaround
+- Distinct from domestic outsourcing
+- Requires careful quality control and coordination
+- Both cost and time zone advantages are factors
+
+================================================================================
+
+TOPIC: PROFESSIONAL ETHICS
+
+The landscape architect's code of ethics addresses these areas to avoid ethical dilemmas:
+
+Responsibility to the public:
+- Make every reasonable effort to protect the safety, health, property, and welfare of the public
+
+Public statements, reports, and testimony:
+- Express opinion based on knowledge of the material facts
+- Background of technical competence in the subject matter is required
+
+Competency for assignments undertaken or approved:
+- Undertake assignments ONLY when qualified to do so by education or experience, or both
+
+Conflicts of interest:
+- Avoid conflicts of interest with the employer or client
+
+Improper solicitation of professional employment:
+- Do not compensate, give anything of value, or offer to compensate or give anything of value to secure employment
+
+Knowledge of improper conduct by others:
+- Do not conceal, refuse to divulge, or make false or misleading statements about the matter
+
+Seals and rubber stamps:
+- Affixed name or seal ONLY to any drawing, specification, or other document prepared by licensees or under personal supervision
+
+Standards of Practice:
+- The guiding principles by which licensees conduct their day-to-day responsibilities within their scope of practice
+
+Reasonable care and skill:
+- Any work done must be at least as good as the work of a competent person with average skills and experience in the type of work required
+
+According to Manufacturers Specifications:
+- The written installation and/or maintenance instructions developed by the manufacturer of a product
+- Which may have to be followed in order to maintain the product's warranty
+
+Written warranty — two general types in construction:
+- Manufacturer warranty of a product (example: Patio furniture warranty)
+- Labor warranty (example: roofing contract may include a 30-year material warranty AND a 5-year labor warranty)
+
+================================================================================
+
+TOPIC: PROFESSIONAL LICENSING
+
+State licensing laws pertaining to landscape architecture:
+
+Title Act:
+- Allows only qualified individuals to call themselves a Landscape Architect
+- An individual may still PERFORM the work of a landscape architect but not identify themselves as a landscape architect
+- Less restrictive form of regulation
+
+Practice Act:
+- Prohibits an unqualified individual from BOTH calling themselves a Landscape Architect AND from practicing the profession
+- It is the STRONGEST form of regulation to ensure the protection of the public health, safety, and welfare
+
+Sunset law reviews:
+- The periodic review of state agencies that exercise the state's regulatory authority over occupations
+- Agencies are terminated by specified dates unless their life is extended by legislative action
+
+Reciprocal licensure:
+- A policy which acknowledges and accepts credentials awarded by another authority or jurisdiction
+- Allows a landscape architect to serve a client in another state
+- Also called reciprocity
+
+The practice of landscape architecture is licensed in:
+- 47 U.S. states
+- One U.S. territory
+- Two Canadian provinces
+
+CLARB (Council of Landscape Architectural Registration Boards):
+- The body that administers the LARE examination
+- Once licensed in any state, a landscape architect can establish a record with CLARB
+- This can expedite the reciprocity process when applying for licensure in other states
+
+Professional liability — courts apply the term design professional primarily to:
+- Architects
+- Engineers
+- Landscape architects
+- Surveyors
+
+The standard courts use to evaluate professional performance:
+- The law imposes upon persons performing architectural, engineering, and other professional and skilled services the obligation to exercise a reasonable degree of care, skill, and ability
+- This standard means the work must be at least as good as the work of a competent person with average skills and experience in similar circumstances and like surrounding circumstances
+- Design professionals are held to a standard of care consistent with the minimum standard of care in their profession
+- Expert testimony must usually be used to establish this standard of care
+
+Design professional liability can be limited:
+- A design professional can limit liability to a client largely through the contract between the design professional and the client
+- The contract typically sets forth the design professional's duties and, to a lesser extent, how they are to be carried out
+
+================================================================================
+
+TOPIC: TEAM BUILDING AND LEADERSHIP
+
+Techniques for building a strong team include:
+- Establishing objectives together: define performance objectives with the team and make sure all team members understand the objectives and what actions will need to be taken to achieve them
+- Developing a participatory style: encourage staff to suggest ways to improve services, listen to their ideas, acknowledge their points of view, and encourage team members to discuss issues and find solutions together
+- Focusing on contributions: have all team members actively contribute to the meeting
+- Organizing meetings with the whole team to encourage them to discuss their concerns
+- Organizing the team by defining roles and responsibilities together
+- Explaining the rules that have been established for the project
+- Promoting team responsibility: encouraging members to take responsibility for completing specific tasks and solving problems as a team
+- Establishing time commitments: scheduling when and how each team member will devote time to team work
+
+Motivation to Manage (MTM) factor includes:
+- Favorable attitude toward authority
+- Desire to compete
+- Desire to exercise power
+- Desire for a distinctive position
+- A sense of responsibility
+NOTE: All five of these elements are part of the MTM factor — exam questions may ask which are included.
+
+================================================================================
+
+TOPIC: BUSINESS PRACTICE AND MARKETING
+
+Grant proposals:
+- The word "grant" refers to a sum of money given to support the work of an agency, organization, or individual
+- Usually as a result of a formal decision-making process involving a written or oral presentation and review
+- A Facade and Landscapes Rehabilitation Grant awards monies to rehabilitate facades and landscapes
+
+Promotional materials:
+- Printed materials, brochures, portfolios, and other printed pieces to describe services
+- Advertising, paid marketing via newspapers, periodicals, the phone book, on television or radio, or your own web site
+- Often the most costly form of marketing
+
+Referrals:
+- An effective and inexpensive way to increase business and build credibility
+- Ask clients or suppliers for contacts of other people who might like to find out more about your business
+
+Daily construction report:
+- A written record of the day's activities
+- Weather conditions
+- Work accomplished
+- Number of personnel for each trade involved
+- Equipment involved
+- Materials received
+- Visitors or inspectors present
+- Problems encountered
+
+================================================================================
+
+TOPIC: DISPUTE RESOLUTION
+
+Methods of dispute resolution in construction contracts:
+
+Arbitration:
+- A formal process in which parties agree to give up their right to go to court
+- Disputes are resolved by an arbitrator or arbitration panel
+- Binding arbitration: parties agree to accept the arbitrator's decision as final; the arbitrator's decision cannot be appealed
+- Nonbinding arbitration: parties are free not to accept the arbitrator's decision and may seek satisfaction through other means including a lawsuit
+- Typically faster and less expensive than litigation
+- An arbitration clause in a contract is a contractual provision whereby those bound to it give up their right to go to court
+
+Mediation:
+- Parties agree to enter into good faith negotiations
+- Through a neutral mediator
+- In order to attempt to resolve their differences
+- Voluntary and non-binding — does NOT produce a binding decision
+- Distinguished from arbitration: mediation results in a negotiated agreement if successful, not a binding ruling
+
+Litigation:
+- Going to court
+- Most expensive and time-consuming dispute resolution method
+- Used when other methods have failed or are not agreed to by both parties
+
+A contract clause outlines how any disputes will be resolved and most include:
+- An arbitration agreement
+- A mediation provision for good faith negotiations through a neutral mediator
+
+================================================================================
+
+TOPIC: LEGAL CONCEPTS IN CONSTRUCTION CONTRACTS
+
+Latin legal terms tested on the LARE:
+
+Bona fide:
+- Meaning: in good faith
+- All parties to a construction contract are expected to perform their obligations in good faith
+
+Res ipsa loquitur:
+- Meaning: the thing speaks for itself
+- Used in negligence cases where circumstances so obviously indicate negligence that detailed proof is unnecessary
+
+Stare decisis:
+- Meaning: to stand by past decisions
+- The legal doctrine of following precedent — courts refer to prior rulings when deciding similar cases
+
+Condemnation:
+- The legal term for the exercise of eminent domain
+- The government's power to seize private property for public use
+- Just compensation must be paid to the owner
+
+Estoppel:
+- A legal doctrine that prevents a person from denying or asserting a fact due to a previous act or statement
+- In construction contracts: arises when a party has acted in a way another party has relied upon, preventing the first party from later taking a contradictory position
+
+Privity of contract:
+- The direct legal relationship between parties to a contract
+- The owner has privity with the general contractor
+- The general contractor has privity with subcontractors
+- The owner typically does NOT have privity with subcontractors
+- This affects who can sue whom for breach of contract
+
+Indemnification clauses:
+- One-way indemnity clause: requires one party (typically the designer) to indemnify and defend the owner against ALL claims — not just those caused by the designer's negligence; extremely broad, shifts significant risk onto the designer; landscape architects should be wary of these
+- Mutual or shared indemnification clause: both parties agree to hold each other harmless for their respective negligence; more equitable and the preferred arrangement
+- Hold harmless agreement: similar to mutual indemnification — both parties agree to hold each other harmless in the event of a problem; can be combined with an arbitration clause
+
+Elements required for a valid contract — all four must be present:
+1. An offer — one party proposes terms
+2. Acceptance — the other party agrees to those terms without modification
+3. Consideration — something of value exchanged by both parties (typically money for services or construction)
+4. Legal capacity — all parties must be of legal age and sound mind
+
+================================================================================
+
+TOPIC: CONSTRUCTION DOCUMENTS — ADDITIONAL LEGAL CONTEXT
+
+A legal set of contract documents comprises:
+- Working drawings
+- Specifications
+- General conditions
+- Form of agreement
+NOTE: All four of these together make a legal set — not just drawings, not just specifications.
+
+The cover sheet of a set of construction plans normally includes:
+- Client names
+- Consultant names
+- Property legal description
+- Vicinity map
+- Project name
+
+When writing a legal contract with an owner for construction phase services, terms to avoid in reference to the landscape architect's role:
+- Supervision (implies control over contractor's work)
+- Inspection (implies control and responsibility for correctness)
+NOTE: These terms can create liability. The correct terms are observation and administration.
+
+The primary role of regulatory agencies during the construction phase:
+- Verify compliance with codes, ordinances, and regulations
+- NOT to provide oversight on behalf of the landscape architect
+- NOT to collect permit fees (that happens during permitting, not construction)
+
+The primary job of the landscape architect during the construction observation phase:
+- Ensure compliance with construction documents
+NOTE: NOT to review contract labor laws, NOT to instruct on methods of construction, NOT to address change orders exclusively
+
+================================================================================
+
+TOPIC: ADDITIONAL CONSTRUCTION ADMINISTRATION CONCEPTS
+
+Substantial completion:
+- The status when the project is sufficiently finished to be occupied by the owner
+- Against which the project duration is measured
+- The owner can begin using the facility for its intended purpose
+
+Final completion:
+- When all work is done in full conformance with the contract documents
+- Triggers release of all remaining retainage
+- Triggers final payment
+
+Punch list:
+- Developed at the time of substantial completion
+- Itemizes all remaining work tasks that must be performed before final completion
+
+Retainage:
+- A stated percentage of the progress payment request withheld by the owner as incentive for the contractor to complete the project
+- Generally returned after final completion
+
+Notice to Proceed:
+- The date on which the owner gives written authorization instructing a design firm or contractor to begin work
+- Can happen before the contract is finalized
+
+Redlines:
+- Drawings that have been reviewed by senior staff and marked up with changes and revisions
+- The term comes from the red pen traditionally used for review markups
+- An internal quality control tool
+
+Shop drawings vs. submittals:
+- Shop drawings: information concerning products to be incorporated in a construction project prepared by the contractor or fabricator showing how items will be manufactured and installed
+- Submittals: the broader category that includes shop drawings, product data, samples, certifications, and other contractor-provided documents for review
+
+Differing site conditions:
+- Physical conditions on a site that differ from what was shown in the bidding documents
+- OR conditions that differ from what would reasonably be expected at the site
+- Do NOT always result in termination of the contract — that is a false statement; they are addressed through the change order process
+
+Types of construction delays and consequences:
+- Owner-caused delays: generally result in BOTH contract duration extensions AND possible contract amount adjustments
+- Excusable delays (acts of God): typically result in TIME EXTENSIONS ONLY
+- Contractor-caused delays: result in neither a time extension nor additional compensation; owner may assess liquidated damages
+
+Actual acceleration vs. constructive acceleration:
+- Actual acceleration: an increase in construction pace resulting from a SPECIFIC DIRECTIVE from the owner
+- Constructive acceleration: an increase in pace NOT from a directive but by inference — such as when a legitimate request for a time extension is denied; this is done without a direct order
+
+Fast-tracking: a delivery method where design and construction phases OVERLAP to compress the schedule — NOT the same as acceleration of construction pace
+
+Addenda:
+- Formal changes or clarifications issued to ALL identified bidders by the owner during the bidding period
+- Plural of addendum
+- Become part of the contract documents
+
+Change order:
+- A directive usually authorized in writing by the owner to alter or modify some aspect of a project
+- Generally accompanied by an adjustment to the contract amount and/or duration
+
+Field change (field order):
+- An authorized directive by the owner's representative to alter or modify some aspect of a project
+- Normally NOT accompanied by any change in contract amount or duration
+- For minor conditions that can be resolved without financial or schedule impact
+
+Commissioning:
+- The process of testing and checking all equipment and systems within a facility at the end of a project
+- To assure proper functioning and operation
+
+Value Engineering:
+- A review and analysis of a project by a third-party team of experts
+- Mission: improve performance, reliability, quality, safety, and life-cycle costs
+
+Program Validation:
+- The design team performing an independent check of the client's stated program and budget before beginning work
+- Identifying any cost increases or unanticipated required tasks
+
+Design to Cost:
+- A method of design where the initial task sets an appropriate cost target
+- All subsequent planning and design activities are monitored for conformance with that target
+
+Shell package:
+- Designed space delivered in a basic unfinished condition
+- Landlord provides the building structure and core systems but NOT the interior build-out
+
+Tenant improvement package:
+- Design and construction work paid for by tenants who wish to design their own interiors
+- Owner may provide a site with a complete exterior and landscape built under a separate contract
+
+Total Quality Management (TQM) — three components:
+- Managing the quality of the design AND the design process
+- Upper management leading by example
+- Assuming employees will naturally do a good job if properly trained and given correct tools
+NOTE: TQM does NOT focus quality efforts exclusively on final deliverables — it applies throughout the entire process.
+
+================================================================================
+
+TOPIC: SPECIFICATIONS AND STANDARDS ORGANIZATIONS
+
+Organizations and their functions — know these distinctions:
+
+CSI (Construction Specifications Institute):
+- Publishes specification standards and the MasterFormat
+- Does NOT publish cost estimating data
+
+ASTM (American Society for Testing and Materials):
+- Publishes material testing standards
+- Does NOT publish cost estimating data
+
+ANSI (American National Standards Institute):
+- Covers general safety and performance standards
+
+ANLA (American Nursery and Landscape Association):
+- Sets the standards for health, size, shape, and vigor of plant materials
+- The governing body recognized for setting standards for plant materials, earthwork, compaction, and specification writing
+
+RS Means:
+- Publishes cost estimating reference manuals for the United States
+
+Saylor:
+- Publishes cost estimating reference manuals for the United States
+
+AIA (American Institute of Architects):
+- Produces standard contract forms widely used in the industry
+- AIA standard forms have been refined over decades and address most common risk scenarios
+
+CLARB (Council of Landscape Architectural Registration Boards):
+- Administers the LARE examination
+- Maintains records for reciprocal licensure
+
+OSHA (Occupational Safety and Health Administration):
+- Sets workplace safety standards
+- OSHA minimum railing height for decks and platforms: 42 inches
+- Maximum spacing between railing members: 4 inches (based on size of a baby's head)
+
+CPSC (Consumer Product Safety Commission):
+- Sets guidelines for pool barriers and playground equipment safety
+
+USGBC (US Green Building Council):
+- Developed the LEED rating system (Leadership in Energy and Environmental Design)
+
+ADA (Americans with Disabilities Act):
+- Governs accessibility requirements for landscape architecture
+- Applies to playground accessibility, wayfinding, and public spaces
+
+AASHTO (American Association of State Highway and Transportation Officials):
+- Deals with road and highway construction standards
+- The AASHTO Green Book is the primary highway design reference
+- AASHTO requires cross-slope of roads to be at least 1.5 percent to permit adequate drainage
+
+USDA (United States Department of Agriculture):
+- USDA plant hardiness zone map gives a general indication of which plant species will survive in a given climate zone
+- USDA soil classification system is the standard for evaluating soils for planting conditions in the United States
+
+================================================================================
+
+TOPIC: LANDSCAPE MAINTENANCE AND POST-CONSTRUCTION
+
+Landscape maintenance materials include:
+- Edging: materials used to separate landscape areas from other areas; forms include treated wood, stone, concrete, or plastic
+- Weed barrier: woven fabric that inhibits growth of weeds in landscape areas
+- Mulch materials: act to condition the soil and inhibit the growth of weeds in landscape areas
+- Ground cover materials: a variety of materials used for covering fabric weed barrier; also a variety of mulch materials and rock materials
+- Root guard protection materials
+- Stepping stones and pavers
+
+Types of landscape equipment used for maintenance:
+- Leaf blowers for blowing leaves and vacuuming leaves
+- Chain saws for trimming
+- Hedge trimmers
+- Lawn mowers — manual, hand pushed, and ride-on/catchers
+- Mulching lawn mowers, tractors, and tractor-mounted equipment
+- String trimmers to trim areas the mower cannot reach
+- Pruning shears for cutting and trimming branches
+- Snow blowers, aerators, and sprayers
+- Lawn edgers and rollers
+- Power rakes and thatchers
+- Tillers and weed trimmers
+- Top dressers
+- Compact equipment: skid steer loaders, mini excavators, compact tractor loader backhoes, small wheeled loaders, and telescopic rough-terrain forklifts
+- Hand-held tools: shovels, sweepers, rakes, clippers, cutters, and wheelbarrows
+
+Basic landscape maintenance practices:
+- Aeration: improving the gas and air exchange capabilities of soil
+- Fertilization: supplemental application of nutrients required in the soil for healthy and sustained plant growth
+- Mowing operations
+- Mulching: placement of organic material over a plant's root zone
+- Pest and disease control
+- Pruning: selective removal of foliage or branches
+- Soil amendments: any materials added to the soil to improve or maintain its texture, pH, or friability
+- Trimming: removal of excess or unwanted turfgrass or similar plant material
+- Weed control
+
+Landscape maintenance techniques that should follow appropriate recommendations:
+- Managing irrigation and runoff
+- Watering according to plant needs
+- Fertilizing according to a soil analysis
+- Pruning to shape a plant, allow air circulation, or remove dead, diseased, or damaged tissue
+- Aeration of mulched beds and turf areas to ensure roots are healthy and anaerobic areas do not develop in mulched beds
+- Mowing of lawn areas
+- Storing and disposing of gardening wastes properly
+- Mulching or other erosion control measures on exposed soils
+- Managing pesticide and herbicide use properly
+- Incorporating pest management techniques where appropriate
+
+================================================================================
+
+TOPIC: FEDERAL AND REGULATORY CONTEXT
+
+Federal acts relevant to landscape architecture practice:
+- Federal Water Pollution Control Act of 1972 (FWPCA / Clean Water Act): governs water pollution
+- Clean Water Act: allows states to establish clean water programs
+- National Pollutant Discharge Elimination System (NPDES): controls water pollution by regulating point and nonpoint sources that discharge pollutants into waters of the United States
+- Endangered Species Act: governs how animal and plant species decline or close to extinction will be protected and recovered
+- National Environmental Policy Act (NEPA): ensures the integration of natural and social sciences and environmental design in planning and decision-making for federal projects or projects on federal lands
+- Safe Drinking Water Act (SDWA): regulates the treatment of water for human consumption
+- Watershed Protection and Flood Prevention Act (PL 83-566): authorizes states and local agencies to regulate soil conservation, flood prevention, conservation, development, utilization, and disposal of water
+- Wellhead Protection Program: amendment to the Federal Safe Drinking Water Act in 1986
+
+The Environmental Protection Agency (EPA):
+- Established in 1970 to oversee various federal environmental laws that had been enacted
+- One major function: review the environmental impacts of highway projects, large-scale commercial and residential construction, power plants, and other large undertakings involving the federal government
+- A major tool: the power to issue an environmental impact statement that evaluates a proposed project before it is undertaken
+
+================================================================================
+
+TOPIC: POOL AND BARRIER DESIGN STANDARDS
+
+US Consumer Product Safety Commission pool barrier guidelines:
+- Pool top barrier must be at least 48 inches above grade, measured on the side of the barrier which faces away from the swimming pool
+- Eliminate handholds and footholds
+- Minimize the size of openings in a barrier's construction — all openings should be small enough that a 4-inch diameter sphere cannot pass through (based on head breadth and chest depth of a young child)
+- Barrier bottom should not exceed 4-inch maximum clearance above grade, when the measurement is done on the side of the barrier facing away from the pool
+- Barriers should be equipped with a gate or gates which restrict access to the pool
+- A locking device should be included in the gate design
+- Gates should open OUT from the pool
+- Gates should be self-closing and self-latching
+
+================================================================================
+
+TOPIC: QUICK REFERENCE — NUMBERS AND FACTS TO MEMORIZE
+
+Code dimensions and thresholds:
+- OSHA minimum railing height for decks and platforms: 42 inches above adjacent deck surface
+- Maximum spacing between railing members: 4 inches (based on size of a baby's head)
+- Maximum planting height in site triangle at 35 mph road: 30 inches
+- Maximum height a landscape architect can design a retaining wall without engineer: 3 feet
+- DBH measurement height: 4.5 feet above grade
+- Concrete reaches full design strength: 28 days
+- Minimum depth of contraction joint in concrete slab: 1/6 the depth of the slab
+- Best planting season: Fall
+- Stakes and guy wires: loosen after 1st growing season, remove after 2nd growing season
+- Maximum topsoil stockpile depth: 4 feet
+- Neutral soil pH range: 6.6 to 7.3
+- Retainage percentage: typically 5 to 10 percent
+- Guarantee period: typically 1 year from substantial completion
+- Design contingency: typically 5 to 20 percent of total budget
+- Pool barrier height minimum: 48 inches above grade
+- Pool barrier maximum gap size: 4 inches diameter sphere
+- Addenda minimum notice period before bid day: typically 3 to 7 days
+- Irrigation sleeve installation: after mass earthwork, before any permanent hardscape
+- Number 4 rebar diameter: 1/2 inch (or 1.25 cm)
+
+Organization functions for the exam:
+- CSI: specification standards and MasterFormat — NOT cost estimating
+- ASTM: material testing standards — NOT cost estimating
+- RS Means and Saylor: cost estimating reference manuals
+- ANLA: plant material health, size, shape, and vigor standards
+- CLARB: administers the LARE exam
+- OSHA: workplace safety standards including railing heights
+- CPSC: pool barrier and playground equipment safety guidelines
+- USGBC: LEED rating system
+- USDA: plant hardiness zone map and soil classification system for agricultural and planting conditions
+- ADA: accessibility requirements
+- AASHTO: road and highway construction standards
+- AIA: standard contract forms
+
+MasterFormat key divisions (2004 edition):
+- Division 1: General Requirements
+- Division 31: Earthwork (topsoil stripping and stockpiling)
+- Division 32: Exterior Improvements (paving, planting, AND irrigation — moved from Division 2 in 1995 edition)
+- Division 33: Utilities
+NOTE: Irrigation location change from 1995 to 2004 is a commonly tested fact.
+
+Contract types summary:
+- Lump Sum (Stipulated Sum): fixed price regardless of actual costs — risk on contractor
+- Time and Materials (T&M): paid for actual costs — no cap — risk on owner
+- T&M with Cap (Not-to-Exceed): T&M with a maximum — protects owner
+- Guaranteed Maximum Price (GMP): cost-basis billing with a maximum — contractor absorbs overruns
+- Cost Plus Fixed Fee: actual costs reimbursed plus fixed profit that does not change
+
+Delivery methods summary:
+- General Contract (design-bid-build): designer and contractor have separate contracts with owner
+- Design-Build: one entity contracts for both design and construction
+- Professional Construction Management: CM firm represents owner throughout design and construction
+- Multiple Prime Contracts: owner holds separate contracts with multiple prime contractors
+
+Delay consequences summary:
+- Owner-caused: contractor gets TIME EXTENSION + ADDITIONAL COMPENSATION (time and money)
+- Excusable (force majeure): contractor gets TIME EXTENSION ONLY (time, no money)
+- Contractor-caused: contractor gets NOTHING; owner may assess liquidated damages
+
+Bond types summary:
+- Bid bond: submitted with bid; guarantees bidder will execute contract if awarded
+- Performance bond: guarantees contractor will complete the work
+- Payment bond: guarantees contractor will pay all subs, suppliers, and laborers
+
+Submittal response designations:
+- Approved: proceed as shown
+- Approved as Noted: proceed with noted modifications incorporated
+- Revise and Resubmit: substantially revise and resubmit for another review
+- Rejected: fundamentally unacceptable
+
+Five phases of project management in order:
+- Start
+- Planning
+- Design
+- Production
+- Closeout
+
+Six main activities of a project manager:
+- Defining scope of work
+- Planning design work
+- Directing design work
+- Coordinating with the client
+- Monitoring progress
+- Learning from project outcomes
+
+Four requirements for an empowered team:
+- Clear scope of work and defined roles
+- Delegation of technical decisions to right team members
+- Team buy-in to the work plan
+- Appropriate resources and authority
+NOTE: PM does NOT relinquish scope, budget, and schedule management — this is a wrong answer choice.
+
+Three elements that define a task:
+- Objective
+- Duration
+- Level of effort
+
+Five strategies for controlling risk:
+- Avoidance
+- Prevention
+- Transfer
+- Mitigation
+- Contingency planning
+
+Five basic functions of management:
+- Planning
+- Organizing
+- Commanding
+- Coordinating
+- Controlling
+NOTE: Eliminating risk is NOT one of the five functions.
+
+Three components of Total Quality Management (TQM):
+- Managing quality of both design and design process
+- Upper management leading by example
+- Assuming employees will do well if properly trained and given correct tools
+
+Seven layers of a green roof from bottom to top:
+- Structural roof deck
+- Waterproofing membrane (most critical)
+- Root barrier
+- Drainage layer
+- Filter fabric
+- Growing medium
+- Vegetation
+
+Three functions of a rain garden simultaneously:
+- Stores stormwater
+- Recharges groundwater
+- Improves runoff water quality
+
+Three goals of landscape lighting:
+- Facilitate safety
+- Improve legibility of outdoor spaces at night
+- Encourage nighttime use
+
+Three types of construction acceleration:
+- Actual acceleration: explicit written directive from owner
+- Constructive acceleration: forced by denial of legitimate time extension request
+- Fast-tracking: overlapping design and construction phases (NOT acceleration of construction pace)
+
+================================================================================
+END OF REFERENCE FILE 6 — COMMUNICATION, ETHICS, LICENSING, BUSINESS PRACTICE, AND ADDITIONAL TOPICS
+================================================================================
+
+COMPLETE LARE SECTION 3 REFERENCE DATABASE — ALL SIX FILES:
+File 1: Project Management
+File 2: Construction Plans and Details
+File 3: Construction Specifications and Bidding
+File 4: Construction Administration Part 1 (Pre-Construction through Mock-Ups)
+File 5: Construction Administration Part 2 (Site Observations through Closeout)
+File 6: Communication, Ethics, Licensing, Business Practice, and Additional Topics
+================================================================================

@@ -1,0 +1,546 @@
+LARE SECTION 3 REFERENCE FILE 1 OF 6
+PROJECT MANAGEMENT
+For use with quiz generation applications
+Source materials: LARE Practice Exam, Erik Sweet Section D Practice Problems, Jimmie Hinze Construction Contracts, Mometrix LARE Flashcard Study System
+================================================================================
+
+TOPIC: THE PROJECT MANAGER ROLE
+
+The project manager (PM) is the person who leads the project team and is responsible for defining scope of work, planning and directing design work, coordinating with the client, and monitoring progress.
+
+The six main activities of a project manager are:
+- Defining scope of work
+- Planning design work
+- Directing design work
+- Coordinating with the client
+- Monitoring progress against schedule and budget
+- Learning from project outcomes to improve future performance
+
+The five phases of project management in correct order are:
+- Start
+- Planning
+- Design
+- Production
+- Closeout
+
+The five basic functions of management are:
+- Planning
+- Organizing
+- Commanding
+- Coordinating
+- Controlling
+NOTE: Eliminating risk is NOT one of the five functions of management.
+
+Management by Objectives (MBO) is a method by which projects are managed by measuring progress toward achieving stated objectives rather than by tracking activities or tasks. It focuses on results and outcomes, not on what people are doing.
+
+The concept that timeliness is more important than perfection is expressed by the phrase: the perfect is the enemy of the good. Design decisions must be made when the schedule requires them, not postponed while waiting for all information to be available.
+
+The project controller is the person responsible for managing project finances and working with the PM to keep the project financially on track. The project controller is distinct from the construction administrator.
+
+================================================================================
+
+TOPIC: ORGANIZATIONAL STRUCTURES FOR DESIGN FIRMS
+
+The four basic organizational structures for design firms are:
+- Sole proprietorship
+- Design studio
+- Matrix organization
+- Ad hoc project team
+
+Sole proprietorship characteristics:
+- Single individual who owns and operates the business
+- Personally liable for all business obligations
+- No legal separation between the individual and the firm
+- Common for very small or single-person practices
+
+Design studio characteristics:
+- Small to medium-sized single-discipline firm
+- Headed by a principal leading a team of designers and support staff
+- Often has fluid organizational structures with informal reporting relationships
+- May not have clearly defined project manager designations
+- Principal is typically involved in most or all projects
+
+Matrix organization characteristics:
+- Found in medium to large multi-discipline firms
+- Employees report along two axes simultaneously
+- Vertical reporting: discipline-specific, department heads responsible for technical quality within their specialty across all projects
+- Horizontal reporting: project-specific, project managers responsible for overall project success across all disciplines and phases
+- Strength: allows technical specialists to maintain expertise while enabling cross-disciplinary collaboration
+- Weakness: employees have two bosses which can create conflicting priorities
+
+Siloing definition and characteristics:
+- The tendency of working groups within a large organization to lose sight of the concerns of other groups
+- Causes coordination failures and conflicts in construction documents
+- Leads to costly field problems
+- The matrix organization combats siloing through horizontal reporting
+
+Ad hoc project team characteristics:
+- Assembled specifically for a single project
+- Organized around a single project manager
+- Disbands when the project is complete
+- Members drawn from within the firm or from outside consultants based on project needs
+
+Empowered team requirements — all four must be present:
+- A clear scope of work and clearly defined roles for each team member
+- Delegation of technical decisions to the right team members based on expertise
+- Team buy-in to the work plan — members must genuinely commit, not just be told what to do
+- Appropriate resources and authority to carry out responsibilities
+NOTE: The project manager does NOT relinquish management of scope, budget, and schedule in an empowered team. This is a commonly tested wrong answer.
+
+Motivation to Manage (MTM) factor includes:
+- Favorable attitude toward authority
+- Desire to compete
+- Desire to exercise power
+- Desire for a distinctive position
+- A sense of responsibility
+
+Offshoring is the practice of using service providers located outside of North America to perform production work such as drafting or CAD work at a lower cost or faster turnaround. It is distinct from domestic outsourcing.
+
+================================================================================
+
+TOPIC: PROJECT WORK PLANNING
+
+A task is an essential activity or increment of work that can be defined and used to build a work breakdown schedule.
+
+The three elements that define a task:
+- An objective — what the task is meant to accomplish
+- A duration — the calendar time budgeted to complete the task
+- A level of effort — the number of labor hours budgeted to accomplish the objective
+
+A subtask is a detailed action that will lead to the completion of a task. Subtasks break a task into its component steps.
+
+A deliverable is a tangible or intangible product of work that must be provided to someone else. Deliverables are what the project produces. Tasks are performed to produce deliverables.
+
+Level of effort is the number of labor hours budgeted to accomplish an objective, measurable in hours or labor dollars. It differs from duration — duration is calendar time, level of effort is actual work time.
+
+The Work Breakdown Structure (WBS) is a project planning tool that divides a project into hierarchical tasks, identifying broad tasks first and breaking them down to the level of detail needed to control the work. It is the foundation on which the project schedule and budget are built.
+
+The six objectives of a Project Work Plan:
+- Define project objectives and identify the project team
+- Establish a project schedule
+- Establish a project budget
+- Establish a project quality control program
+- Identify project risks
+- Define communication protocols
+NOTE: Eliminating all project risk is NOT one of the six objectives.
+
+================================================================================
+
+TOPIC: PROJECT SCHEDULING TOOLS AND CONCEPTS
+
+A Gantt chart is a bar chart with:
+- The horizontal axis representing a timescale
+- The vertical axis listing work tasks and milestones
+- Horizontal bars representing task durations
+- It is the most commonly used scheduling tool in design practice
+
+A Milestone List Schedule is:
+- A chronological list of due dates for critical or contract-defined activities
+- Identifies key dates all parties must meet
+- Often included in Requests for Proposals and project contracts
+- Does not show task durations or dependencies — only critical dates
+
+The Critical Path Method (CPM):
+- Graphically shows dependent, interconnected, and related activities
+- Identifies the critical path — the sequence of tasks that must stay on schedule for the overall project to finish on time
+- Tasks on the critical path have zero float
+- Any delay to a critical path task delays the entire project
+
+PERT — Program Evaluation and Review Technique:
+- A work diagramming system that uses statistics to determine the probabilities of task durations
+- Looks like circles or boxes with connecting arrows
+- Used when task durations are uncertain
+- Different from CPM — PERT deals with probability of durations, CPM deals with task dependencies
+
+Float (also called slack):
+- The amount of time a task can be delayed without affecting the overall project completion date
+- A task on the critical path has zero float
+- Tasks not on the critical path have positive float
+
+Task relationship types:
+- Pass-the-Baton (finish-to-start): one task must end before the next can begin, creates sequential dependencies
+- Finish-to-Finish: two or more tasks are scheduled to finish at the same time regardless of when they started, used when parallel workstreams must converge at the same milestone
+- Start-to-Start: two tasks begin at the same time
+
+Techniques for shortening project schedules:
+- Running tasks in parallel rather than sequentially — overlapping tasks that do not have hard dependencies
+- Using more resources by assigning additional staff to labor-intensive tasks to reduce their duration
+
+The Percentage Complete method:
+- Estimates drawing completion status
+- 50 percent complete means plans, sections, elevations, or details have been drawn but are not yet fully dimensioned and notes or callouts are incomplete
+
+================================================================================
+
+TOPIC: BUDGET MANAGEMENT AND EARNED VALUE
+
+Earned Value terminology:
+- ACWP — Actual Cost of Work Performed: the actual amount of money or hours spent performing a task — what was actually spent
+- BCWP — Budgeted Cost of Work Performed: the amount of estimated budget earned based on the work actually completed, also called earned value — what the completed work should have cost per the budget
+- BCWS — Budgeted Cost of Work Scheduled: the estimated or planned cost to complete a task at a given point in time — what the work was supposed to cost according to the original plan
+
+Earned Value analysis:
+- If ACWP is greater than BCWP: the project is over budget
+- If BCWP is greater than BCWS: the project is ahead of schedule
+- If a team has billed 45 percent of the fee but produced only 30 percent of the work: this is an Earned Value red flag — budget is being consumed faster than work is being produced
+
+Design contingency:
+- A portion of the overall project budget reserved for genuinely unpredictable problems
+- Typically five to twenty percent of the total budget
+- Cannot be used to cover tasks taking longer than expected due to inefficiency or poor estimating
+- Reserved for genuinely unanticipated events beyond the team's control
+
+Budget recovery strategies — when a project is running over budget:
+- Write a formal amendment if out-of-scope work is being performed, or stop it immediately
+- Remind team members of their available budget so they can calibrate their effort
+- Modify the work plan to distribute the loss across remaining tasks and find more efficient methods
+
+Reimbursable expenses typically include:
+- Travel and subsistence expenses incurred as a result of project duties
+- Communication expenses such as long distance telephone, telegraph, facsimile, express and messenger charges, and postage
+- Identifiable cost of production supplies and expenses
+- Reproduction costs such as blueprinting, photocopying, photographs, printing, and binding
+- Subconsultant expenses for special services such as structural, mechanical, electrical engineering, acoustical, surveying, soil investigations, and testing
+- Specialized equipment including computers and software
+- Project incentives
+
+Materials and labor cost estimates should include:
+- Labor and subcontract costs
+- Material and material waste
+- Shipping, storage, and staging costs
+- Equipment and tools required for installations
+- General conditions such as insurance costs, legal costs, advertising for bidding, bonding costs, and contingency costs
+- Design and project management costs
+- Market or regional conditions affecting actual construction costs
+- Existing conditions such as soil conditions, asbestos, displacement and relocation, hazardous materials, and environmental impact studies
+
+Salary-related expenses (burden costs) include:
+- Employer's share of Social Security taxes
+- Medicare taxes
+- Unemployment insurance
+- Workers compensation insurance
+- Health insurance contributions
+- Vacation pay
+- Sick leave
+NOTE: These are a direct cost of employment and must be included in project fee calculations. They are distinct from indirect labor costs.
+
+Other Direct Costs (ODCs) are miscellaneous project-related costs other than direct labor:
+- Postage
+- Printing and reproduction
+- Messenger services
+- Travel expenses
+- Photo development
+NOTE: ODCs are typically tracked separately and billed back to the client as reimbursable expenses.
+
+Cost estimating reference publishers:
+- RS Means publishes cost estimating reference manuals for the United States
+- Saylor publishes cost estimating reference manuals for the United States
+- CSI publishes specification standards — NOT cost estimating data
+- ASTM publishes material testing standards — NOT cost estimating data
+
+A budgetary cost model:
+- Breaks down estimated construction costs into major project components
+- Organized by CSI MasterFormat number
+- Establishes cost targets for each major component
+- Provides a baseline for evaluating different materials and construction approaches
+
+Program validation:
+- The design team's independent review of the client's stated program and budget before design begins
+- Identifies cost increases or unanticipated required tasks early
+- Prevents investing design effort in a program that cannot be built within budget
+
+Design to Cost:
+- A method in which a cost target is set at the outset
+- All subsequent design decisions are monitored for conformance with that target
+- Cost management is integrated into the design process from the beginning rather than evaluated after design is complete
+
+Shell package: designed space delivered in a basic unfinished condition with the developer providing structure and core systems but not interior build-out.
+
+Tenant improvement package: design and construction work paid for by tenants who wish to customize their space. The owner may provide a completed exterior and landscape under a separate contract.
+
+================================================================================
+
+TOPIC: RISK MANAGEMENT
+
+The five strategies for controlling project risk:
+- Avoidance — eliminating the risk entirely by changing the plan or scope
+- Prevention — taking actions to reduce the likelihood or severity of a risk
+- Transfer — shifting the risk to another party, typically through contracts or insurance
+- Mitigation — taking actions to reduce the impact if the risk does occur
+- Contingency planning — preparing a response in advance so the team is ready to act quickly if the risk materializes
+
+Contract-related risk management strategies:
+- Use standardized contract forms whenever possible (AIA standard forms are preferred)
+- Identify excluded as well as included services in the contract scope to eliminate ambiguity
+- Specify dispute resolution methods in the contract — agreeing on mediation or arbitration in advance is far less costly than litigation
+
+Non-contract risk management strategies:
+- Inform clients of potential risks early and proactively
+- Choose consultants carefully based on track record and insurance coverage
+- Do not start construction document production until the design is well-defined and client-approved
+- Avoid running projects without budget and schedule contingency plans
+
+Standards of Practice are the guiding principles by which licensees conduct their day-to-day responsibilities within their scope of practice.
+
+Reasonable care and skill means any work done must be at least as good as the work of a competent person with average skills and experience in the type of work required.
+
+According to Manufacturers Specifications means the written installation and/or maintenance instructions developed by the manufacturer of a product, which may have to be followed in order to maintain the product's warranty.
+
+Written warranty types in construction:
+- Manufacturer warranty of a product (example: 30-year material warranty on roofing)
+- Labor warranty (example: 5-year labor warranty on roofing)
+
+Professional Liability Insurance (Errors and Omissions — EO insurance):
+- Protects from claims if a client holds the professional responsible for errors or the failure of work to perform as promised
+- Coverage includes legal defense costs, resulting judgments against the firm, and court costs
+- Covers W2 employees and 1099 subcontractors
+- Can be worldwide in scope
+- Is claims-made, meaning coverage must be maintained continuously even after a project is complete
+- Courts apply several types of standards of care to determine whether a design professional has carried out their responsibilities
+
+Standards courts use to evaluate professional liability:
+- Specifications and performance guidelines contained in the contract
+- Application of a process-based standard focusing on the reasonableness of the process used by the design professional to accomplish the client's objectives
+- Examination of the suitability of the finished product for its intended uses based on a theory of implied or explicit warranty
+
+================================================================================
+
+TOPIC: COMMUNICATION AND PROFESSIONAL PRACTICE
+
+Active listening is:
+- Focusing on what is being said and how it is being said
+- Asking follow-up questions to fully understand the message before formulating a response
+- Withholding judgment until the speaker has finished
+- Distinguished from passive hearing by full engagement
+
+Communication methods used to share knowledge and evaluate outcomes on construction projects:
+- Pre-construction meetings where the project is explained
+- Paper trail diary
+- Proposal or contract
+- Material specifications
+- Schedule (project management report)
+- Financial information and vendor contracts
+- Project status reports
+- Signoff forms
+- Letters, memos, and meeting agendas
+- Conversations
+- Interviews, faxes, and photos
+- Computer software programs
+- SMEE-mail archives
+- Checklist and punch list
+- Legal documents such as deeds, permits, and covenants
+- Telephone hotline available at all hours
+- Key people such as project team, client representatives, and outside organizations
+- Soils tests
+
+Best practices for professional meetings:
+- Every meeting should have a clearly defined purpose and desired outcome established before it begins
+- An agenda should be distributed to all participants prior to the meeting and followed during it
+- Meetings should start and end on time
+- Meetings should not exceed one hour unless absolutely necessary
+- Someone should be designated to take notes and distribute minutes after the meeting
+- Each item on the agenda should have a time limit
+- Set ground rules
+- Include only individuals who can contribute to the discussions and decisions
+- Make the meeting formal
+- Move quickly through topics
+- Schedule breaks as needed
+- Lead the meeting
+
+Techniques for group discussion:
+- Discursive approach: discussion is allowed to flow and individuals decide whether they want to participate
+- Round robin approach: each member of the group is given the opportunity to speak in turn
+- Small group approach: the group breaks into smaller groups focusing on one agenda item
+
+The two most commonly used approaches to reach a group decision:
+- Consensus approach
+- Majority vote approach
+
+Meeting minutes:
+- The official record of what discussions occurred at the meeting and what decisions were made
+- Record the action plan — tasks assigned, timelines for completion, and the person responsible for each task
+
+Best practices for email communication:
+- Use email to confirm discussions or decisions that have already taken place — creates a written record of verbal agreements
+- Use email to transmit lengthy documents as attachments
+- Do not use email for sensitive conversations, complex negotiations, or delivering bad news — those require face-to-face or phone communication
+- Email threads should not substitute for meetings when a decision requires back-and-forth discussion
+
+Synergy (described by Mary Follett in 1918): the process by which the effect of a group is more than the sum of its parts. A well-functioning collaborative team produces better work than the same individuals working independently.
+
+The charrette process:
+- An intensive collaborative design process conducted on site over multiple days
+- Teams are multidisciplinary so integrated solutions are produced
+- Each session is followed by a feedback discussion with stakeholders
+- The design evolves iteratively based on community or client input
+
+================================================================================
+
+TOPIC: PROFESSIONAL ETHICS AND LICENSING
+
+The landscape architect's code of ethics addresses these areas to avoid ethical dilemmas:
+- Responsibility to the public: make every reasonable effort to protect the safety, health, property, and welfare of the public
+- Public statements, reports, and testimony: express opinion based on knowledge of material facts and a background of technical competence in the subject matter
+- Competency for assignments undertaken or approved: undertake assignments only when qualified to do so by education or experience, or both
+- Conflicts of interest: avoid conflicts of interest with the employer or client
+- Improper solicitation of professional employment: do not compensate, give anything of value, or offer to compensate or give anything of value
+- Knowledge of improper conduct by others: do not conceal, refuse to divulge, or make false or misleading statements about the matter
+- Seals and rubber stamps: affixed name or seal to any drawing, specification, or other document prepared by licensees or under personal supervision
+
+State licensing laws pertaining to landscape architecture:
+- A Title Act allows only qualified individuals to call themselves a Landscape Architect. An individual may still perform the work of a landscape architect but not identify themselves as one.
+- A Practice Act prohibits an unqualified individual from calling themselves a Landscape Architect AND from practicing the profession. It is the strongest form of regulation.
+- Sunset law reviews involve the periodic review of state agencies that exercise the state's regulatory authority over occupations. Agencies are terminated by specified dates unless their life is extended by legislative action.
+- Reciprocal licensure is a policy which acknowledges and accepts credentials awarded by another authority or jurisdiction, allowing a landscape architect to serve a client in another state.
+
+Techniques for building a strong team include:
+- Establishing objectives together: define performance objectives with the team and make sure all team members understand the objectives and what actions will need to be taken to achieve them
+- Developing a participatory style: encourage staff to suggest ways to improve services, listen to their ideas, acknowledge their points of view, and encourage team members to discuss issues and find solutions together
+- Focusing on contributions: have all team members actively contribute to the meeting
+- Organizing meetings with the whole team to discuss their concerns
+- Organizing the team by defining roles and responsibilities together
+- Explaining the rules that have been established for the project
+- Promoting team responsibility by encouraging members to take responsibility for completing specific tasks and solving problems as a team
+- Establishing time commitments by scheduling when and how each team member will devote time to team work
+
+================================================================================
+
+TOPIC: PROJECT PHASES AND TEAM ROLES
+
+Design phase components in sequence:
+- Planning phase: higher-level analysis, feasibility studies, program, and budgeting
+- Schematic Design (SD): a conceptual design based on program and budget, includes sketches, graphics, general design criteria, and preliminary cost estimates
+- Design Development (DD): follows owner approval of SD, includes outline specifications, drawings, and estimates
+- Construction Documents (CDs): follows DD approval, design team prepares documents for obtaining pricing from contractors, bid solicitation, instructions to bidders, bid forms, contract forms, and general conditions are also prepared
+- Bidding phase: design team prepares clarifications to bid documents in the form of addenda, bids are received, evaluated, and contractor(s) are selected
+
+Design and construction team member roles:
+- Owner: defines requirements and provides approval at each phase to ensure the design stays on track
+- Architect: serves as lead design professional and organizes design team activities and schedules
+- Engineer: prepares drawings, specifications, and estimates
+- Consultant: prepares drawings, specifications, and estimates as required by timeline and scope established by the architect
+- Construction Manager (CM): typically hired near end of design phase, participates in final estimates, bid processes, and contractor selection; in a design-build project the CM may be the entity who hires the design team
+- General Contractor (GC): not involved with the project during the design phase
+- Contractors and Subcontractors: not involved with the project during the design phase
+
+Landscape architect's typical responsibilities include:
+- Define scope, mutual responsibilities, and time schedule; prepare work and fee schedules; submit contractual agreement for approval
+- Survey plans for future and existing facilities and investigate site conditions
+- Establish priorities of development; prepare design and presentation drawings delineating total site concept
+- Make preliminary estimates of construction costs
+- Develop approved concept plan
+- Make preliminary material selections; draw up preliminary construction details; update cost estimates and construction schedule as necessary
+- Submit detailed drawings and specifications for client approval
+- Supply client with construction documents as needed for bid solicitation
+- Review bid quotations with client and assist in final determination of award of contract
+- Represent client to contractor involving all matters under contract
+- Provide on-site supervision per contract to ensure high quality workmanship and adherence to specifications
+- Administer revisions, shop drawings, and all contractor billing
+- Make final inspection at project conclusion with client and contractor
+
+Tasks that occur during the construction phase:
+- Periodic site observations to observe progress and quality of construction and conformance to contract documents
+- Review the complete set of documents
+- Review of shop drawings
+- Process submittals
+- Monitor the construction schedule
+- Sample materials
+- Verification of work completed
+- Review and make recommendations on contractors' requests for payments
+- Issuance of certificate of substantial completion
+- Ensure the work meets the quality standards established by the office
+- Document and modify construction administration procedures for each project as necessary
+
+Owner duties during construction include:
+- Disclose all property information needed to evaluate or enforce lien rights
+- Furnish reasonable evidence that sufficient financial arrangements have been made to fulfill the owner's obligations under the contract
+- Furnish surveys of the site showing physical characteristics, legal limitations, utility locations, and the legal description
+- Pay fees for all permits, easements, approvals, assessments, and charges not the contractor's responsibility
+- Provide all information or services required by the contract documents or requested by the contractor in writing with reasonable promptness to avoid any construction delay
+- Pay for all copies of contract drawings and specifications reasonably needed by the contractor for execution of the work
+- Pay all sums when due and as required by the construction agreement
+- Carry property insurance to protect the contractor's as well as the owner's interests during the construction period
+
+Post-construction activities:
+- Cutover and first-use activities begin as soon as construction is complete or nearing completion
+- Training of owner's personnel on use and adjustments of installed equipment and warranty inspections
+- Operation and maintenance of various systems in the new facility often begins prior to completion of the construction phase
+- Final payments and release of retainage amounts are often made well after occupancy, once the owner is satisfied that the project is fully completed
+
+Daily construction report is a written record of the day's activities including:
+- Weather conditions
+- Work accomplished
+- Number of personnel for each trade involved
+- Equipment involved
+- Materials received
+- Visitors or inspectors present
+- Problems encountered
+
+================================================================================
+
+TOPIC: FEDERAL ENVIRONMENTAL ACTS RELEVANT TO PRACTICE
+
+Federal acts that may affect landscape architecture projects:
+- Federal Water Pollution Control Act of 1972 (FWPCA / Clean Water Act): governs water pollution
+- Clean Water Act: allows state to establish clean water programs
+- National Pollutant Discharge Elimination System (NPDES): controls water pollution by regulating point and nonpoint sources that discharge pollutants into waters of the United States
+- Endangered Species Act: governs how animal and plant species decline or close to extinction will be protected and recovered
+- National Environmental Policy Act (NEPA): ensures the integration of natural and social sciences and environmental design in planning and decision-making for federal projects or projects on federal lands
+- Safe Drinking Water Act (SDWA): regulates the treatment of water for human consumption
+- Watershed Protection and Flood Prevention Act (PL 83-566): authorizes states and local agencies to regulate soil conservation, flood prevention, conservation, development, utilization, and disposal of water
+- Wellhead Protection Program: amendment to the Federal Safe Drinking Water Act in 1986
+
+================================================================================
+
+TOPIC: SUSTAINABLE CONSTRUCTION PRACTICES
+
+Environmentally sustainable construction practices include:
+
+1. Energy-efficient construction:
+- Thermal envelope, air-tight detailing, and construction
+- Heat-exchange ventilation
+- Superinsulation
+- Energy-efficient heating, cooling, and lighting equipment
+- Solar energy and wind generation
+
+2. Resource-efficient construction:
+- Just-enough design
+- Construction with re-used materials and products made in part or wholly from recycled materials
+- Sustainable-harvested timber sources
+- Minimization of construction waste
+- Low water use design
+
+3. Low-toxic construction:
+- Specially selected paints, adhesives, and sealants
+- Use of hard-surface materials such as tile or wood floors
+- Elimination or isolation of plastic-containing products and VOCs
+- Use of steel framing to avoid wood turpines
+- Low-EMF wiring and appliances
+
+4. Natural or low-impact construction:
+- Climate-appropriate building technologies such as light-clay, adobe, rammed earth, straw bale
+- Use of only locally-made and renewable least-processed materials
+- Plant-based coatings with little or no petrochemical-based materials
+- No PVC
+- Use of native plant species in landscaping
+- Safeguarding of natural water systems
+- Integration of natural systems within buildings
+- Natural building cooling and ventilation
+- Substantial indoor plantings
+
+Construction waste recycling is the separation and recycling of recoverable waste materials generated during construction and remodeling. Recycling activities include:
+- Chipping branches and trees from brush clearing to create landscaping mulch
+- Donating or taking to a hazardous waste collection facility any unused paints, stains, solvents, and sealants
+- Separating metals for recycling
+- Salvaging usable bricks, blocks, slate shingles, tile, and other masonry materials to reuse
+- Saving clean sawdust for use in compost piles or around gardens
+
+Quality control procedures for construction:
+- Inspection by direct inspection of work products or processes or by monitoring the activities creating the products or processes
+- Tests to determine if an item or service is acceptable or to acquire additional information
+- Procedures for handling, storage, and shipping of equipment or supplies that are critical to quality of the products or services
+- Corrective actions that are taken to ensure any conditions leading to failures, malfunctions, or deficiencies are identified and corrected
+
+================================================================================
+END OF REFERENCE FILE 1 — PROJECT MANAGEMENT
+================================================================================

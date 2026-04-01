@@ -1,0 +1,576 @@
+LARE SECTION 3 REFERENCE FILE 5 OF 6
+CONSTRUCTION ADMINISTRATION PART 2
+Site Observations, Field Reports, Bonds, Insurance, Construction Delays, Project Closeout, Project Management Roles, Professional Liability
+For use with quiz generation applications
+Source materials: LARE Practice Exam, Erik Sweet Section D Practice Problems, Jimmie Hinze Construction Contracts, Mometrix LARE Flashcard Study System
+================================================================================
+
+TOPIC: SITE OBSERVATIONS VS. INSPECTION — THE CRITICAL DISTINCTION
+
+This is one of the most heavily tested concepts in all of construction administration.
+
+What the landscape architect does NOT do during construction:
+- Does NOT supervise the contractor
+- Does NOT inspect the contractor's work
+- Does NOT control the contractor's means and methods of construction
+- Is NOT responsible for the safety of the contractor's workers on the job site
+- Does NOT tell the contractor's workers how to do their jobs
+- Does NOT direct the contractor's labor
+
+What the landscape architect DOES do:
+- OBSERVES — conducts periodic site observations
+- Visits the site at key milestones or on a regular schedule
+- Assesses whether the work appears to be proceeding in general conformance with the contract documents
+- Is NOT on site every day watching every action
+- Visits, observes, documents, and reports
+
+Why the distinction between observation and inspection matters legally:
+- If a contract describes the landscape architect as INSPECTING or SUPERVISING, it implies they are controlling the work and are responsible for its correctness
+- If something goes wrong and the contract says the landscape architect was inspecting or supervising, they may face liability for a problem that was actually the contractor's fault
+- Words have legal meaning in construction contracts
+- The correct language is OBSERVATION or CONSTRUCTION OBSERVATION
+- The words SUPERVISION, INSPECTION, and DIRECTION should be avoided when describing the landscape architect's construction phase role
+
+What the landscape architect looks for during a site observation:
+- Are the right materials being used?
+- Is work occurring in the right locations per the drawings?
+- Are dimensions and elevations consistent with the construction documents?
+- Are there any visible deficiencies — cracked concrete, improperly graded surfaces, damaged plants, missing elements?
+- Are there any conditions in the field that conflict with the contract documents and need to be resolved through an RFI or bulletin?
+- Is work proceeding in general conformance with the contract documents?
+
+When a deficiency is identified during a site observation:
+- It MUST be communicated to the contractor IN WRITING
+- A verbal comment to the contractor's superintendent is not sufficient documentation
+- The deficiency must be noted in the field report
+- If the contractor fails to correct a noted deficiency, the written field report is the evidence
+
+Critical legal principle: If the landscape architect observes a deficiency and fails to document it or bring it to the contractor's attention, this can be interpreted as TACIT ACCEPTANCE of the deficiency.
+- Silence in the face of known defects is not approval — but it creates ambiguity
+- That ambiguity can work against the owner and design team in subsequent disputes
+- Document EVERYTHING — every observation, every deficiency, every conversation about quality
+
+The landscape architect's primary role during construction observation:
+- Ensure that the work is proceeding in general conformance with the intent of the contract documents
+- Address change orders
+- Ensure specified means and methods are followed
+- NOT to ensure that contract labor laws are followed — that is the contractor's responsibility
+
+Construction observation techniques can be performed:
+- By an individual or firm as a result of on-site visits
+- OR by a full-time onsite project representative
+
+Observation techniques include:
+- Observing the installation of a project to assure compliance with the construction documents
+- Preparing change orders
+- Resolving site and design issues
+- Reviewing project submittals and making recommendations for approval or rejection
+- Preparing project documentation: daily reports, photography, field measurements, construction notification memos, bi-monthly summary reports, and meeting memos
+- Monitoring all independent testing with respect to material, compaction, and utilities to determine compliance with all applicable regulations
+- Preparing the punch list from outstanding work items discussed and filed confirmed
+- Informing the client if construction practices are contrary to the norm
+- Notifying the client of defects and deficiencies in the work of the contractor
+- Performing final review of the project
+
+================================================================================
+
+TOPIC: FIELD REPORTS
+
+A field report (also called site observation report or construction observation report):
+- Written record of each site observation visit
+- NOT optional — every site visit must result in a field report
+- Should be issued promptly after each visit — ideally within 24 to 48 hours
+- A field report written two weeks after the visit from memory is far less reliable and credible
+
+A complete field report must contain:
+- Date of the visit
+- Weather conditions — temperature, precipitation, and general site conditions
+- Names of ALL persons present — landscape architect, contractor's representatives, owner's representatives, any subcontractors encountered
+- Description of the work observed — what was being installed, what stage each element was at, apparent quality and conformance
+- List of any deficiencies observed — described with enough specificity to identify exactly what and where the problem is
+- Any verbal instructions given to the contractor during the visit — confirmed in writing through the field report or follow-up letter
+- Open items requiring follow-up — questions needing answers, items needing resubmittal, deficiencies needing correction
+- References to photographs taken during the visit
+
+Purposes field reports serve simultaneously:
+- Keep the owner informed about progress and quality of the work
+- Create a running written record of the project as it is built
+- Document the sequence of construction and conditions at each stage
+- Essential evidence if a dispute arises later — if a contractor claims they were never notified about a deficiency, the field report is the evidence
+- Demonstrate the landscape architect's professional diligence — that they were performing their contractual obligations
+
+A daily construction report is a written record of the day's activities:
+- Weather conditions
+- Work accomplished
+- Number of personnel for each trade involved
+- Equipment involved
+- Materials received
+- Visitors or inspectors present
+- Problems encountered
+
+================================================================================
+
+TOPIC: BONDS — ALL TYPES
+
+IMPORTANT: Bonds are guarantees of performance — they are NOT insurance.
+
+Every bond involves three parties:
+- The PRINCIPAL: the party with the obligation to perform — typically the contractor
+- The OBLIGEE: the party to whom the obligation is owed — typically the owner
+- The SURETY: the bonding company that guarantees the principal's performance to the obligee; if the principal fails, the surety steps in
+
+Bid bond:
+- Submitted with the contractor's bid during competitive bidding
+- Guarantees that if the contractor is the successful bidder, they WILL execute the contract and provide all required performance and payment bonds
+- Protects the owner from the situation where the low bidder refuses to sign the contract
+- Without a bid bond: owner has no recourse and must rebid the project
+- With a bid bond: owner can recover the difference between the defaulting bidder's price and the next lowest bid
+- Typically expressed as a percentage of the bid amount — commonly 5 or 10 percent
+- May also be provided as a certified check or cashier's check on smaller projects
+
+Performance bond:
+- Provided by the contractor AFTER contract award, as a condition of executing the contract
+- Guarantees the faithful performance of the contractor's obligations under the construction contract
+- Up to the face value of the bond
+- Protects the owner against contractor default
+- If contractor abandons project, goes bankrupt, fails to perform, or is terminated for cause: owner can make a claim against the performance bond
+- Surety's three options upon contractor default:
+  1. Find and pay a completion contractor to finish the work
+  2. Take over and complete the work itself
+  3. Pay the owner the cost of completion up to the bond amount
+- Performance bonds are typically written for 100 percent of the contract value
+- Continues in effect through the guarantee period after substantial completion
+- If contractor fails to honor warranty obligations during guarantee period, owner may have recourse against the performance bond
+
+Payment bond:
+- Also provided by the contractor as a condition of executing the contract
+- Guarantees that the contractor will pay ALL subcontractors, suppliers, and laborers
+- Addresses the mechanics lien risk for the owner
+
+Mechanics lien explained:
+- A legal claim that an unpaid subcontractor or supplier can file against the OWNER'S PROPERTY to secure payment
+- The scenario: owner pays general contractor in full; general contractor fails to pay subcontractors; subcontractors file liens against the owner's property
+- The owner has already paid but is now facing liens from parties they never contracted with
+- With a payment bond: the unpaid subcontractors and suppliers can make claims against the BOND rather than against the owner's property
+- The payment bond removes the owner's exposure to mechanics liens
+- Payment bonds protect two parties: the owner (from mechanics liens) and the subcontractors/suppliers (from an unpaying contractor)
+
+Surety bond general concept:
+- A three-party guarantee arrangement
+- Principal (contractor) has an obligation; obligee (owner) is owed the obligation; surety (bonding company) guarantees the obligation
+- If the principal fails to perform, the surety steps in
+- Bonds are NOT insurance — they are guarantees of performance
+
+Liquidated damages:
+- A specific dollar amount agreed upon in ADVANCE in the construction contract
+- Charged against the contractor for each CALENDAR DAY that project completion is delayed beyond the contract completion date
+- NOT a penalty — a pre-agreed estimate of the owner's actual costs of late completion
+- The daily rate must be reasonably tied to the owner's actual anticipated costs of delay
+
+Why liquidated damages exist:
+- Proving actual cost of delay in court is difficult, expensive, and time-consuming
+- Instead, parties agree at the outset on a daily rate representing a reasonable estimate of the owner's costs
+- May include: cost of extended construction management, delayed opening and lost revenue, ongoing financing costs, and other carrying costs
+
+For liquidated damages to be legally enforceable:
+- Must be a GENUINE PRE-ESTIMATE of anticipated damages
+- NOT an unreasonably high penalty designed to punish the contractor
+- Courts will NOT enforce a liquidated damages clause that functions as a penalty rather than compensation
+
+When liquidated damages stop accruing:
+- Typically at SUBSTANTIAL COMPLETION — when the owner can occupy and use the facility
+- After substantial completion, the owner has essentially received the use of the project
+
+Interaction with time extensions:
+- If the contractor is entitled to a time extension, the extension pushes back the contract completion date
+- This pushes back the point at which liquidated damages begin to accrue
+
+Retainage (also covered in File 4 — repeated here for completeness):
+- A percentage of each progress payment — typically 5 to 10 percent — withheld throughout construction
+- In the context of bonds and legal documents: Retainage is a percentage of the total bid which a contractor or subcontractor pays upon submitting a bid for work — it is considered insurance and a good faith tool
+- The money is held in escrow and paid back with interest when the contractor has fulfilled obligations under the terms of the agreement
+
+================================================================================
+
+TOPIC: INSURANCE TYPES IN CONSTRUCTION
+
+Insurance protects against risk — the insured pays premiums, and in exchange the insurer pays for covered losses.
+DISTINCTION: Insurance protects against risk. Bonds guarantee performance of a specific obligation.
+
+General liability insurance:
+- Carried by the CONTRACTOR
+- Protects against claims for bodily injury and property damage arising from the contractor's operations
+- If a member of the public is injured on or adjacent to the construction site due to contractor's negligence, general liability covers the claim
+- Contract documents specify minimum coverage limits
+
+Workers compensation insurance:
+- Required by law in virtually every state
+- Provides medical benefits and wage replacement to workers injured on the job regardless of fault
+- The contractor's responsibility
+- The landscape architect should verify this coverage through the contractor's certificate of insurance before construction begins
+
+Builder's risk insurance (course of construction insurance):
+- Covers the PROJECT ITSELF against physical loss during the construction period
+- Covered events: fire, theft, vandalism, wind, and other covered perils
+- Insures the physical structure as it is being built
+- Typically carried by the owner or the contractor — the contract should specify who is responsible
+
+Professional liability insurance (errors and omissions — EO insurance):
+- Carried by the LANDSCAPE ARCHITECT and other design professionals
+- Covers claims arising from professional negligence — errors or omissions in the design work that cause damages
+- Is CLAIMS-MADE — covers claims FILED during the policy period, not claims arising from events during the policy period
+- The landscape architect must maintain coverage CONTINUOUSLY, even after a project is complete, to be protected against claims that arise years later
+- Courts apply several types of standards of care to determine whether a design professional has carried out their responsibilities
+
+Certificate of insurance:
+- The landscape architect should request and review certificates of insurance from the contractor before authorizing the Notice to Proceed
+- Certificate should confirm: all required insurance types are in place, coverage limits meet contract requirements, owner and landscape architect are named as additional insureds where required
+
+Standards courts use to evaluate professional liability:
+- Specifications and performance guidelines contained in the contract
+- Application of a process-based standard focusing on the reasonableness of the process used to accomplish the client's objectives
+- Examination of the suitability of the finished product for its intended uses based on theory of implied or explicit warranty
+
+================================================================================
+
+TOPIC: CONSTRUCTION DELAYS AND THEIR CONSEQUENCES
+
+Three fundamental categories of construction delay:
+
+1. OWNER-CAUSED DELAYS:
+Definition: Delays that result directly from the owner's actions or inactions.
+
+Examples of owner-caused delays:
+- Owner fails to provide access to the site when promised
+- Owner fails to make a timely decision about a design change
+- Owner fails to return submittals or approve shop drawings within the required timeframe
+- Owner orders a work stoppage
+- Landscape architect (acting as owner's agent) fails to respond to RFIs in a timely manner
+
+Consequences of owner-caused delays:
+- Contractor is entitled to BOTH a contract duration extension AND additional compensation for delay costs
+- Contractor gets MORE TIME and MORE MONEY
+- Reasoning: if the contractor's work is delayed by actions of the owner, the contractor should not bear the financial cost
+
+Delay costs the contractor may recover for owner-caused delays:
+- Extended general conditions costs (job site trailer, temporary utilities, site supervision for extended duration)
+- Idle equipment costs for equipment that cannot be used during the delay period
+- Escalation costs if material prices have increased during the delay period
+- Extended home office overhead costs
+
+2. EXCUSABLE DELAYS (FORCE MAJEURE DELAYS):
+Definition: Delays caused by events beyond the control of EITHER the owner OR the contractor.
+
+Common examples of excusable delays:
+- Acts of God such as earthquakes, floods, and hurricanes
+- Unusually severe weather that goes beyond what could reasonably be anticipated for the region and season
+- Labor strikes by unions not employed on the project
+- Acts of government such as an embargo or unusual permit delays beyond the contractor's control
+- Epidemics or other extraordinary circumstances
+
+Consequences of excusable delays:
+- Contractor is entitled to a TIME EXTENSION ONLY
+- Contractor does NOT receive additional compensation for delay costs
+- Reasoning: neither party caused the delay, so neither should bear the financial consequences
+- The owner gets the extra time reflected in a longer schedule
+- The contractor does not incur liquidated damages for the extended duration
+
+Important nuance — what qualifies as excusable weather:
+- NOT every bad weather day qualifies
+- Ordinary seasonal rain, wind, and cold are foreseeable — the contractor is expected to account for these in their schedule
+- Only weather that is TRULY UNUSUAL — significantly beyond historical norms for that time and place — qualifies
+- The contractor must typically document weather events and compare them to historical averages
+
+3. CONTRACTOR-CAUSED DELAYS:
+Definition: Delays resulting from the contractor's own actions, inactions, or failures.
+
+Examples of contractor-caused delays:
+- Failure to order materials or equipment in time
+- Inadequate staffing for the scope of work
+- Poor coordination between subcontractors
+- Failure to submit required submittals on schedule
+- Subcontractor performance failures
+- Underestimating the complexity or duration of the work
+
+Consequences of contractor-caused delays:
+- Contractor is entitled to NEITHER a time extension NOR additional compensation
+- The contractor is expected to manage their own work
+- If contractor-caused delays push the project past the contract completion date, the owner may be entitled to assess LIQUIDATED DAMAGES for each day of delay
+
+Concurrent delays:
+- Delays caused simultaneously by both the owner and the contractor, or by the contractor and an excusable event
+- Among the most legally complex situations in construction contract administration
+- Makes it very difficult to apportion responsibility
+- The contractor may be entitled to a time extension for the owner-caused portion
+- May not be entitled to full delay costs if the contractor's own actions also contributed
+- Courts and arbitrators handle concurrent delay claims differently by jurisdiction and contract language
+- Best prevention: careful contemporaneous documentation of delay causes by both parties
+
+The contractor's duty to mitigate delay:
+- Even when a delay is owner-caused or excusable, the contractor has a duty to take REASONABLE STEPS to minimize the delay's impact
+- Cannot simply stop all work when a delay occurs
+- Must shift work to unaffected areas
+- Must resequence activities where possible
+- Must do everything reasonable to avoid amplifying the delay
+
+NOTICE OF DELAY requirement:
+- Most construction contracts require the contractor to provide written notice of a delay within a specified period — often within a few days of when the delay first occurs or becomes known
+- If the contractor fails to provide timely notice, they may WAIVE their right to a time extension or additional compensation
+- Even if the delay was legitimately the owner's fault
+- The notice requirement exists so the owner has an opportunity to investigate and potentially mitigate the delay
+
+================================================================================
+
+TOPIC: CONSTRUCTION ACCELERATION
+
+Three distinct types — know all three and be able to distinguish them:
+
+Actual acceleration:
+- An increase in the pace of construction that results from a specific WRITTEN DIRECTIVE from the owner
+- The owner explicitly tells the contractor to speed up
+- Typically results in additional cost to the contractor
+- Compensated through a change order
+
+Constructive acceleration:
+- An increase in the pace of construction NOT the result of an explicit directive — happens by inference or implication
+- The most common scenario: contractor submits a legitimate request for a time extension, owner denies the request; without a time extension, contractor is forced to speed up to meet the original deadline even though they should have been entitled to more time
+- The acceleration was CONSTRUCTIVE — forced on the contractor without a direct order
+- Can still entitle the contractor to additional compensation even though the owner never explicitly directed them to accelerate
+
+For a constructive acceleration claim to succeed, the contractor must typically demonstrate:
+- A valid excusable delay existed
+- The owner refused to extend the contract time
+- The contractor had to accelerate to avoid being in default
+
+Fast-tracking:
+- A project delivery and schedule strategy — NOT a type of construction acceleration
+- Refers to OVERLAPPING design and construction phases to compress the overall project schedule
+- Example: contractor begins foundation work while design of upper floors is still ongoing
+- NOT the same as speeding up the pace of construction — it is about overlapping phases
+
+================================================================================
+
+TOPIC: PROJECT CLOSEOUT — COMPLETE SEQUENCE
+
+The closeout process sequence:
+1. Contractor believes work is substantially complete and submits written notice to landscape architect
+2. Landscape architect conducts substantial completion inspection with contractor and owner
+3. Substantial completion is determined and punch list is prepared
+4. Contractor works through punch list items
+5. Contractor notifies landscape architect that all punch list items are addressed
+6. Landscape architect conducts final inspection
+7. Final completion is certified if all punch list items are satisfactorily resolved
+8. Close-out documents submitted
+9. Final lien waiver provided
+10. Remaining retainage released
+11. Final payment made
+
+Substantial completion:
+- The status of a project when it is sufficiently complete to be occupied and used by the owner for its intended purpose
+- Even if some minor work remains to be done
+- Does NOT mean everything is done — means the project is USABLE
+
+What happens at substantial completion:
+- The owner can begin occupying and using the project
+- The guarantee period BEGINS — the clock starts on contractor's warranty obligations
+- Liquidated damages STOP accruing — owner can no longer assess liquidated damages after substantial completion
+- A portion of retainage is typically released — often half — with remainder held until final completion
+- The owner assumes responsibility for insurance and utilities for occupied portions
+- A Notice of Substantial Completion is issued
+
+A Notice of Partial Completion:
+- Issued when the owner may desire to occupy a PORTION of a project
+- Local building officials conduct an inspection to determine if that portion meets all building codes and is safe to be occupied
+
+A Notice of Substantial Completion:
+- Issued by the local building officials when 95 percent of the construction is complete
+
+A Notice of Completion/Certificate of Occupancy:
+- Requested by the contractor/owner when the building is 100 percent complete
+- The project must pass a final inspection by local building officials
+
+The punch list:
+- A written list of all remaining work items requiring completion or correction before final completion
+- Prepared during the substantial completion inspection
+- The landscape architect and owner walk the project together and note every item requiring attention
+- Each item must be SPECIFIC and UNAMBIGUOUS — not "fix the planting" but "replace the dead Japanese maple at the northeast corner of the main entry plaza, approximately eight feet tall"
+
+Common punch list items in landscape architecture:
+- Plants that have died or are in poor health and need replacement
+- Missing plants that were specified but not installed
+- Finish defects in paving, walls, or structures that need repair
+- Incomplete or incorrect signage installation
+- Irrigation system adjustments needed for proper coverage
+- Missing or damaged site furnishings
+- Site cleanup items such as debris removal and grade repairs
+
+Final inspection:
+- Conducted by the landscape architect when the contractor believes all punch list items have been addressed
+- A walkthrough of the entire project specifically to verify every punch list item has been satisfactorily resolved
+- If all items are complete: the landscape architect certifies FINAL COMPLETION
+- If items are not satisfactorily addressed: the landscape architect should NOT certify final completion; contractor must continue working
+
+Final completion:
+- The status when ALL work including ALL punch list items has been completed in full conformance with the contract documents
+- This is the true end of the contractor's obligations under the construction contract
+
+What happens at final completion:
+- The remaining retainage (the half not released at substantial completion) is released
+- The final payment application is processed and paid
+- The contractor provides a final lien waiver
+- All required close-out documents are submitted
+- The contractor's obligation to perform work under the contract is complete
+
+Close-out documents the contractor must submit:
+1. As-built drawings (record drawings): show the project as actually constructed, incorporating all field changes made during construction
+   - Essential for future maintenance, repairs, and modifications
+   - The definitive record of what was built, where everything is located, and how it was constructed
+   - Failure to submit can be grounds for withholding final payment
+   - Different from shop drawings (submitted before fabrication) — as-builts are submitted after construction
+
+2. Operation and maintenance manuals (O&M manuals):
+   - Required for any systems installed — irrigation controllers, lighting panels, specialty equipment
+   - Include manufacturer's documentation, warranty information, recommended maintenance schedules, and troubleshooting guides
+   - Must be organized and submitted in a format the owner can actually use
+
+3. Warranties and guarantees:
+   - All manufacturer warranties for installed products transferred to the owner
+   - Contractor's own workmanship warranty confirmation
+   - Landscape architect compiles a warranty log listing every warranty, the covered product, duration, and contact information for claims
+
+4. Final lien waiver:
+   - Confirms that all subcontractors, suppliers, and laborers have been paid in full
+   - Confirms no mechanics liens are outstanding against the owner's property
+   - The owner's assurance that paying the final retainage will not expose them to unpaid claims from third parties
+
+The guarantee period (warranty period):
+- Typically ONE YEAR from substantial completion (may vary by contract)
+- During this period: contractor must return to the site and correct any defects or failures that become apparent
+- At no additional cost to the owner
+- If the owner discovers a defect: they notify the contractor in writing; contractor investigates and corrects
+- The guarantee period is NOT the same as manufacturer warranties — manufacturer warranties run independently on their own terms
+- The landscape architect assists during the guarantee period: evaluating defects, communicating claims to contractor, verifying corrections, tracking open items
+
+Commissioning:
+- The formal process of testing and verifying all equipment and systems at project completion
+- Confirms they operate as designed
+- Involves running systems under actual operating conditions and verifying performance against specifications
+- Examples: running irrigation system through all zones to verify coverage and flow, testing lighting for proper photometric performance
+- Distinct from QC which applies during document production
+- Commissioning happens AFTER construction is complete as part of closeout
+
+================================================================================
+
+TOPIC: CONSTRUCTION PROJECT MANAGEMENT — ROLES AND RESPONSIBILITIES
+
+The project manager (PM):
+- Leads the project team
+- Responsible for scope, schedule, and budget — the three legs of the project management triangle
+- When any of these changes, it typically affects the other two
+- Primary point of contact for the client
+- Responsible for: defining scope, planning work, directing work, coordinating with client, monitoring progress, and learning from outcomes
+
+The project controller:
+- Responsible for managing project finances
+- Works with the PM to keep the project financially on track
+- Tracks actual costs against budgeted costs
+- Monitors the rate at which budget is being consumed vs. work being produced
+- Identifies when a project is at risk of going over budget
+- Helps develop and implement budget recovery strategies
+- DISTINCT FROM the construction administrator — they are separate roles
+
+The construction administrator:
+- The landscape architect or firm representative who manages the construction administration phase
+- Period from contract execution through project closeout
+- Conducts site observations
+- Reviews and responds to RFIs
+- Processes submittals
+- Administers the change order process
+- Certifies pay applications
+- Manages the closeout process
+- Primary communications link between the design team and the contractor during construction
+- Does NOT administer or direct the contractor's labor
+- Does NOT tell the contractor's workers how to do their jobs
+
+Coordination with other disciplines:
+- Most landscape architecture projects involve coordination with civil engineers, structural engineers, mechanical engineers, electrical engineers, and architects
+- During construction administration, the landscape architect must coordinate to resolve conflicts between disciplines
+- Construction documents must coordinate with civil grading and utility plans, structural wall and foundation details, electrical site lighting, and other discipline work
+- Conflicts discovered during construction must be resolved promptly through RFI responses or bulletins
+
+OAC meetings (owner-architect-contractor meetings):
+- Regular coordination meetings held during construction
+- Typically monthly or biweekly
+- Attendees: owner, landscape architect, and contractor
+- Purpose: review schedule progress, address open RFIs and submittals, discuss upcoming work, identify and resolve conflicts before they delay construction
+- The landscape architect typically prepares the meeting agenda AND the meeting minutes
+
+Meetings during construction:
+- Job Start Meeting: occurs before starting work; introduces contractor personnel to other parties; reviews all requests for facilities; permits designers to review and interpret project documents
+- Facility Review: walk-through of all work areas with owner's representative; contractor describes specific work methods and proposed schedules; allows identification of areas of concern, desired installation, and time lines; review of important procedural and safety precautions
+- Weekly Project Meetings: designed to review the status of current and planned activities, the schedule, and to conduct other business associated with the project
+- Site Safety Meetings: attended by subcontractors or representation at the general contractor's weekly on-site safety meeting
+
+================================================================================
+
+TOPIC: PROFESSIONAL LIABILITY IN CONSTRUCTION ADMINISTRATION
+
+The landscape architect is liable for:
+- Errors and omissions in the construction documents (mistakes in drawings or specifications that cause the contractor to build something incorrectly)
+- Failures in construction administration (certifying payment for incomplete work, approving non-conforming submittals, failing to identify significant deficiencies during site observations)
+
+The landscape architect is generally NOT liable for:
+- The contractor's means and methods of construction
+- The contractor's safety practices on the job site
+- Dimensional errors in fabricated work not caught in submittal review — that remains the contractor's responsibility
+- Problems caused by the contractor's own negligence
+
+Why language in contracts and field reports matters:
+- Using words like "observation" instead of "inspection" accurately describes the role as assessment, not control
+- "Inspection" or "supervision" imply control over the contractor's work and can create liability
+- This is professional liability management, not just semantics
+
+The landscape architect's standard of care:
+- Courts have stated that design professionals have the obligation to exercise a reasonable degree of care, skill, and ability
+- This standard means any work done must be at least as good as the work of a competent person with average skills and experience in that type of work
+- Expert testimony is usually needed to establish this standard of care in legal proceedings
+- A design professional can limit liability to a client largely through the contract
+
+================================================================================
+
+TOPIC: SUSTAINABLE PRACTICES IN CONSTRUCTION ADMINISTRATION
+
+Landscape maintenance materials:
+- Edging: materials used to separate landscape areas from other areas and from other uses on the property; forms include treated wood, stone, concrete, or plastic
+- Weed barrier: woven fabric that inhibits growth of weeds in landscape areas
+- Mulch materials: act to condition the soil and inhibit growth of weeds
+- Ground cover materials: variety of materials used for covering fabric weed barrier; also a variety of mulch materials and rock materials
+- Root guard protection materials
+- Stepping stones and pavers
+
+Basic landscape maintenance practices:
+- Aeration: improving the gas and air exchange capabilities of soil being utilized for growing plant material
+- Fertilization: supplemental application of nutrients required in the soil for healthy and sustained plant growth
+- Mowing operations
+- Mulching: placement of organic material over a plant's root zone
+- Pest and disease control: minimizing or eliminating damaging insects, animals, and pathogens
+- Pruning: selective removal of foliage or branches from plant material
+- Soil amendments: any materials added to the soil to improve or maintain its texture, pH, or friability to encourage healthy plant growth
+- Trimming: removal of excess or unwanted turfgrass or similar plant material
+- Weed control: controlling or eliminating unwanted plant material
+
+Landscape maintenance techniques that should follow appropriate recommendations include:
+- Managing irrigation and runoff
+- Watering according to plant needs
+- Fertilizing according to a soil analysis
+- Pruning to shape a plant, to allow air circulation, or to remove dead, diseased, or damaged tissue
+- Aeration of mulched beds and turf areas
+- Mowing of lawn areas
+- Storing and disposing of gardening wastes properly
+- Mulching or other erosion control measures on exposed soils
+- Managing pesticide and herbicide use properly
+- Incorporating pest management techniques where appropriate
+
+================================================================================
+END OF REFERENCE FILE 5 — CONSTRUCTION ADMINISTRATION PART 2
+================================================================================
