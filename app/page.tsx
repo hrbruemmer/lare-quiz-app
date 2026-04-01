@@ -41,8 +41,8 @@ type RawQuestion = {
   type?: unknown;
 };
 
-const PROGRESS_KEY = "lare-quiz-progress-v5";
-const MISSED_KEY = "lare-quiz-missed-v1";
+const PROGRESS_KEY = "lare-quiz-progress-v7";
+const MISSED_KEY = "lare-quiz-missed-v3";
 
 function shuffleArray<T>(items: T[]): T[] {
   const arr = [...items];
@@ -137,6 +137,52 @@ function dedupeMissed(items: MissedQuestion[]): MissedQuestion[] {
   return Array.from(
     new Map(items.map((item) => [item.question.toLowerCase(), item])).values()
   );
+}
+
+function downloadTextFile(filename: string, content: string) {
+  const blob = new Blob([content], { type: "text/plain;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  URL.revokeObjectURL(url);
+}
+
+function buildStudyGuide(missedQuestions: MissedQuestion[]): string {
+  const lines: string[] = [];
+  lines.push("LARE STUDY GUIDE - MISSED QUESTIONS");
+  lines.push("");
+  lines.push(`Total missed questions saved: ${missedQuestions.length}`);
+  lines.push("");
+
+  missedQuestions.forEach((item, index) => {
+    lines.push(`${index + 1}. ${item.question}`);
+    lines.push("");
+    lines.push(`Type: ${item.multi ? "Select all that apply" : "Single answer"}`);
+    lines.push(`Correct answer: ${item.correctAnswer.join(", ")}`);
+    if (item.selectedAnswer.length) {
+      lines.push(`Your answer: ${item.selectedAnswer.join(", ")}`);
+    } else {
+      lines.push("Your answer: No answer selected");
+    }
+    lines.push("");
+    lines.push("Explanation:");
+    lines.push(item.explanation);
+    lines.push("");
+    lines.push("Options:");
+    item.options.forEach((option) => {
+      const isCorrect = item.correctAnswer.includes(option) ? " [CORRECT]" : "";
+      lines.push(`- ${option}${isCorrect}`);
+    });
+    lines.push("");
+    lines.push("------------------------------------------------------------");
+    lines.push("");
+  });
+
+  return lines.join("\n");
 }
 
 export default function Page() {
@@ -396,9 +442,7 @@ export default function Page() {
 
       setQuestions(cleanQuestions);
       setSecondsLeft(secondsPerQuestion);
-      setStatus(
-        `Generated ${cleanQuestions.length} questions from ${selectedTopic}.`
-      );
+      setStatus(`Generated ${cleanQuestions.length} questions from ${selectedTopic}.`);
     } catch {
       setStatus("Something went wrong while generating questions.");
     } finally {
@@ -431,6 +475,18 @@ export default function Page() {
     setMissedQuestions([]);
     window.localStorage.removeItem(MISSED_KEY);
     setStatus("Cleared missed questions.");
+  }
+
+  function handleDownloadStudyGuide() {
+    if (!missedQuestions.length) {
+      setStatus("No missed questions saved yet.");
+      return;
+    }
+
+    const guide = buildStudyGuide(dedupeMissed(missedQuestions));
+    const safeTopic = selectedTopic ? selectedTopic.replace(/[^\w\-]+/g, "_") : "general";
+    downloadTextFile(`lare_study_guide_${safeTopic}.txt`, guide);
+    setStatus("Downloaded study guide from missed questions.");
   }
 
   function toggleAnswer(option: string) {
@@ -588,6 +644,18 @@ export default function Page() {
                 </button>
 
                 <button
+                  onClick={handleDownloadStudyGuide}
+                  disabled={!missedQuestions.length}
+                  style={{
+                    ...styles.secondaryButton,
+                    opacity: missedQuestions.length ? 1 : 0.55,
+                    cursor: missedQuestions.length ? "pointer" : "default",
+                  }}
+                >
+                  Download Study Guide
+                </button>
+
+                <button
                   onClick={handleClearMissed}
                   disabled={!missedQuestions.length}
                   style={{
@@ -649,6 +717,16 @@ export default function Page() {
                 }}
               >
                 Review Missed ({missedQuestions.length})
+              </button>
+              <button
+                onClick={handleDownloadStudyGuide}
+                disabled={!missedQuestions.length}
+                style={{
+                  ...styles.secondaryButton,
+                  opacity: missedQuestions.length ? 1 : 0.55,
+                }}
+              >
+                Download Study Guide
               </button>
             </div>
           </div>
@@ -829,7 +907,7 @@ const styles: Record<string, CSSProperties> = {
     border: "none",
     background: "#2563eb",
     color: "white",
-    minWidth: 240,
+    minWidth: 220,
     boxShadow: "0 10px 20px rgba(37,99,235,0.22)",
   },
   secondaryButton: {

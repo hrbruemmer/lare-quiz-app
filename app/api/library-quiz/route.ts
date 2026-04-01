@@ -171,6 +171,7 @@ function dedupeByQuestion(items: QuestionPayload[]): QuestionPayload[] {
 function buildPrompt(args: {
   questionCount: number;
   requireMulti: number;
+  difficultyNote: string;
   selectedSegments: string[];
 }) {
   return `
@@ -183,6 +184,7 @@ Requirements:
 - Focus on important exam-relevant material.
 - Use plausible distractors.
 - Keep explanations short and useful.
+- ${args.difficultyNote}
 - Return valid JSON only.
 
 Return exactly this shape:
@@ -220,9 +222,13 @@ async function generateBatch(
 
   const selectedSegments = selectDistributedChunks(rotated, segmentCount);
 
+  const difficultyNote =
+    "Scale the difficulty upward slightly. Include some straightforward review questions, but also include harder scenario-based, comparative, or multi-step questions that require applying the material rather than just recalling definitions.";
+
   const prompt = buildPrompt({
     questionCount,
     requireMulti: Math.max(1, Math.round(questionCount * 0.4)),
+    difficultyNote,
     selectedSegments,
   });
 
@@ -287,9 +293,7 @@ export async function POST(req: Request) {
       const sampled = selectDistributedChunks(fileChunks, chunksPerFile);
 
       sampled.forEach((chunk, index) => {
-        perFileSegments.push(
-          `[FILE: ${file} | EXCERPT ${index + 1}]\n${chunk}`
-        );
+        perFileSegments.push(`[FILE: ${file} | EXCERPT ${index + 1}]\n${chunk}`);
       });
     }
 
