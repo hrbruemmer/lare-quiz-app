@@ -1,32 +1,34 @@
-// FINAL FIX - FORCE NODE RUNTIME (fixes DOMMatrix error)
+// FINAL FIX v3 - fixes TypeScript + runtime issues
 
 import fs from "fs";
 import path from "path";
 import OpenAI from "openai";
 
-// 🔴 CRITICAL FIX: force Node.js runtime (not Edge)
+// force Node runtime
 export const runtime = "nodejs";
 
+// correct import
 const pdfParse = require("pdf-parse");
 
 const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-function cleanText(text) {
+// ✅ FIX: add type
+function cleanText(text: string): string {
   return text.replace(/\s+/g, " ").trim();
 }
 
-function splitIntoChunks(text, size = 1200) {
-  const chunks = [];
+function splitIntoChunks(text: string, size: number = 1200): string[] {
+  const chunks: string[] = [];
   for (let i = 0; i < text.length; i += size) {
     chunks.push(text.slice(i, i + size));
   }
   return chunks;
 }
 
-function sampleChunks(chunks, count) {
-  const result = [];
+function sampleChunks(chunks: string[], count: number): string[] {
+  const result: string[] = [];
   const step = Math.floor(chunks.length / count) || 1;
   for (let i = 0; i < chunks.length && result.length < count; i += step) {
     result.push(chunks[i]);
@@ -34,14 +36,16 @@ function sampleChunks(chunks, count) {
   return result;
 }
 
-export async function POST(req) {
+export async function POST(req: Request) {
   try {
-    const { topic, questionCount = 10 } = await req.json();
+    const body = await req.json();
+    const topic: string = body.topic;
+    const questionCount: number = body.questionCount || 10;
 
     const folderPath = path.join(process.cwd(), "library", topic);
-    const files = fs.readdirSync(folderPath).filter(f => f.endsWith(".pdf"));
+    const files = fs.readdirSync(folderPath).filter((f: string) => f.endsWith(".pdf"));
 
-    let fullText = "";
+    let fullText: string = "";
 
     for (const file of files) {
       const buffer = fs.readFileSync(path.join(folderPath, file));
@@ -87,7 +91,7 @@ ${sampled.join("\n---\n")}
     const json = JSON.parse(text);
 
     return Response.json(json);
-  } catch (e) {
+  } catch (e: any) {
     return Response.json({ error: e.message });
   }
 }
